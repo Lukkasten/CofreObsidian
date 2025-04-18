@@ -21,7 +21,7 @@
 - Demandar junto ao Coordenador soluções para inconformidades
 - Assistência à Coordenação no cumprimento de metas e esclarecimento de dúvidas da equipe
   
-  ###### **Representação e Análise Financeira/Tributária
+  ###### **Representação e Análise Financeira/Tributária.
   
   - Representação da empresa junto a órgãos e clientes, quando necessário
 - ==Análise do Balanço Patrimonial==
