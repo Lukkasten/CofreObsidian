@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ll-control-contabilidade/historico/papeldo-analista/","dgPassFrontmatter":true}
+{"cssClasses":null,"dg-publish":true,"permalink":"/ll-control-contabilidade/historico/papeldo-analista/","dgPassFrontmatter":true}
 ---
 
 
