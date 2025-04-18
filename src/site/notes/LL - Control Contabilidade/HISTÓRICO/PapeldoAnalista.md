@@ -34,3 +34,5 @@
 - Envio anual de Livro Diário, Balanço Patrimonial, DRE e Indicadores Financeiros (JUCEC)
 - Fornecimento de informações/relatórios para bancos e outros órgãos
 - Realização de autenticação do Livro Diário na JUCEC
+
+TESTE
