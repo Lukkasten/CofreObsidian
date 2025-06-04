@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/setor-contabil/2-areas/g-evidence-evidence-solucoes/","dgPassFrontmatter":true}
 ---
 
+![[Operacional Evidence.xlsx]]
+
 
 
 
