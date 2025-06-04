@@ -3,8 +3,6 @@
 ---
 
 
-
-
 ## **1. Introdução**
 
 Este documento apresenta o modelo de trabalho híbrido a ser implementado na Departamento Contábil, com o objetivo de alinhar produtividade, bem-estar da equipe, qualidade no atendimento ao cliente e eficiência nos processos internos.
@@ -37,7 +35,7 @@ Para garantir a manutenção da qualidade e compromisso com os clientes, o model
 
 ### **3.2 Banco de Horas**
 
-Será implementado um sistema de controle de banco de horas para compensação de eventuais períodos de trabalho além do horário padrão.
+Preservar o horário de trabalho de 08:00 às 18:00
 
 ### **3.3 Comunicação Interna**
 
@@ -45,7 +43,9 @@ Fortalecer a comunicação entre analistas e assistentes, utilizando ferramentas
 
 ### **3.4 Divisão de Dias em Casa**
 
-Os dias de home office serão organizados de forma rotativa entre os membros da equipe, respeitando as necessidades operacionais e os acordos individuais.
+Segunda e Sexta - Equipe 1
+Quarta-Feira - Todos no escritório
+Terça de Quinta - Equipe 2
 
 ---
 
