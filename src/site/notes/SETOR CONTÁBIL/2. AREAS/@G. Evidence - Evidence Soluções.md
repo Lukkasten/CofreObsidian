@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/setor-contabil/2-areas/g-evidence-evidence-solucoes/","dgPassFrontmatter":true}
 ---
 
-![[Operacional Evidence.xlsx]]
-
 
 
 
@@ -12,7 +10,9 @@
 (14:39) Marcos Carvalho - 7580: Z:\CONTABIL-FISCAL\GRUPOS\GRUPO EVIDENCE\- ENERGIA
 > Contents
 
+![[Operacional Evidence.xlsx]]
 
+![Pasted image 20250604154334.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250604154334.png)
 
 
 
