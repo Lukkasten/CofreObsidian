@@ -3,4 +3,8 @@
 ---
 
 
-Levar o conhecimento amplo de  como funciona os processos no setor contábil [[LL - Control Contabilidade/HISTÓRICO/202407031342_Tarefas_Padrão_Contábil\|202407031342_Tarefas_Padrão_Contábil]], [[LL - Control Contabilidade/HISTÓRICO/202504091631_Estrutura do Setor.excalidraw\|202504091631_Estrutura do Setor.excalidraw]]
+Levar o conhecimento amplo de  como funciona os processos no setor contábil.
+
+
+[[Tarefas_Padrão_Contábil\|Tarefas_Padrão_Contábil]]
+[[Estrutura do Setor.excalidraw\|Estrutura do Setor.excalidraw]]
