@@ -3,6 +3,6 @@
 ---
 
 
-Essa página visa disseminar o conhecimento a respeito das práticas do setor contábil.
+Essa página visa disseminar o conhecimento a respeito das práticas do setor contábil..
 
 [[LL - Control Contabilidade/HISTÓRICO/Tarefas_Padrão_Contábil\|Tarefas_Padrão_Contábil]]
