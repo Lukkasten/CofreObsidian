@@ -21,7 +21,6 @@ Para garantir a manutenção da qualidade e compromisso com os clientes, o model
     
 - **Acompanhamento**: Monitoramento contínuo das atividades e desempenho da equipe.
     
-
 ---
 
 ## **3. Aspectos em Desenvolvimento**
