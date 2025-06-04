@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/ll-control-contabilidade/historico/tarefas-padrao-contabil/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/ll-control-contabilidade/historico/tarefas-padrao-contabil/","dgPassFrontmatter":true}
 ---
 
 
