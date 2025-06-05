@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/tarefas-padrao-contabil/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/tarefas-padrao-contabil/","dgPassFrontmatter":true,"created":"2024-07-15T17:31:26.265-03:00","updated":"2025-06-03T22:46:04.266-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/estoque/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/estoque/","dgPassFrontmatter":true,"created":"2025-06-05T15:43:03.134-03:00","updated":"2025-06-05T15:51:30.133-03:00"}
 ---
 
 **MÉDIA DO CUSTO EM RELAÇÃO AO FATURAMENTO EM:**

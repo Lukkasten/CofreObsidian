@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/1-projetos/implementacao-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/setor-contabil/1-projetos/implementacao-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"created":"2025-06-03T23:37:20.721-03:00","updated":"2025-06-04T08:37:18.384-03:00"}
 ---
 
 

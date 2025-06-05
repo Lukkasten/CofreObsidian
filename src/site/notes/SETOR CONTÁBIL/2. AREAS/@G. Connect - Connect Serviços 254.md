@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/g-connect-connect-servicos-254/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/g-connect-connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-04T15:35:53.533-03:00"}
 ---
 
 
