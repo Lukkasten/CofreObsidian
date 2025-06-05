@@ -5,3 +5,4 @@
 
 Essa página visa disseminar o conhecimento a respeito das práticas do setor contábil..
 
+Inicialmente todo início de mês o checklist é enviado e depois comferido 
