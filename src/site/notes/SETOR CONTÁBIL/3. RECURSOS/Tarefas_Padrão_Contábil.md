@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/tarefas-padrao-contabil/","dgPassFrontmatter":true,"created":"2024-07-15T17:31:26.265-03:00","updated":"2025-06-03T22:46:04.266-03:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/tarefas-padrao-contabil/","dgPassFrontmatter":true,"created":"2024-07-15T17:31:26.265-03:00","updated":"2025-06-05T16:05:18.651-03:00"}
 ---
 
 
@@ -36,7 +36,7 @@
 - [ ] REGISTRAR/CONFERIR - NFSE (PRESTADORA)
 - [ ] INTEGRAR/CONFERIR - PATRIMÔNIO
 - [ ] CONFERIR - PROVISÃO DE IMPOSTOS
-- [ ] APURAR - CUSTO DA MERCADORIA/SERVIÇOS
+- [ ] APURAR - CUSTO DA MERCADORIA/SERVIÇOS [[SETOR CONTÁBIL/3. RECURSOS/ESTOQUE\|ESTOQUE]]
 - [ ] GUIA - IRPJ/CSLL - LUCRO REAL - MENSAL (Aprovação Necessária)
 - [ ] GUIA - IRPJ/CSLL - LUCRO REAL - TRIMESTRAL (Aprovação necessária)
 - [ ] GUIA - PIS/COFINS - NÃO CUMULATIVO (Aprovação necessária)
