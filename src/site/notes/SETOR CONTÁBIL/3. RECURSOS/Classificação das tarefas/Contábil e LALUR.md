@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-05T22:54:39.290-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-05T23:27:34.795-03:00"}
 ---
 
 
@@ -16,4 +16,21 @@ Abrange a escrituração contábil, apuração de resultados e preenchimento do 
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas padronizadas\|Tarefas padronizadas]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Envio de checklist mensal via script\|Envio de checklist mensal via script]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Registrar taxas cartão de crédito\|Registrar taxas cartão de crédito]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Lanç. a identificar - Envio\|Lanç. a identificar - Envio]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/ECD E ECF\|ECD E ECF]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/IBGE\|IBGE]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Importar conferir - contas pagas\|Importar conferir - contas pagas]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Conciliar conferir - juros s  empréstimos\|Conciliar conferir - juros s  empréstimos]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Conferir - Impostos Pagos Conforme ECAC\|Conferir - Impostos Pagos Conforme ECAC]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
+    
+-  Solicitar/Contabilizar - Documentos Físicos ==(**Workflow**)==
+    
+    - Etapa 1: Doc Caixa - Solicitação ⏬ Responsável
+    - Etapa 2: Doc Caixa - Recebimento ⏬ Analista
+    - Etapa 3: Doc Caixa - Contabilizar ⏬ Responsável
+    - Etapa 4: Caixa - Devolução ⏬ Analista

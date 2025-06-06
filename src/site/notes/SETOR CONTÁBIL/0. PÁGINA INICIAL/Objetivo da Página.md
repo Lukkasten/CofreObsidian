@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-05T22:51:45.944-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-05T22:56:22.679-03:00"}
 ---
 
 
