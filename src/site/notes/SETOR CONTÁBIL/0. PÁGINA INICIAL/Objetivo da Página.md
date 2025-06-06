@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-05T22:56:22.679-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-05T23:36:58.996-03:00"}
 ---
 
 
@@ -10,6 +10,5 @@ Com base na minha experiência acumulada ao longo dos ano, identifiquei que as a
 3. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Folha de Pagamento\|Folha de Pagamento]] 
 4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
 
-Cada uma dessas áreas engloba diversas tarefas específicas, que serão detalhadas a seguir.
 
 
