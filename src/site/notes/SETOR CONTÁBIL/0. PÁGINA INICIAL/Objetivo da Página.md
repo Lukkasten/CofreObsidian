@@ -12,5 +12,5 @@ Com base na minha experiência acumulada ao longo dos ano, identifiquei que as a
 
 Aqui será o ponto de partida para os novos membros da equipe!
 
-![Pasted image 20250605235419.png|600](/img/user/Pasted%20image%2020250605235419.png)
+![Pasted image 20250605235419.png|600](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250605235419.png)
 
