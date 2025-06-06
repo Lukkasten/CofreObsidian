@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-05T22:50:26.963-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-05T22:54:39.290-03:00"}
 ---
 
 
@@ -16,4 +16,4 @@ Abrange a escrituração contábil, apuração de resultados e preenchimento do 
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas_Padrão_Contábil\|Tarefas_Padrão_Contábil]]
+[[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas padronizadas\|Tarefas padronizadas]]

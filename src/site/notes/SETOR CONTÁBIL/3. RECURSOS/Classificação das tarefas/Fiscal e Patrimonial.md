@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/fiscal-e-patrimonial/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:36.442-03:00","updated":"2025-06-05T22:50:55.633-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/fiscal-e-patrimonial/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:36.442-03:00","updated":"2025-06-05T22:55:01.714-03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ Envolve o cumprimento das obrigações fiscais (federais, estaduais e municipais
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas_Padrão_Contábil\|Tarefas_Padrão_Contábil]]
+[[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas padronizadas\|Tarefas padronizadas]]

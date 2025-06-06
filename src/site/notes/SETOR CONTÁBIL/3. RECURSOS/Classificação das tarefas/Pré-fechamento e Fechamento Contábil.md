@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-06-05T22:48:31.507-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-06-05T22:55:11.137-03:00"}
 ---
 
 
@@ -14,4 +14,4 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas_Padrão_Contábil\|Tarefas_Padrão_Contábil]]
+[[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas padronizadas\|Tarefas padronizadas]]

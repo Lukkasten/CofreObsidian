@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/folha-de-pagamento/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-05T22:51:17.832-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/folha-de-pagamento/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-05T22:54:51.665-03:00"}
 ---
 
 
@@ -14,6 +14,6 @@ Inclui o processamento da folha, encargos trabalhistas, obrigações acessórias
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas_Padrão_Contábil\|Tarefas_Padrão_Contábil]]
+[[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas padronizadas\|Tarefas padronizadas]]
 
 
