@@ -14,7 +14,7 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas padronizadas\|Tarefas padronizadas]]
+[[Tarefas padronizadas\|Tarefas padronizadas]]
 
 ###### 3) FECHAMENTO DO BALANÇO  (==Workflow==)
 
