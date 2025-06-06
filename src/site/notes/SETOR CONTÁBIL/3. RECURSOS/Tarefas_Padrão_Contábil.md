@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/tarefas-padrao-contabil/","dgPassFrontmatter":true,"created":"2024-07-15T17:31:26.265-03:00","updated":"2025-06-05T22:09:37.649-03:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/setor-contabil/3-recursos/tarefas-padrao-contabil/","dgPassFrontmatter":true,"created":"2024-07-15T17:31:26.265-03:00","updated":"2025-06-05T22:47:26.634-03:00"}
 ---
 
 
@@ -31,7 +31,7 @@
 
 ---
 
-- [ ] INTEGRAR/CONFERIR - FOLHA
+- [ ] INTEGRAR/CONFERIR - FOLHA 
 - [ ] INTEGRAR/CONFERIR - ESCRITA FISCAL
 - [ ] REGISTRAR/CONFERIR - NFSE (PRESTADORA)
 - [ ] INTEGRAR/CONFERIR - PATRIMÔNIO
