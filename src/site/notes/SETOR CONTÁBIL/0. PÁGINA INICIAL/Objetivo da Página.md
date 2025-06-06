@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-05T23:58:14.734-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-06T12:26:11.676-03:00"}
 ---
 
-Com base na minha experiência acumulada ao longo dos ano, identifiquei que as atividades do setor contábil podem ser organizadas em cinco grandes áreas, conforme a seguir:
+Com base na minha experiência acumulada ao longo dos anos, identifiquei que as atividades do setor contábil podem ser organizadas em cinco grandes áreas, conforme a seguir:
 
 1. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Contábil e LALUR\|Contábil e LALUR]]    
 2. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Fiscal e Patrimonial\|Fiscal e Patrimonial]] 
