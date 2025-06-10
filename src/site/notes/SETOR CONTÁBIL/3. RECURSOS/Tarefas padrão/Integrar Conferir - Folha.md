@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:10:04.262-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:10:54.541-03:00"}
 ---
 
 
@@ -16,7 +16,7 @@ Sempre deixar o INSS a Recolher em conformidade com a DCTFWEB no Período.
 
 ###### 1. Política Adotada
 
-A empresa **não realiza provisões mensais** para as obrigações trabalhistas, como:
+Nossa prática no setor contábil é **não realiza provisões mensais** para as obrigações trabalhistas, como:
 
 * 1/3 constitucional de férias;
 * 13º salário (gratificação natalina);
