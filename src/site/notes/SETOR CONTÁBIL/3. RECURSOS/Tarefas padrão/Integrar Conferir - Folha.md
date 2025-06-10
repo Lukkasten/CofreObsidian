@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:13:56.409-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:18:34.063-03:00"}
 ---
 
 **Resumo:** 
-Inclui o processamento da folha, encargos trabalhistas, obrigações acessórias relacionadas ao eSocial e demais rotinas do departamento pessoal.
+Inclui o processamento da folha, encargos trabalhistas, obrigações acessórias relacionadas ao **E-social** e demais rotinas do departamento pessoal.
 
 ---
 **Nota 1:**
@@ -20,7 +20,7 @@ Nossa prática no setor contábil é **não realiza provisões mensais** para as
 
 Essas obrigações são reconhecidas **integralmente no momento da ocorrência do fato gerador**, conforme descrito a seguir.
 
-
+---
 
 **Conexões:**
 
