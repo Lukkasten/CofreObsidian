@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-09T22:58:34.279-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-09T22:58:37.409-03:00"}
 ---
 
 
