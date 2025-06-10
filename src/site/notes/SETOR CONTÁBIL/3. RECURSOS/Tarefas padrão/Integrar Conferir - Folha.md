@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:08:05.025-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:10:04.262-03:00"}
 ---
 
 
@@ -7,12 +7,12 @@
 Inclui o processamento da folha, encargos trabalhistas, obrigações acessórias relacionadas ao eSocial e demais rotinas do departamento pessoal.
 
 ---
+**Nota 1:**
 
-**Nota:**
+Sempre deixar o INSS a Recolher em conformidade com a DCTFWEB no Período.
 
+**Nota 2:**
 
-> [!NOTE] INSS a Recolher
-> Deixar sempre o INSS a Recolher em conformidade com a DCTFWEB.
 
 ###### 1. Política Adotada
 
