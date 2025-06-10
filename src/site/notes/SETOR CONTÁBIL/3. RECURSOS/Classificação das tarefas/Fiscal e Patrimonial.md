@@ -15,11 +15,11 @@ Envolve o cumprimento das obrigações fiscais (federais, estaduais e municipais
 
 **Conexões:**
 
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Registrar Conferir - NSE Prestadora\|Registrar Conferir - NSE Prestadora]]
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Integrar Conferir - Patrimônio\|Integrar Conferir - Patrimônio]]
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Conferir - Provisão De Impostos\|Conferir - Provisão De Impostos]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Registrar Conferir - NSE Prestadora\|Registrar Conferir - NSE Prestadora]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Patrimônio\|Integrar Conferir - Patrimônio]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Provisão De Impostos\|Conferir - Provisão De Impostos]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Estoque, CMV/Apurar - Custo da Mercadoria Serviço\|Apurar - Custo da Mercadoria Serviço]]
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Guia - Irpj Csll - Lucro Real - Trimestral\|Guia - Irpj Csll - Lucro Real - Trimestral]]
--  [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - Irpj Csll - Lucro Real - Trimestral\|Guia - Irpj Csll - Lucro Real - Trimestral]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]

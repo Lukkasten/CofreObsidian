@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-09T22:09:03.848-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-09T23:09:01.754-03:00"}
 ---
 
 
@@ -8,14 +8,12 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 
 1. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Contábil e LALUR\|Contábil e LALUR]]    
 2. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Fiscal e Patrimonial\|Fiscal e Patrimonial]] 
-3. [[SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Integrar Conferir - Folha\|SETOR CONTÁBIL/3. RECURSOS/tarefas padrão/Integrar Conferir - Folha]] 
+3. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Contábil e LALUR\|Contábil e LALUR]]
 4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
 5. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
 Aqui será o ponto de partida para os novos membros da equipe!
 
+
 **By: Lucas Rebouças**
-
-
-
 
