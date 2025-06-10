@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-05T23:49:27.367-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-06T14:39:19.477-03:00"}
 ---
 
 
@@ -32,3 +32,12 @@ ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
     19) Fazer a PERCOMP WEB;
     20) Anexar PERCOMP ( PDF Pedido e PDF Recibo), aqui na tarefa;
     21) Verificar se todos os emails (destinatários)  estão anexados na tarefa, após a conclusão, a tarefa será enviada para o email do cliente, inclusive, os arquivos anexados;
+
+
+
+
+11363
+11366
+11369
+
+![Pasted image 20250606143910.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250606143910.png)

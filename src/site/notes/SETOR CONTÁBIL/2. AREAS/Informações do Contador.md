@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/informacoes-do-contador/","dgPassFrontmatter":true,"created":"2025-06-05T16:22:08.261-03:00","updated":"2025-06-05T17:04:51.824-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/informacoes-do-contador/","dgPassFrontmatter":true,"created":"2025-06-05T16:22:08.261-03:00","updated":"2025-06-05T17:05:00.240-03:00"}
 ---
 
 
