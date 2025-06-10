@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:10:54.541-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:00.256-03:00","updated":"2025-06-10T13:11:35.134-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Inclui o processamento da folha, encargos trabalhistas, obrigações acessórias
 ---
 **Nota 1:**
 
-Sempre deixar o INSS a Recolher em conformidade com a DCTFWEB no Período.
+Sempre deixar o INSS a Recolher em conformidade com a **DCTFWEB** no Período.
 
 **Nota 2:**
 
@@ -41,26 +41,6 @@ Essas obrigações são reconhecidas **integralmente no momento da ocorrência d
   * Reconhecidas **integralmente no momento da concessão** das férias ao colaborador.
 
 * * *
-
-###### 4. Lançamentos Contábeis
-
-###### a) 13º Salário – Exemplo (2ª parcela em 20/12):
-
-    D – Despesa com 13º Salário                             (Resultado)
-        C – Obrigações a Pagar – 13º Salário               (Passivo Circulante)
-
-###### b) Férias – No momento da concessão:
-
-    D – Despesa com Férias + 1/3 Constitucional            (Resultado)
-        C – Obrigações a Pagar – Férias                    (Passivo Circulante)
-
-* * *
-
-###### 5. Justificativa Técnica
-
-A prática está fundamentada na opção de **reconhecimento pelo regime de competência** apenas no momento do fato gerador, conforme entendimento aceito para entidades que **optam por não realizar provisões mensais**, desde que o reflexo esteja adequadamente evidenciado nas demonstrações contábeis.
-
----
 
 **Conexões:**
 
