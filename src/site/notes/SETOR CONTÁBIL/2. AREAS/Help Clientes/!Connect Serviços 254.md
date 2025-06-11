@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-09T23:13:15.882-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-04T00:13:36.720-03:00"}
 ---
 
 
