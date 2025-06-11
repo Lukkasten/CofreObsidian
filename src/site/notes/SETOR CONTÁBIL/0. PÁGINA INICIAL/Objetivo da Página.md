@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-10T20:46:32.283-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-10T22:47:53.024-03:00"}
 ---
 
 
@@ -15,3 +15,7 @@ Aqui será o ponto de partida para os novos membros da equipe!
 
 **By: Lucas Rebouças**
 
+
+
+
+[[COMUNICADO PIX.pdf]]
