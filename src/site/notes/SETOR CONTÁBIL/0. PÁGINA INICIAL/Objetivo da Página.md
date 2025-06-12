@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-11T21:41:28.993-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-11T23:18:05.407-03:00"}
 ---
 
 
@@ -13,6 +13,8 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 
 Aqui será o ponto de partida para os novos membros da equipe!
 
+“ A Contabilidade é a linguagem dos negócios”
+
 **By: Lucas Rebouças**
 
-![52e3b34bc570e6f1506523197fd521e3.jpg|900](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/52e3b34bc570e6f1506523197fd521e3.jpg)
+![52e3b34bc570e6f1506523197fd521e3.jpg](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/52e3b34bc570e6f1506523197fd521e3.jpg)
