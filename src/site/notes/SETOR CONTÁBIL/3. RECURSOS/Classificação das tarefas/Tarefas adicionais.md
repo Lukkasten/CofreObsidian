@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-11T16:06:50.074-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-12T09:27:18.951-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@ ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
     4) Assim que o cliente autorizar, dar entrada no processo da JUCEC;
     5) Uma vez deferido na JUCEC, enviar  Balanço Autenticado, via email para o cliente ( Utilizar emails anteriores como modelo);
     6) Anexar os documentos gerados aqui na tarefa. ;)
-**AUTENTICAR LIVRO DIARIO - JUCEC**
+**[[AUTENTICAR LIVRO DIARIO - JUCEC\|AUTENTICAR LIVRO DIARIO - JUCEC]]**
     7) Enviar DAES para email do cliente (utilizar emails anteriores como modelo);
     8) Emitir Livro Diário (Incluir Balanço sintético, DRE sintética, Balancete Contábil analítico, Plano de contas);
     9) Enviar email para o cliente, (anexar o Livro Diário no email) solicitando autorização para autenticação na JUCEC ( utilizar emails anteriores como modelo)
