@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-11T07:57:58.100-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-11T21:41:28.993-03:00"}
 ---
 
 
@@ -15,4 +15,4 @@ Aqui será o ponto de partida para os novos membros da equipe!
 
 **By: Lucas Rebouças**
 
-![52e3b34bc570e6f1506523197fd521e3.jpg](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/52e3b34bc570e6f1506523197fd521e3.jpg)
+![52e3b34bc570e6f1506523197fd521e3.jpg|900](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/52e3b34bc570e6f1506523197fd521e3.jpg)
