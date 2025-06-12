@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-06-11T17:45:34.406-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-06-12T17:27:33.157-03:00"}
 ---
+
+
+**Spark** - !RaulFeitosa!
+**Quinta-feira, 12 Junho 2025**
+(16:08) lucas: Doutor, boa tarde!
+(16:09) lucas: Sempre que o responsável no fiscal pelo grupo Connect for fazer os processos do MIT é necessário que ele vincule os créditos da compensação feita via PERDCOMP.
+(16:09) lucas: Nesse caso, tem as competências 01/2025, 02/2025, 03/2025 e 04/2025 para ser feito esse processo. Aí tu fala com a sua equipe para fazer essa vinculação, pois não está feita lá.
+(16:10) lucas: Se ficar com dúvidas, favor me avisar!
+
 
 
 
