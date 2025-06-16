@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T13:56:52.767-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T14:12:45.316-03:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Provisão De Impostos\|Conferir - Provisão De Impostos]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Estoque, CMV/Apurar - Custo da Mercadoria Serviço\|Apurar - Custo da Mercadoria Serviço]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
-- [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento Contábil\|Pré-fechamento Contábil]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]]
 
 
 
