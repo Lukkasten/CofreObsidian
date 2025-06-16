@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:02:21.355-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:03:44.972-03:00"}
 ---
 
 
 **ASSISTENTE CONTÁBIL**
-
-
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Envio de checklist mensal via script\|Envio de checklist mensal via script]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Registrar taxas cartão de crédito\|Registrar taxas cartão de crédito]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Lanç. a identificar - Envio\|Lanç. a identificar - Envio]]
@@ -53,4 +51,7 @@
 
 **COORDENADOR CONTÁBIL**
 
-Em construção
+2. Fazer a Gestão referente aos cadastros e tabelas do sistema, em especial tarefas da equipe no Onvio, e parametrizações do sistema Contábil;
+3. 
+4. 
+5. Em construção
