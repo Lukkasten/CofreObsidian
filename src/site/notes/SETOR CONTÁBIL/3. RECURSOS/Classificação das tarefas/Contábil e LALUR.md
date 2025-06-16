@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-10T20:46:36.384-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-16T11:25:58.799-03:00"}
 ---
 
 
@@ -28,6 +28,7 @@ Abrange a escrituração contábil, apuração de resultados e preenchimento do 
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Impostos Pagos Conforme ECAC\|Conferir - Impostos Pagos Conforme ECAC]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Nota de débito\|Nota de débito]]
     
 -  Solicitar/Contabilizar - Documentos Físicos ==(**Workflow**)==
     
