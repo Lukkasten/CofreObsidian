@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-16T11:54:03.455-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-16T11:56:02.856-03:00"}
 ---
 
 #### **Bem-vindos, membros da equipe contábil!**
@@ -11,7 +11,7 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 1. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Contábil e LALUR\|Contábil e LALUR]]    
 2. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Fiscal e Patrimonial\|Fiscal e Patrimonial]] 
 3. [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
-4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
+4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento Contábil\|Pré-fechamento Contábil]] 
 5. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
 Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual seus [[SETOR CONTÁBIL/3. RECURSOS/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe.

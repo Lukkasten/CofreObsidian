@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/fiscal-e-patrimonial/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:36.442-03:00","updated":"2025-06-16T11:26:11.437-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/fiscal-e-patrimonial/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:36.442-03:00","updated":"2025-06-16T11:57:07.184-03:00"}
 ---
 
 
@@ -21,6 +21,6 @@ Envolve o cumprimento das obrigações fiscais (federais, estaduais e municipais
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Provisão De Impostos\|Conferir - Provisão De Impostos]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Estoque, CMV/Apurar - Custo da Mercadoria Serviço\|Apurar - Custo da Mercadoria Serviço]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - Irpj Csll - Lucro Real - Trimestral\|Guia - Irpj Csll - Lucro Real - Trimestral]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Trimestral\|Guia - IRPJ CSLL - Lucro Real - Trimestral]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Nota de débito\|Nota de débito]]
