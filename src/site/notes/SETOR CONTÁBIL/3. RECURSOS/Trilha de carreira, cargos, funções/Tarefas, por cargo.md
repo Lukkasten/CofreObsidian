@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:57:55.427-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T13:56:52.767-03:00"}
 ---
 
 
@@ -23,6 +23,9 @@
 
 
 **ANALISTA CONTÁBIL**
+
+- Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos
+- [[Direcionar emails recebidos\|Direcionar emails recebidos]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
