@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-16T13:26:15.490-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-16T13:30:01.532-03:00"}
 ---
 
 #### **Bem-vindos, membros da equipe contábil!**
@@ -14,13 +14,13 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento Contábil\|Pré-fechamento Contábil]] 
 5. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
-Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[SETOR CONTÁBIL/3. RECURSOS/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do Onvio e apresentada no formato de dashboards
+Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[SETOR CONTÁBIL/3. RECURSOS/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do Onvio e apresentada no formato de dashboards.
 
 
 **Este espaço digital harmoniza três conceitos fundamentais:**  
-1. O **[lugar-comum](https://pt.wikipedia.org/wiki/Lugar-comum)** como repositório de ideias compartilhadas  
+1. O **[lugar-comum]()** como repositório de ideias compartilhadas  
 2. O *jardim digital* para cultivo de pensamentos em crescimento  
-3. O método **[PARA](https://fortelabs.com/blog/para/)** (do livro **[Criando um Segundo Cérebro](https://fortelabs.co/books/building-a-second-brain/)**) integrado ao **[Zettelkasten](https://zettelkasten.de/introduction/pt/)** para organização do conhecimento.  
+3. O método **[PARA]()** (do livro **[Criando um Segundo Cérebro]()**) integrado ao **[Zettelkasten]()** para organização do conhecimento.  
 
 
 
