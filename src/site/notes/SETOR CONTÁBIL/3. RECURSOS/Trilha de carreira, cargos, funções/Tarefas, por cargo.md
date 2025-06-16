@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:03:44.972-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:57:55.427-03:00"}
 ---
 
 
@@ -52,6 +52,5 @@
 **COORDENADOR CONTÁBIL**
 
 2. Fazer a Gestão referente aos cadastros e tabelas do sistema, em especial tarefas da equipe no Onvio, e parametrizações do sistema Contábil;
-3. 
-4. 
-5. Em construção
+
+3. Em construção
