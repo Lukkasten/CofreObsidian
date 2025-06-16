@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-06-05T23:47:22.121-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-06-16T11:48:39.696-03:00"}
 ---
 
 
@@ -16,7 +16,7 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 [[Tarefas padronizadas\|Tarefas padronizadas]]
 
-###### 3) FECHAMENTO DO BALANÇO  (==Workflow==)
+###### 3) [[SETOR CONTÁBIL/3. RECURSOS/Fechamento do Balanço\|Fechamento do Balanço]]  (==Workflow==)
 
 - ETAPA 1: PRÉ-FECHAMENTO DE BALANÇO MENSAL ⏬ RESPONSÁVEL
   - Quando cadastrar colocar  o coordenador como aprovador.
