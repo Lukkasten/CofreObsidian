@@ -25,7 +25,7 @@
 **ANALISTA CONTÁBIL**
 
 - Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos
-- [[Direcionar emails recebidos\|Direcionar emails recebidos]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Direcionar emails recebidos\|Direcionar emails recebidos]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
