@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:00:53.120-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-16T12:02:21.355-03:00"}
 ---
 
 
@@ -53,4 +53,4 @@
 
 **COORDENADOR CONTÁBIL**
 
-
+Em construção
