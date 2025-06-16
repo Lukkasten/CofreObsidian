@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/nota-de-debito/","dgPassFrontmatter":true,"created":"2025-06-16T11:06:29.327-03:00","updated":"2025-06-16T11:27:28.314-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/nota-de-debito/","dgPassFrontmatter":true,"created":"2025-06-16T11:06:29.327-03:00","updated":"2025-06-16T11:29:01.572-03:00"}
 ---
 
 
@@ -38,7 +38,7 @@ A empresa que adquirir mercadorias ou contratar serviços poderá contabilizar c
 
 Contudo, **nota de débito não é considerada documento hábil**, sendo apenas um registro interno de controle administrativo.
 
-Assim, para que a despesa seja considerada dedutível para fins de IRPJ e CSLL, deve haver documentação hábil e idônea conforme definido no **Art. 311 do RIR/2018**.
+Assim, para que a despesa seja considerada dedutível para fins de IRPJ e CSLL, deve haver documentação hábil e idônea conforme definido no [**Art. 311 do RIR/2018**](https://modeloinicial.com.br/lei/DEC-9580-2018/decreto-9580/art-311#:~:text=Art.,47%2C%20caput%20).).
 
 ### Referências adicionais:
 
