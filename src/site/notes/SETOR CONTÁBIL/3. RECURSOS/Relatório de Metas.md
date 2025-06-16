@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-06-16T14:11:25.065-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-06-16T14:13:17.761-03:00"}
 ---
 
 
@@ -10,6 +10,8 @@ O [relatório de metas](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4N
 
 
 **Nota:**
+
+
 
 
 
