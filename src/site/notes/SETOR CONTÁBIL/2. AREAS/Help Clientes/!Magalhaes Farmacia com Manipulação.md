@@ -1,6 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/magalhaes-farmacia-com-manipulacao/","dgPassFrontmatter":true,"created":"2025-02-04T20:57:30.367-03:00","updated":"2025-06-18T10:52:17.787-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/magalhaes-farmacia-com-manipulacao/","dgPassFrontmatter":true,"created":"2025-02-04T20:57:30.367-03:00","updated":"2025-06-18T11:29:01.801-03:00"}
 ---
+
+**Resumo:**
+
+
+**Notas:**
+
+
+**Conexões:**
+
+[Checklist Contábil Online](https://docs.google.com/spreadsheets/d/1ZS9p458KwUGORIIT1rurobyRcOY6P9Li/edit?gid=1532359170#gid=1532359170)
 
 https://app.meudinheiroweb.com.br/
 
@@ -10,6 +20,29 @@ _Logado como:_
 
 [contato@ciadaformulafortal.com.br](mailto:contato@ciadaformulafortal.com.br)
 senha Jul135720$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 REUNIÃO CLIENTE DIA 27/02/2025
 
