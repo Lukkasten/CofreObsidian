@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-18T15:00:39.637-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-18T15:01:21.235-03:00"}
 ---
 
 **CONNECT SERVIÇOS**
@@ -55,6 +55,8 @@ No final vai bater com cálculo
 
 **(-) Despesas por CNAE 620400001** = Solicitar para o Joedson o relatório.
 
+
+![Pasted image 20250618150121.png](/img/user/Pasted%20image%2020250618150121.png)
 ![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
 ______
 **PARA PREENCHER O FATURAMENTO CUMULATIVO E NÃO CUMULATIVO DA PLANILHA DE PIS E COFINS**
