@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/estoque-cmv/cmv-em-postos-de-combustivel-gas-de-cozinha/","dgPassFrontmatter":true,"created":"2025-06-05T22:15:58.940-03:00","updated":"2025-06-05T22:28:48.446-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/estoque-cmv/cmv-em-postos-de-combustivel-gas-de-cozinha/","dgPassFrontmatter":true,"created":"2025-06-05T22:15:58.940-03:00","updated":"2025-06-05T22:28:52.746-03:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Esse percentual é usado como parâmetro na análise contábil, especialmente na
 
 - [[SETOR CONTÁBIL/3. RECURSOS/Estoque, CMV/CMV médio para farmácias\|CMV médio para farmácias]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Estoque, CMV/CMV em Construtoras\|CMV em Construtoras]]
-- [[SETOR CONTÁBIL/3. RECURSOS/Como analisar relatório de estoque do cliente\|Como analisar relatório de estoque do cliente]]
+- [[Como analisar relatório de estoque do cliente\|Como analisar relatório de estoque do cliente]]
 - [[Escrituração contábil de estoque\|Escrituração contábil de estoque]]
 
 **Tags:** #CMV #posto #combustível #estoque
