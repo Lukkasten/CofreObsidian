@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-18T10:05:22.321-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-18T13:24:27.075-03:00"}
 ---
 
-Juliana - Magalhães
-Fidelis (Laudo técnico)
+Fidellis (Laudo técnico)
 Nadja - Diário e Razão ( Ligar para a Nadja)
-Evidence - 
+ 
 
 
 

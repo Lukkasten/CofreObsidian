@@ -1,6 +1,60 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-09T23:13:15.882-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-18T14:54:44.916-03:00"}
 ---
+
+**PASSO A PASSO – PIS/COFINS**
+
+
+**1 –** Acessar ISS Fortaleza – **Usuário/Login**: 00579102351; **Senha**: C0nt@b1l
+
+Escrituração > Manter escrituração > Seleciona competência > Exportar (XLS).
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+**2 – Faturamento.**
+
+- Confere na planilha se o faturamento total está igual com o fiscal, filtra por CNAE, obs: não filtrar as notas canceladas.
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image004.jpg)
+
+**3 – ISS**
+
+Coluna da planilha “Valor do ISS” e filtrar por CNAE. E alterar manualmente no contábil o (-) ISS para bater com o ISS Fortaleza.
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image006.jpg)
+
+**4 – Retenção Total**
+
+Relatório > Retenções a Compensar > Período > Imposto PIS ou COFINS (22 ou 23).
+
+**5 – Cumulativo PIS/COFINS**
+
+Filtrar por CNAE (620400001 - CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO) > Filtrar pelos tomadores de serviço > pegar os valores de retenções de PIS/COFINS de cada nota e somar por tomador.
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image008.jpg)
+
+No final vai bater com cálculo
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image010.jpg)
+
+**5 – Créditos**
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image012.jpg)
+
+**(+) Bens utilizados** = Fiscal > Relatórios > Acompanhamentos > Entradas > Período > CFOP
+
+(1-128 e 2-128).
+
+**(+) Serviços Utilizados** = Fiscal > Relatórios > Acompanhamentos > Entradas > Período > CFOP
+
+(1-933 e 2-933) ou por fornecedores e filtrar todos os fornecedores do período.
+
+**(+) Vale transporte** = Somar pagamentos de vale transporte, são enviados junto com as NF’s.
+
+**(-) Despesas por CNAE 620400001** = Solicitar para o Joedson o relatório.
+
+![](file:///C:/Users/control06.CONTROL/AppData/Local/Packages/oice_16_974fa576_32c1d314_43b/AC/Temp/msohtmlclip1/01/clip_image014.jpg)
+
 
 
 
