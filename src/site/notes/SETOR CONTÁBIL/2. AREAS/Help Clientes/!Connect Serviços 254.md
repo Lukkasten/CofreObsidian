@@ -10,19 +10,19 @@
 
 Escrituração > Manter escrituração > Seleciona competência > Exportar (XLS).
 
-![Pasted image 20250618145831.png](/img/user/Pasted%20image%2020250618145831.png)
+![Pasted image 20250618145831.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618145831.png)
 
 **2 – Faturamento.**
 
 - Confere na planilha se o faturamento total está igual com o fiscal, filtra por CNAE, obs: não filtrar as notas canceladas.
 
-![Pasted image 20250618145901.png](/img/user/Pasted%20image%2020250618145901.png)
+![Pasted image 20250618145901.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618145901.png)
 
 **3 – ISS**
 
 Coluna da planilha “Valor do ISS” e filtrar por CNAE. E alterar manualmente no contábil o (-) ISS para bater com o ISS Fortaleza.
 
-![Pasted image 20250618145915.png](/img/user/Pasted%20image%2020250618145915.png)
+![Pasted image 20250618145915.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618145915.png)
 
 **4 – Retenção Total**
 
@@ -32,14 +32,14 @@ Relatório > Retenções a Compensar > Período > Imposto PIS ou COFINS (22 ou 2
 
 Filtrar por CNAE (620400001 - CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO) > Filtrar pelos tomadores de serviço > pegar os valores de retenções de PIS/COFINS de cada nota e somar por tomador.
 
-![Pasted image 20250618145946.png](/img/user/Pasted%20image%2020250618145946.png)
+![Pasted image 20250618145946.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618145946.png)
 No final vai bater com cálculo
-![Pasted image 20250618150019.png](/img/user/Pasted%20image%2020250618150019.png)
+![Pasted image 20250618150019.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618150019.png)
 
 
 **5 – Créditos**
 
-![Pasted image 20250618150037.png](/img/user/Pasted%20image%2020250618150037.png)
+![Pasted image 20250618150037.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618150037.png)
 
 ![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
 
@@ -56,7 +56,7 @@ No final vai bater com cálculo
 **(-) Despesas por CNAE 620400001** = Solicitar para o Joedson o relatório.
 
 
-![Pasted image 20250618150121.png](/img/user/Pasted%20image%2020250618150121.png)
+![Pasted image 20250618150121.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618150121.png)
 ![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
 ______
 **PARA PREENCHER O FATURAMENTO CUMULATIVO E NÃO CUMULATIVO DA PLANILHA DE PIS E COFINS**
