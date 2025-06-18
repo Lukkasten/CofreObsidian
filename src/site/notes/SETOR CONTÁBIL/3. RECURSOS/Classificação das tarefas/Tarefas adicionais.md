@@ -21,7 +21,7 @@ ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
     11) Uma vez deferido na JUCEC, enviar Livro Diário, via email para o cliente ( Utilizar emails anteriores como modelo);
     12) Anexar os documentos gerados aqui na tarefa. ;)
 **ENVIO DE PERCOMP INSS**
-    13) Fazer a [[SETOR CONTÁBIL/3. RECURSOS/PERCOMP WEB\|PERCOMP WEB]];
+    13) Fazer a [[SETOR CONTÁBIL/3. RECURSOS/Perdcomps/PERCOMP WEB\|PERCOMP WEB]];
     14) Anexar PERCOMP ( PDF Pedido e PDF Recibo), aqui na tarefa;
     15) Verificar se todos os emails (destinatários)  estão anexados na tarefa, após a conclusão, a tarefa será enviada para o email do cliente, inclusive, os arquivos anexados;
 **ENVIO DE PERCOMP PIS E COFINS**
