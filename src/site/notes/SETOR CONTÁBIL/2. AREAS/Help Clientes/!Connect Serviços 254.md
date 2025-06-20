@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-18T15:02:20.392-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-18T15:02:48.648-03:00"}
 ---
 
 **CONNECT SERVIÇOS**
@@ -41,7 +41,6 @@ No final vai bater com cálculo
 
 ![Pasted image 20250618150037.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250618150037.png)
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
 
 **(+) Bens utilizados** = Fiscal > Relatórios > Acompanhamentos > Entradas > Período > CFOP
 
