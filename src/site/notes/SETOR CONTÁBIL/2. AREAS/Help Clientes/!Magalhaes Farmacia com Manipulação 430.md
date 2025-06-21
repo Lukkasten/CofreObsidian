@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/magalhaes-farmacia-com-manipulacao-430/","dgPassFrontmatter":true,"created":"2025-02-04T20:57:30.367-03:00","updated":"2025-06-18T11:29:01.801-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/magalhaes-farmacia-com-manipulacao-430/","dgPassFrontmatter":true,"created":"2025-02-04T20:57:30.367-03:00","updated":"2025-06-18T11:29:13.252-03:00"}
 ---
 
 **Resumo:**

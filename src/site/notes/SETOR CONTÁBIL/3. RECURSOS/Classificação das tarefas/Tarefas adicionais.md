@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-12T09:48:12.901-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-12T09:48:20.197-03:00"}
 ---
 
 
