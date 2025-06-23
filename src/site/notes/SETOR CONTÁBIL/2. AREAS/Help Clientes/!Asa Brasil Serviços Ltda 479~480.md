@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"created":"2025-06-13T15:09:17.397-03:00","updated":"2025-06-16T15:12:58.737-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"created":"2025-06-13T15:09:17.397-03:00","updated":"2025-06-16T15:12:51.690-03:00"}
 ---
 
 
