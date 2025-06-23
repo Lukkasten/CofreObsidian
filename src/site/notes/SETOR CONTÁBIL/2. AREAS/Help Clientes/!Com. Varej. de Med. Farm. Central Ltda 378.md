@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/com-varej-de-med-farm-central-ltda-378/","dgPassFrontmatter":true,"created":"2024-10-17T13:19:16.468-03:00","updated":"2025-06-23T16:33:39.100-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/com-varej-de-med-farm-central-ltda-378/","dgPassFrontmatter":true,"created":"2024-10-17T13:19:16.468-03:00","updated":"2025-06-23T16:35:12.920-03:00"}
 ---
 
 
@@ -9,11 +9,9 @@ ____
 **Resumo:**
 
 
-Notas:
+**Notas:**
 
-**NOTA 1**
-
-Temos o acesso do internet banking do bradesco está salvo [onvio senhas](https://app.gestta.com.br/admin/#/sidebar/customer/edit/670d0fc36f33a52a449263ed/passwords/edit/6758700ad1c9fc1898572012)
+NOTA 1 : Temos o acesso do internet banking do bradesco está salvo [onvio senhas](https://app.gestta.com.br/admin/#/sidebar/customer/edit/670d0fc36f33a52a449263ed/passwords/edit/6758700ad1c9fc1898572012)
 
 
 
