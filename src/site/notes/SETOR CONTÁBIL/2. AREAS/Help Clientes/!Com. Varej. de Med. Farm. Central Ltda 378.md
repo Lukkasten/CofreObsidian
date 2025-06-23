@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/com-varej-de-med-farm-central-ltda-378/","dgPassFrontmatter":true,"created":"2024-10-17T13:19:16.468-03:00","updated":"2025-06-23T16:39:37.609-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/com-varej-de-med-farm-central-ltda-378/","dgPassFrontmatter":true,"created":"2024-10-17T13:19:16.468-03:00","updated":"2025-06-23T16:40:17.660-03:00"}
 ---
 
 
@@ -35,6 +35,9 @@ Tem mais logo abaixo 👇
 .
 .
 .
+
+
+**RASCUNHO/ANOTAÇÕES/GERAL**
 
 
 Reunião dia 28/01/2025
