@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/com-varej-de-med-farm-central-ltda-378/","dgPassFrontmatter":true,"created":"2024-10-17T13:19:16.468-03:00","updated":"2025-06-23T16:35:12.920-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/com-varej-de-med-farm-central-ltda-378/","dgPassFrontmatter":true,"created":"2024-10-17T13:19:16.468-03:00","updated":"2025-06-23T16:35:35.279-03:00"}
 ---
 
 
@@ -18,6 +18,22 @@ NOTA 1 : Temos o acesso do internet banking do bradesco está salvo [onvio senha
 
 
 **Conexões:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
