@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-18T13:24:27.075-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-06-24T11:38:50.426-03:00"}
 ---
-
-Fidellis (Laudo técnico)
-Nadja - Diário e Razão ( Ligar para a Nadja)
- 
-
-
-
 
 #### **Bem-vindos, membros da equipe contábil!**
 
