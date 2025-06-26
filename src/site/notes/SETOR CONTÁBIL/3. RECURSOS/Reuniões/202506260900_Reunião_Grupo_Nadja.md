@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reunioes/202506260900-reuniao-grupo-nadja/","dgPassFrontmatter":true,"created":"2025-06-26T09:12:02.083-03:00","updated":"2025-06-26T09:14:56.843-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reunioes/202506260900-reuniao-grupo-nadja/","dgPassFrontmatter":true,"created":"2025-06-26T09:12:02.083-03:00","updated":"2025-06-26T10:40:06.703-03:00"}
 ---
-
 
 
 **Reunião dia 26/06/2025**
@@ -13,17 +12,18 @@
 **Ações Feitas:**
 
 1) Importado extratos bancários ( Itaú, Santander, ASAAS);
-2) Importado a planilha (Sefin) de notas fiscais;
-3) Importando as notas de serviços prestados;
-4) Provisão dos impostos ( Simples Nacional);
-5) Conciliação das contas;
-6) ) Ajustes necessários;
-7) Fechamento;
+2) Aplicações Financeiras;
+3) Importado a planilha (Sefin) de notas fiscais;
+4) Importando as notas de serviços prestados;
+5) Provisão dos impostos ( Simples Nacional);
+6) Conciliação das contas;
+7) ) Ajustes necessários;
+8) Fechamento;
 
 **Considerações:**
 
 
-
+- [ ] Renomear a conta ( Valores a Classificar)
 
 
 
