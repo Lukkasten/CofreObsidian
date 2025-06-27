@@ -1,14 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T09:15:13.547-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T10:27:36.588-03:00"}
 ---
-
-
-
 
 
  ****TAREFA - APURAR - CUSTO DA MERCADORIA/SERVIÇOS***
 
-Conforme reunião com o [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Marcos Consultor\|!Marcos Consultor]] - CMV O relatório de estoque mostrou-se inviável para se calcular o CMV , então, será com base no <u>CMV do relatório do Marcus consultor</u>;"
+
+Sexta-feira, 27 Junho 2025
+ 
+(09:51) Gabriel Alves - 7584: No grupo Adriana ficou acordado seguirmos a porcentagem do CMV do relatório  que o [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Marcus Consultor\|!Marcus Consultor]] nos envia. deixamos a mesma porcentaem da planilha, no contábil.
+(10:26) lucas: perfeito!
+
+
+Conforme reunião com o [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Marcus Consultor\|!Marcus Consultor]] - CMV O relatório de estoque mostrou-se inviável para se calcular o CMV , então, será com base no <u>CMV do relatório do Marcus consultor</u>;"
 
 Data: 17/04/2025
 Por: Lucas Rebouças
