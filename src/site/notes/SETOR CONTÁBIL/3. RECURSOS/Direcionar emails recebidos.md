@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/direcionar-emails-recebidos/","dgPassFrontmatter":true,"created":"2025-06-16T13:55:03.365-03:00","updated":"2025-06-16T14:01:05.073-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/direcionar-emails-recebidos/","dgPassFrontmatter":true,"created":"2025-06-16T13:55:03.365-03:00","updated":"2025-06-16T14:01:15.444-03:00"}
 ---
 
 
