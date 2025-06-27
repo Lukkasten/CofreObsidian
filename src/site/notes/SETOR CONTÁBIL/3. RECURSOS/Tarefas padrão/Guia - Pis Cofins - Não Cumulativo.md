@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/guia-pis-cofins-nao-cumulativo/","dgPassFrontmatter":true,"created":"2025-06-05T23:14:15.096-03:00","updated":"2025-06-27T08:31:07.583-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/tarefas-padrao/guia-pis-cofins-nao-cumulativo/","dgPassFrontmatter":true,"created":"2025-06-05T23:14:15.096-03:00","updated":"2025-06-27T08:38:57.433-03:00"}
 ---
 
 **Resumo:** 
@@ -18,6 +18,6 @@ Deve ser enviar com pelo menos 3 dias de antecedência.
 **Conexões:**
 
 Cuidados!
-[[SETOR CONTÁBIL/3. RECURSOS/Cuidados, orientações/202506270924_Ao anexar os DARFS\|202506270924_Ao anexar os DARFS]]
+[[SETOR CONTÁBIL/3. RECURSOS/Cuidados, orientações/Ao anexar os DARFS\|Ao anexar os DARFS]]
 [[SETOR CONTÁBIL/3. RECURSOS/Cuidados, orientações/202506270828_Conferir_Faturamentos\|202506270828_Conferir_Faturamentos]]
 
