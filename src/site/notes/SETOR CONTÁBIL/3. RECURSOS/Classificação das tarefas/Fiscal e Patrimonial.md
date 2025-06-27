@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/fiscal-e-patrimonial/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:36.442-03:00","updated":"2025-06-17T17:14:09.802-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/fiscal-e-patrimonial/","dgPassFrontmatter":true,"created":"2025-06-05T22:42:36.442-03:00","updated":"2025-06-17T17:14:03.808-03:00"}
 ---
 
 
