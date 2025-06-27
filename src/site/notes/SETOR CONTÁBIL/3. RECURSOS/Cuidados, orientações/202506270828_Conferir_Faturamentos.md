@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/cuidados-orientacoes/202506270828-conferir-faturamentos/","dgPassFrontmatter":true,"created":"2025-06-27T08:28:44.725-03:00","updated":"2025-06-27T08:30:19.741-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/cuidados-orientacoes/202506270828-conferir-faturamentos/","dgPassFrontmatter":true,"created":"2025-06-27T08:28:44.725-03:00","updated":"2025-06-27T08:30:19.746-03:00"}
 ---
 
 
