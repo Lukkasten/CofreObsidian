@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-signs-ltda-445/","dgPassFrontmatter":true,"created":"2025-07-01T13:40:16.737-03:00","updated":"2025-07-01T13:41:00.281-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-signs-ltda-445/","dgPassFrontmatter":true,"created":"2025-07-01T13:40:16.737-03:00","updated":"2025-07-01T14:58:45.615-03:00"}
 ---
 
 **Resumo:**
@@ -13,4 +13,7 @@
 
 **Conexões:**
 
-[https://docs.google.com/spreadsheets/d/1B-lI-y3eKl-HFEquXjm4hiyHrUck0-Y_OhAr0TRm4-U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1B-lI-y3eKl-HFEquXjm4hiyHrUck0-Y_OhAr0TRm4-U/edit?usp=sharing)
+
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Maxx Norte 442\|!Maxx Norte 442]]
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Acrílicos Ltda 444\|!Norte Acrílicos Ltda 444]]
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Signs Ltda 445\|!Norte Signs Ltda 445]]
