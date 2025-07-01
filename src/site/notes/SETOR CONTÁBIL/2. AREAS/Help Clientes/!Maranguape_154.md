@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T10:27:36.588-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T10:28:06.909-03:00"}
 ---
 
 
@@ -16,16 +16,6 @@ Conforme reunião com o [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Marcus Consult
 
 Data: 17/04/2025
 Por: Lucas Rebouças
-
-
-
-
-
-
-
-
-
-
 
 
 

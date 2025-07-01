@@ -33,6 +33,6 @@ Para isso utilizamos o [Custo-Meta](https://maisretorno.com/portal/termos/c/cust
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
-[[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]
+[[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
+[[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
+[[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]

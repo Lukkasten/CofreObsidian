@@ -5,20 +5,20 @@
 
 **ASSISTENTE CONTÁBIL**
 
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Envio de checklist mensal via script\|Envio de checklist mensal via script]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Registrar taxas cartão de crédito\|Registrar taxas cartão de crédito]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Lanç. a identificar - Envio\|Lanç. a identificar - Envio]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Importar conferir - contas pagas\|Importar conferir - contas pagas]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conciliar conferir - juros s  empréstimos\|Conciliar conferir - juros s  empréstimos]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Impostos Pagos Conforme ECAC\|Conferir - Impostos Pagos Conforme ECAC]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Envio de checklist mensal via script\|Envio de checklist mensal via script]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Registrar taxas cartão de crédito\|Registrar taxas cartão de crédito]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Lanç. a identificar - Envio\|Lanç. a identificar - Envio]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Importar conferir - contas pagas\|Importar conferir - contas pagas]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Conciliar conferir - juros s  empréstimos\|Conciliar conferir - juros s  empréstimos]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Conferir - Impostos Pagos Conforme ECAC\|Conferir - Impostos Pagos Conforme ECAC]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Nota de débito\|Nota de débito]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Registrar Conferir - NSE Prestadora\|Registrar Conferir - NSE Prestadora]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Patrimônio\|Integrar Conferir - Patrimônio]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Provisão De Impostos\|Conferir - Provisão De Impostos]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Registrar Conferir - NSE Prestadora\|Registrar Conferir - NSE Prestadora]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Patrimônio\|Integrar Conferir - Patrimônio]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Conferir - Provisão De Impostos\|Conferir - Provisão De Impostos]]
 -  [[SETOR CONTÁBIL/3. RECURSOS/Estoque, CMV/Apurar - Custo da Mercadoria Serviço\|Apurar - Custo da Mercadoria Serviço]]
-- [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]]
 
 
@@ -26,14 +26,14 @@
 **ANALISTA CONTÁBIL**
 
 - Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos
-- [[SETOR CONTÁBIL/3. RECURSOS/Direcionar emails recebidos\|Direcionar emails recebidos]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - IRPJ CSLL - Lucro Real - Trimestral\|Guia - IRPJ CSLL - Lucro Real - Trimestral]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]
-- [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/ECD E ECF\|ECD E ECF]]
-- [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/IBGE\|IBGE]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Padrão - mensagens/Direcionar emails recebidos\|Direcionar emails recebidos]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - IRPJ CSLL - Lucro Real - Trimestral\|Guia - IRPJ CSLL - Lucro Real - Trimestral]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/IBGE\|IBGE]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Fechamento do Balanço\|Fechamento do Balanço]]
 
 

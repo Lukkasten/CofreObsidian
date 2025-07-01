@@ -73,7 +73,7 @@ AÇÕES: CADASTRO DO NOVO CLIENTE
 4) [x] Criar checklist contábil;
 5) [x] Incluir na lista de transmissão de checklist;
 6) [x] Inclui na planilha de grupo de clientes;
-7) [x] Delegar empresa; [[LL - Control Contabilidade/HISTÓRICO/TLine_Jordão_Viana\|TLine_Jordão_Viana]]
+7) [x] Delegar empresa; [[TLine_Jordão_Viana\|TLine_Jordão_Viana]]
 
 ________________________________________________________
 

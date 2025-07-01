@@ -11,7 +11,7 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 
 1. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Contábil e LALUR\|Contábil e LALUR]]    
 2. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Fiscal e Patrimonial\|Fiscal e Patrimonial]] 
-3. [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
+3. [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
 4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
 5. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 

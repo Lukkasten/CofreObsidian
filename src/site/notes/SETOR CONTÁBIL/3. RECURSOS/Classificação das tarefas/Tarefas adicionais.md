@@ -13,7 +13,7 @@ ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
     4) Assim que o cliente autorizar, dar entrada no processo da JUCEC;
     5) Uma vez deferido na JUCEC, enviar  Balanço Autenticado, via email para o cliente ( Utilizar emails anteriores como modelo);
     6) Anexar os documentos gerados aqui na tarefa. ;)
-**[[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]**
+**[[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]**
     7) Enviar DAES para email do cliente (utilizar emails anteriores como modelo);
     8) Emitir Livro Diário (Incluir Balanço sintético, DRE sintética, Balancete Contábil analítico, Plano de contas);
     9) Enviar email para o cliente, (anexar o Livro Diário no email) solicitando autorização para autenticação na JUCEC ( utilizar emails anteriores como modelo)

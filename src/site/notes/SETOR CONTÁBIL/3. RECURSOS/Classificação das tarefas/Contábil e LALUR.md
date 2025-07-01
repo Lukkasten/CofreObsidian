@@ -17,17 +17,17 @@ Abrange a escrituração contábil, apuração de resultados e preenchimento do 
 
 **Conexões:**
 
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Envio de checklist mensal via script\|Envio de checklist mensal via script]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Registrar taxas cartão de crédito\|Registrar taxas cartão de crédito]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Lanç. a identificar - Envio\|Lanç. a identificar - Envio]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/ECD E ECF\|ECD E ECF]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/IBGE\|IBGE]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Importar conferir - contas pagas\|Importar conferir - contas pagas]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conciliar conferir - juros s  empréstimos\|Conciliar conferir - juros s  empréstimos]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Conferir - Impostos Pagos Conforme ECAC\|Conferir - Impostos Pagos Conforme ECAC]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
--  [[SETOR CONTÁBIL/3. RECURSOS/Tarefas padrão/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Envio de checklist mensal via script\|Envio de checklist mensal via script]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Registrar taxas cartão de crédito\|Registrar taxas cartão de crédito]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Lanç. a identificar - Envio\|Lanç. a identificar - Envio]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/IBGE\|IBGE]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Importar conferir - bancos aplicação\|Importar conferir - bancos aplicação]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Importar conferir - contas pagas\|Importar conferir - contas pagas]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Conciliar conferir - juros s  empréstimos\|Conciliar conferir - juros s  empréstimos]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Conferir - Impostos Pagos Conforme ECAC\|Conferir - Impostos Pagos Conforme ECAC]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
+-  [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Nota de débito\|Nota de débito]]
     
 -  Solicitar/Contabilizar - Documentos Físicos ==(**Workflow**)==
