@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-06-17T15:20:58.741-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-07-02T10:28:52.116-03:00"}
 ---
 
 
@@ -35,6 +35,8 @@
 - [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/IBGE\|IBGE]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Fechamento do Balanço\|Fechamento do Balanço]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]
+- [[SETOR CONTÁBIL/3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
 
 
 **SUPERVISOR CONTÁBIL**

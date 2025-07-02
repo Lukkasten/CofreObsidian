@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-06-12T09:48:12.901-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-07-02T10:28:52.071-03:00"}
 ---
 
 
 
 SOLICITAR INFORMAÇÕES PIS E COFINS ( DEPTO FISCAL) (Analistas)
 ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
-**AUTENTICAR BALANÇO PATRIMONIAL - JUCEC**
+**[[SETOR CONTÁBIL/3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]**
     1) Enviar DAES para email do cliente (utilizar emails anteriores como modelo);
     2) Emitir Demonstrações Contábeis (Incluir Balanço, DRE, Indicadores, DFC, DMPL, Notas Explicativas);
     3) Enviar email para o cliente, (anexar as Demonstrações Contábeis no email) solicitando autorização para autenticação na JUCEC ( utilizar emails anteriores como modelo)
