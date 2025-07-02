@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/padrao-tarefas/autenticar-livro-diario-jucec/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.640-03:00","updated":"2025-06-12T09:50:42.130-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/padrao-tarefas/autenticar-livro-diario-jucec/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.640-03:00","updated":"2025-07-02T10:30:10.297-03:00"}
 ---
 
 **Resumo:**
@@ -16,5 +16,5 @@ Essa nota evidencia como autenticar o livro diário na Junta Comercial do Ceará
 
 **Conexões:**
 
-
+[[SETOR CONTÁBIL/3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
 
