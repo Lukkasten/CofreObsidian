@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reunioes/202506260900-reuniao-grupo-nadja/","dgPassFrontmatter":true,"created":"2025-06-26T09:12:02.083-03:00","updated":"2025-06-26T10:40:06.703-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reunioes/202506260900-reuniao-grupo-nadja/","dgPassFrontmatter":true,"created":"2025-06-26T09:12:02.083-03:00","updated":"2025-07-03T13:52:26.941-03:00"}
 ---
 
 
@@ -29,5 +29,5 @@
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/2. AREAS/Help Clientes/Pinheiro Serviços 65\|Pinheiro Serviços 65]]
-[[SETOR CONTÁBIL/2. AREAS/Help Clientes/Alcantara Serviços 64\|Alcantara Serviços 64]]
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Pinheiro Serviços 65\|!Pinheiro Serviços 65]]
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Alcantara Serviços 64\|!Alcantara Serviços 64]]
