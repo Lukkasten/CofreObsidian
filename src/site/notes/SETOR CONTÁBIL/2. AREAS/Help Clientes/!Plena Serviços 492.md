@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/setor-contabil/2-areas/help-clientes/plena-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-01T14:04:27.052-03:00"}
+{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/setor-contabil/2-areas/help-clientes/plena-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-03T11:30:23.146-03:00"}
 ---
 
 **Resumo:**
@@ -21,6 +21,7 @@ Para mais informações, consultar a planilha de migração disponível no campo
 
 **Conexões:**
 
+[Planilha de migração](https://docs.google.com/spreadsheets/d/1sI70WlJbrCVgmJFaiPQBN4GtTGfJ_Mnl_Xf7HPehul4/edit?gid=1978312704#gid=1978312704)
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Plena Soluções 491\|!Plena Soluções 491]]
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Prioridade_Serviços\|!Prioridade_Serviços]]
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Prioridade_Segurança\|!Prioridade_Segurança]]
