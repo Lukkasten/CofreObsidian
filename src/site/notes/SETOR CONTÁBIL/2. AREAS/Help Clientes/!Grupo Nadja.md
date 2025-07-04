@@ -1,17 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-nadja/","dgPassFrontmatter":true,"created":"2025-07-03T13:52:52.641-03:00","updated":"2025-07-03T17:58:03.662-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-nadja/","dgPassFrontmatter":true,"created":"2025-07-03T13:52:52.641-03:00","updated":"2025-07-04T08:58:32.711-03:00"}
 ---
 
-Resumo:
+**Resumo:**
 
-Notas:
+
+
+**Notas:**
 
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reuniões/202507031751_Reunião_Nadja\|202507031751_Reunião_Nadja]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reuniões/202506260900_Reunião_Grupo_Nadja\|202506260900_Reunião_Grupo_Nadja]]
 
 
-Conexões:
+**Conexões:**
 
 
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Pinheiro Serviços 65\|!Pinheiro Serviços 65]]
