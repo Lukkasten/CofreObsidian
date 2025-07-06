@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-nadja/","dgPassFrontmatter":true,"created":"2025-07-03T13:52:52.641-03:00","updated":"2025-07-04T08:58:32.711-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-nadja/","dgPassFrontmatter":true,"created":"2025-07-03T13:52:52.641-03:00","updated":"2025-07-05T21:29:19.356-03:00"}
 ---
 
 **Resumo:**
@@ -18,3 +18,4 @@
 
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Pinheiro Serviços 65\|!Pinheiro Serviços 65]]
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Alcantara Serviços 64\|!Alcantara Serviços 64]]
+

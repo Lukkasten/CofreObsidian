@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/setor-contabil/2-areas/help-clientes/plena-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-03T11:30:23.146-03:00"}
+{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/setor-contabil/2-areas/help-clientes/plena-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-03T11:30:30.058-03:00"}
 ---
 
 **Resumo:**
