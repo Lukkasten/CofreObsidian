@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/cuidados-orientacoes/ao-anexar-os-darfs/","dgPassFrontmatter":true,"created":"2025-06-27T08:23:50.960-03:00","updated":"2025-06-27T08:39:53.169-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/cuidados-orientacoes/ao-anexar-os-darfs/","dgPassFrontmatter":true,"created":"2025-06-27T08:23:50.960-03:00","updated":"2025-06-27T08:39:43.430-03:00"}
 ---
 
 ![Pasted image 20250627082352.png](/img/user/SETOR%20CONT%C3%81BIL/4.%20ARQUIVOS/Pasted%20image%2020250627082352.png)
