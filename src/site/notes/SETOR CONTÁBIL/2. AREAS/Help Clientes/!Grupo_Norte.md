@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-07-01T15:00:51.032-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-07-01T15:01:00.576-03:00"}
 ---
 
 **Resumo:**

@@ -1,5 +1,5 @@
 ---
-{"cssClasses":null,"dg-publish":true,"permalink":"/setor-contabil/4-arquivos/papel-do-analista/","dgPassFrontmatter":true,"created":"2024-07-03T13:42:12.000-03:00","updated":"2025-06-03T22:54:00.883-03:00"}
+{"cssClasses":null,"dg-publish":true,"permalink":"/setor-contabil/4-arquivos/papel-do-analista/","dgPassFrontmatter":true,"created":"2024-07-03T13:42:12.000-03:00","updated":"2025-04-18T00:13:35.931-03:00"}
 ---
 
 
