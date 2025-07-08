@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/adr-servicos-264/","dgPassFrontmatter":true,"created":"2025-07-08T16:13:25.740-03:00","updated":"2025-07-08T16:49:35.322-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/adr-servicos-264/","dgPassFrontmatter":true,"created":"2025-07-08T16:13:25.740-03:00","updated":"2025-07-08T17:10:49.893-03:00"}
 ---
 
 **Resumo:**
@@ -11,7 +11,7 @@ b) Para mais informações consulta o Alex Xavier.
 **Notas:**
 
 
-Cadastro da Empresa
+**Cadastro da Empresa**
 - [x] Criar checklist; ✅ 2025-07-08
 - [x] Envio de checklist; ✅ 2025-07-08
 - [x] Cadastro na Domínio; ✅ 2025-07-08
