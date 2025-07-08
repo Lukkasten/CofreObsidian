@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/setor-contabil/2-areas/help-clientes/plena-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-03T11:30:23.146-03:00"}
+{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/setor-contabil/2-areas/help-clientes/plena-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-08T15:16:44.340-03:00"}
 ---
 
 **Resumo:**
@@ -12,12 +12,14 @@ Segunda-feira, 23 Junho 2025
 (11:45) Mayara Víctor - 7553 - Notificar como alerta: Olá pessoal, bom dia!
 Informo que as empresas:
 
-PLENAR SOLUCOES LTDA - 35735355000103 
-PLENAR SERVICOS LTDA - 10433367000152 
+PLENAR SOLUCOES LTDA - 35735355000103 - SIMPLES
+PLENAR SERVICOS LTDA - 10433367000152  LUCRO REAL
 mencionadas acima estão em processo de Migração para a Control, e fazem parte do GRUPO PRIORIDADE. 
 
 Para mais informações, consultar a planilha de migração disponível no campo "Observação" da tarefa no Onvio.
 
+
+![[ConsultaOptantes.pdf]]
 
 **Conexões:**
 
