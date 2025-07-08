@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maxx-norte-442/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-07-01T15:43:30.213-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maxx-norte-442/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-07-08T17:53:50.465-03:00"}
 ---
 
 **Resumo:**
@@ -22,7 +22,7 @@ Cadastro da Empresa
 **Conexões:**
 
 [Planilha de migração](https://docs.google.com/spreadsheets/d/1abYtoIbphoWsqcMmVo_-aV7CQxCawT5u-pbGprxTjyw/edit?gid=1978312704#gid=1978312704)
-
+[Pasta do Financeiro](https://drive.google.com/drive/folders/1lIgYIb0MPlE2e-K5rcRd1ct_BMI4yIQS)
 
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Maxx Norte 442\|!Maxx Norte 442]]
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Acrílicos Ltda 444\|!Norte Acrílicos Ltda 444]]

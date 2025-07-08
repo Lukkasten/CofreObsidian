@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-07-01T15:00:51.032-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-07-08T17:54:53.374-03:00"}
 ---
 
 **Resumo:**
@@ -13,14 +13,33 @@ Email de migração
 	Informo que o GRUPO NORTE, composto pelas seguintes empresas:
 	
 	*442 - MAXX NORTE LTDA - CNPJ: 54.105.716/0001-82
-	
-	
 	*443 - MAXX NORTE LTDA - CNPJ: 54.105.716/0002-63
 	
+**Cadastro da Empresa**
+- [ ] Criar checklist;
+- [ ] Envio de checklist;
+- [ ] Cadastro na Domínio;
+- [ ] Cadastrar tarefas no Onvio;
+- [x] Criar página do site; ✅ 2025-07-08
+      
 	*444 - NORTE ACRILICOS LTDA - CNPJ: 18.412.553/0001-17
+		
+**Cadastro da Empresa**
+- [ ] Criar checklist;
+- [ ] Envio de checklist;
+- [ ] Cadastro na Domínio;
+- [ ] Cadastrar tarefas no Onvio;
+- [x] Criar página do site; ✅ 2025-07-08
 	
 	*445 - NORTE SIGNS LTDA - CNPJ: 39.511.182/0001-09
-	
+		
+**Cadastro da Empresa**
+- [ ] Criar checklist;
+- [ ] Envio de checklist;
+- [ ] Cadastro na Domínio;
+- [x] Cadastrar tarefas no Onvio; ✅ 2025-07-08
+- [x] Criar página do site; ✅ 2025-07-08
+
 	está em processo de migração para a Control.
 	
 	Para mais informações, consulte a planilha de migração disponível no campo "Observação" da tarefa.
@@ -38,6 +57,7 @@ Email de migração
 
 **Conexões:**
 
+[Pasta do Financeiro](https://drive.google.com/drive/folders/1lIgYIb0MPlE2e-K5rcRd1ct_BMI4yIQS)
 
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Maxx Norte 442\|!Maxx Norte 442]]
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Acrílicos Ltda 444\|!Norte Acrílicos Ltda 444]]
