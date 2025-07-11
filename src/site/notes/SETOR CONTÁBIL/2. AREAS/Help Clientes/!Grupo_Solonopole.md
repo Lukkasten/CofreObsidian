@@ -7,7 +7,7 @@
 
 **Notas:**
 
-[[202507091400_Reunião\|202507091400_Reunião]]
+[[SETOR CONTÁBIL/2. AREAS/Help Interno/202507091400_Reunião\|202507091400_Reunião]]
 
 
 **Conexões:**
