@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-07-08T17:54:53.374-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-07-11T09:56:31.307-03:00"}
 ---
 
 **Resumo:**
-
+ financeiro1@controlcontabilidade.com
 
 **Notas:**
 
@@ -19,6 +19,7 @@ Email de migração
 - [ ] Criar checklist;
 - [ ] Envio de checklist;
 - [ ] Cadastro na Domínio;
+- [ ] Cadastrar Filial
 - [ ] Cadastrar tarefas no Onvio;
 - [x] Criar página do site; ✅ 2025-07-08
       
