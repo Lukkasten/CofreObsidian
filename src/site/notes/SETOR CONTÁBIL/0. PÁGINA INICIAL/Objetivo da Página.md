@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-07-14T09:46:44.730-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-07-14T10:00:01.622-03:00"}
 ---
 
 #### **Bem-vindos, membros da equipe contábil!**
@@ -23,8 +23,6 @@ Assim como em uma grande engrenagem, cada membro do nosso departamento contábil
 2. O *jardim digital* para cultivo de pensamentos em crescimento  
 3. O método **[PARA]()** (do livro **[Criando um Segundo Cérebro]()**) integrado ao **[Zettelkasten]()** para organização do conhecimento.  
 
-Negocie prazos e cumpra.
+
 
 **By: Lucas Rebouças**
-
-![Pasted image 20250714093949.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250714093949.png)
