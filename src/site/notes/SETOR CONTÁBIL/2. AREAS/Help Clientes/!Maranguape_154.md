@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T10:28:06.909-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T10:28:12.556-03:00"}
 ---
 
 

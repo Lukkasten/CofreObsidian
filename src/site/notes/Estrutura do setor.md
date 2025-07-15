@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estrutura-do-setor/","dgPassFrontmatter":true,"created":"2025-07-11T16:19:14.361-03:00","updated":"2025-07-11T16:26:20.113-03:00"}
+{"dg-publish":true,"permalink":"/estrutura-do-setor/","dgPassFrontmatter":true,"created":"2025-07-11T16:19:14.361-03:00","updated":"2025-07-11T16:26:28.677-03:00"}
 ---
 
 Para ampliar a imagem clique com a tecla direita do mouse em seguida em "Abrir imagem em uma nova guia"

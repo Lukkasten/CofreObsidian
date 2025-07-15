@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/irapuan/","dgPassFrontmatter":true,"created":"2025-07-03T11:33:45.958-03:00","updated":"2025-07-03T11:43:29.787-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/irapuan/","dgPassFrontmatter":true,"created":"2025-07-03T11:33:45.958-03:00","updated":"2025-07-03T11:43:36.892-03:00"}
 ---
 
 **Resumo:**
