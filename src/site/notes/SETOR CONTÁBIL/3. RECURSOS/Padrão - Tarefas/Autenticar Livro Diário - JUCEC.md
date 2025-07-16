@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/padrao-tarefas/autenticar-livro-diario-jucec/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.640-03:00","updated":"2025-07-15T09:30:33.255-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/padrao-tarefas/autenticar-livro-diario-jucec/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.640-03:00","updated":"2025-07-15T09:30:40.607-03:00"}
 ---
 
 **Resumo:**

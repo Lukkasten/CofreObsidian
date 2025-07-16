@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/perdcomps/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-06-18T11:17:07.445-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/perdcomps/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-06-18T11:17:15.304-03:00"}
 ---
 
 
