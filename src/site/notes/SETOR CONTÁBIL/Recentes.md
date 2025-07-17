@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-17T13:55:04.087-03:00"}
+---
+
+
+
+| File                                                                                                                       | Arquivo                                  | Atualizado em           |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------- |
+| [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Processos JUCEC - Livro Diário e Balanço\|Processos JUCEC - Livro Diário e Balanço]] | Processos JUCEC - Livro Diário e Balanço | 1:07 PM - July 17, 2025 |
+
+{ .block-language-dataview}

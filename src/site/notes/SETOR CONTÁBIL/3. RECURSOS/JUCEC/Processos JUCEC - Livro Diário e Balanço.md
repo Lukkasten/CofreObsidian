@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/jucec/processos-jucec-livro-diario-e-balanco/","dgPassFrontmatter":true,"created":"2025-07-17T13:07:48.178-03:00","updated":"2025-07-17T13:47:44.700-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/jucec/processos-jucec-livro-diario-e-balanco/","dgPassFrontmatter":true,"created":"2025-07-17T13:07:48.178-03:00","updated":"2025-07-17T13:55:38.337-03:00"}
 ---
 
 **Resumo:** 
@@ -95,4 +95,4 @@ Observação a ser feita é que para gerar o DAE do livro diário é necessário
 
 
 
-#Novidade
+#NotaPermanente
