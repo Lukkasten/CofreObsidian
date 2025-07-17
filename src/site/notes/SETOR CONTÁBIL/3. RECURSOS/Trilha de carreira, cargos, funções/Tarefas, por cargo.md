@@ -35,8 +35,8 @@
 - [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/IBGE\|IBGE]]
 - [[SETOR CONTÁBIL/3. RECURSOS/Fechamento do Balanço\|Fechamento do Balanço]]
-- [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]
-- [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
+- [[Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]
+- [[Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
 
 
 **SUPERVISOR CONTÁBIL**
