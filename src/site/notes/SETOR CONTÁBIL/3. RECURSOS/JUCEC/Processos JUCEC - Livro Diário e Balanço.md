@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/jucec/processos-jucec-livro-diario-e-balanco/","dgPassFrontmatter":true,"created":"2025-07-17T13:07:48.178-03:00","updated":"2025-07-17T13:32:49.265-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/jucec/processos-jucec-livro-diario-e-balanco/","dgPassFrontmatter":true,"created":"2025-07-17T13:07:48.178-03:00","updated":"2025-07-17T13:38:28.305-03:00"}
 ---
 
-Resumo: 
+**Resumo:** 
 
+Orientar de maneira mais assertiva os procedimentos para a autenticação do livro diário e Demonstrações Contábeis na JUCEC.
 
-Notas:
-
-
+**Notas:**
 ##### **1. Antes de dar entrada nos processos fazer os seguintes procedimentos:**
 
 ###### **1.1 Gerar os DAES**
@@ -15,7 +14,9 @@ Notas:
 📤 **Objetivo:** - Emitir e pagar o **DAE (Documento de Arrecadação Estadual)** referente à autenticação do livro diário e das Demonstrações Contábeis, ambos os processo só conseguem dar continuidade se os DAE's forem pagos:
 
 [**Emitir o DAE para autenticar o Balanço**](https://portalservicos.jucec.ce.gov.br/fcnremp/pages/remp/remp.seam?cid=2506)
-[**Emitir o DAE para autenticar o Livro**](https://portalservicos.jucec.ce.gov.br/guiapagamento/pages/autenticacaoLivro/autenticacaoLivroPasso1.seam?conversationId=3494) uma observação a ser feita é que para gerar o DAE do livro diário é necessário inserir a quantidade de páginas do mesmo, então é necessário que você faça primeiro seguir esse passo a passo [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Como gerar os livros contábeis na domínio\|Como gerar os livros contábeis na domínio]] e depois uma vez feito isso inserir a informação de páginas nesse campo do [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/processo de registro de livros empresariais\|processo de registro de livros empresariais]]
+[**Emitir o DAE para autenticar o Livro**](https://portalservicos.jucec.ce.gov.br/guiapagamento/pages/autenticacaoLivro/autenticacaoLivroPasso1.seam?conversationId=3494) 
+
+Observação a ser feita é que para gerar o DAE do livro diário é necessário inserir a quantidade de páginas do mesmo, então é necessário que você faça primeiro seguir esse passo a passo [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Como gerar os livros contábeis na domínio\|Como gerar os livros contábeis na domínio]] e depois uma vez feito isso inserir a informação de páginas nesse campo do [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/processo de registro de livros empresariais\|processo de registro de livros empresariais]].
 
 ###### **1.2 Envio prévio das Demonstrações Contábeis que serão autenticadas ao cliente para validação**
 
@@ -34,8 +35,6 @@ Notas:
 - Utilizar o [**e-mail padrão**](https://mail.google.com/mail/u/1/?ogbl#search/autori/QgrcJHsNnjvqsKMwjFPkKVwCrnhwwLwPncb) de envio para essa etapa.
 
 - Aguardar a **confirmação do cliente** quanto à veracidade das informações.
-
-
 
 ---
 
@@ -72,7 +71,6 @@ Notas:
     
 - Assinar digitalmente os arquivos.
     
-- Emitir e pagar o **DAE** específico para a autenticação do balanço patrimonial.
     
 📌 _Importante: o balanço só pode ser autenticado após a aprovação do Livro Diário._
 
@@ -91,5 +89,4 @@ Notas:
 - Enviar ao cliente:
     
     - Cópia dos documentos autenticados
-        
     - Protocolos e comprovantes de DAI pagos
