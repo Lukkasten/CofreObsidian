@@ -6,14 +6,14 @@
 
 SOLICITAR INFORMAÇÕES PIS E COFINS ( DEPTO FISCAL) (Analistas)
 ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
-**[[SETOR CONTÁBIL/3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]**
+**[[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]**
     1) Enviar DAES para email do cliente (utilizar emails anteriores como modelo);
     2) Emitir Demonstrações Contábeis (Incluir Balanço, DRE, Indicadores, DFC, DMPL, Notas Explicativas);
     3) Enviar email para o cliente, (anexar as Demonstrações Contábeis no email) solicitando autorização para autenticação na JUCEC ( utilizar emails anteriores como modelo)
     4) Assim que o cliente autorizar, dar entrada no processo da JUCEC;
     5) Uma vez deferido na JUCEC, enviar  Balanço Autenticado, via email para o cliente ( Utilizar emails anteriores como modelo);
     6) Anexar os documentos gerados aqui na tarefa. ;)
-**[[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]**
+**[[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]**
     7) Enviar DAES para email do cliente (utilizar emails anteriores como modelo);
     8) Emitir Livro Diário (Incluir Balanço sintético, DRE sintética, Balancete Contábil analítico, Plano de contas);
     9) Enviar email para o cliente, (anexar o Livro Diário no email) solicitando autorização para autenticação na JUCEC ( utilizar emails anteriores como modelo)
