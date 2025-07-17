@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/padrao-tarefas/guia-pis-cofins-nao-cumulativo/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.273-03:00","updated":"2025-07-17T14:07:35.755-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/padrao-tarefas/guia-pis-cofins-nao-cumulativo/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.273-03:00","updated":"2025-07-17T14:08:02.004-03:00"}
 ---
 
 **Resumo:** 
@@ -34,3 +34,5 @@ Cuidados!
 Em análise
 
 ![image_73 (2).png](/img/user/4%20ARQUIVOS/image_73%20(2).png)
+
+#NotaPermanente 
