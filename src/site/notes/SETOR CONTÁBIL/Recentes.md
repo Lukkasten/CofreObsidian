@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-18T14:01:33.413-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-18T14:05:06.377-03:00"}
 ---
 
 Reuniões Agendas
 
-[[LL - Control Contabilidade/HISTÓRICO/KANBAN_DIARIO\|KANBAN_DIARIO]]
 
-
+[[LL - Control Contabilidade/HISTÓRICO/KANBAN_DIARIO#^c0u1ck\|KANBAN_DIARIO#^c0u1ck]]
 
 | File                                                                                                                       |                          |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
