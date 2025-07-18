@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-18T14:05:06.377-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-18T14:09:47.069-03:00"}
 ---
 
-Reuniões Agendas
+
+**Próximas Reuniões:**
+
+22/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]]
+23/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!MJ_Sena\|!MJ_Sena]]
+24/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Com_Med_Cavalcante\|!Com_Med_Cavalcante]]
+28/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Grupo_Viana\|!Grupo_Viana]]
+28/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Grupo_Central\|!Grupo_Central]]
 
 
-[[LL - Control Contabilidade/HISTÓRICO/KANBAN_DIARIO#^c0u1ck\|KANBAN_DIARIO#^c0u1ck]]
 
 | File                                                                                                                       |                          |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -14,5 +20,8 @@ Reuniões Agendas
 | [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]  | 11:50 AM - July 01, 2025 |
 
 { .block-language-dataview}
+
+
+
 
 
