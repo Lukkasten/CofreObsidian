@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-18T14:13:38.462-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-18T14:29:19.067-03:00"}
 ---
 
 
 **Próximas Reuniões:**
 
-**Julho/2025**
-22/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]]
+**Julho/2025...**
+22/07/2025 - [[!Farmacia Menescal 
+22/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Maranguape_154\|!Maranguape_154]]
 23/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!MJ_Sena\|!MJ_Sena]]
 24/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Com_Med_Cavalcante\|!Com_Med_Cavalcante]]
 28/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Grupo_Viana\|!Grupo_Viana]]

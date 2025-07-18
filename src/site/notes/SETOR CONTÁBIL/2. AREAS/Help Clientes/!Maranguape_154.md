@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-06-27T10:28:06.909-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maranguape-154/","dgPassFrontmatter":true,"created":"2025-04-04T14:02:50.120-03:00","updated":"2025-07-18T14:31:23.921-03:00"}
 ---
+
+
+Resumo:
+
+
+
+Notas:
+
 
 
  ****TAREFA - APURAR - CUSTO DA MERCADORIA/SERVIÇOS***
@@ -29,3 +37,7 @@ ANÁLISE DO CMV
 
 ~~MARANGUAPE - OUTUBRO/2024 A FEVEREIRO/2025~~
 BELA VISTA - OUTUBRO/2024 A FEVEREIRO/2025
+
+Conexões:
+
+[[!Com_Bela_Vista_9893\|!Com_Bela_Vista_9893]]
