@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/estoque-cmv/apurar-custo-da-mercadoria-servico/","dgPassFrontmatter":true,"created":"2025-06-05T15:43:03.134-03:00","updated":"2025-06-27T12:46:09.041-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/estoque-cmv/apurar-custo-da-mercadoria-servico/","dgPassFrontmatter":true,"created":"2025-06-05T15:43:03.134-03:00","updated":"2025-06-27T12:46:03.849-03:00"}
 ---
 
 

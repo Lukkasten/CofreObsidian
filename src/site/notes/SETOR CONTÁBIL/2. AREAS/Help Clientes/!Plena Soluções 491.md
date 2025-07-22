@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"CNPJ":"35.735.355/0001-03","permalink":"/setor-contabil/2-areas/help-clientes/plena-solucoes-491/","dgPassFrontmatter":true,"created":"2025-07-01T14:01:56.115-03:00","updated":"2025-07-09T14:53:06.168-03:00"}
+{"dg-publish":true,"CNPJ":"35.735.355/0001-03","permalink":"/setor-contabil/2-areas/help-clientes/plena-solucoes-491/","dgPassFrontmatter":true,"created":"2025-07-01T14:01:56.115-03:00","updated":"2025-07-09T14:52:59.092-03:00"}
 ---
 
 **Resumo:**

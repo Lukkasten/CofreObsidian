@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/mister-contador/","dgPassFrontmatter":true,"created":"2025-06-16T23:00:19.308-03:00","updated":"2025-07-11T13:51:27.990-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/mister-contador/","dgPassFrontmatter":true,"created":"2025-06-16T23:00:19.308-03:00","updated":"2025-07-11T13:51:19.044-03:00"}
 ---
 
 
