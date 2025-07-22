@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-22T14:58:28.179-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-22T15:03:53.912-03:00"}
 ---
 
 **Próximas Reuniões:**
+
 
 **Julho/2025...**
 22/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Grupo Adriana\|!Grupo Adriana]] às 15:00
