@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-22T14:36:55.085-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-22T14:58:28.179-03:00"}
 ---
 
 **Próximas Reuniões:**
@@ -11,6 +11,7 @@
 28/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Grupo_Viana\|!Grupo_Viana]] às 10:00
 28/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Grupo_Central\|!Grupo_Central]] às 15:00
 29/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]] às 09:00
+
 
 | File                                                                                                                       |                          |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
