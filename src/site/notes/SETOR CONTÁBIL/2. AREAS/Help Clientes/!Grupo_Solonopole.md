@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"created":"2024-12-18T09:52:07.459-03:00","updated":"2025-07-17T14:53:22.504-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"created":"2024-12-18T09:52:07.459-03:00","updated":"2025-07-17T14:53:28.361-03:00"}
 ---
 
 **Resumo:**

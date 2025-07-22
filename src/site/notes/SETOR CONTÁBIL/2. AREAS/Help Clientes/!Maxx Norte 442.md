@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maxx-norte-442/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-07-08T17:53:50.465-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maxx-norte-442/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-07-08T17:53:58.687-03:00"}
 ---
 
 **Resumo:**
