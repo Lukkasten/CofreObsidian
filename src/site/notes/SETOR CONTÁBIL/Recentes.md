@@ -16,11 +16,12 @@ Concluídas
 Canceladas
 24/07/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Com_Med_Cavalcante\|!Com_Med_Cavalcante]] às 15:00 Online, Participantes: Gabriella e Guilherme ❌
 
-| File                                                                                                                       |                          |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Processos JUCEC - Livro Diário e Balanço\|Processos JUCEC - Livro Diário e Balanço]] | 1:07 PM - July 17, 2025  |
-| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]  | 11:50 AM - July 01, 2025 |
-| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]  | 11:50 AM - July 01, 2025 |
+| File                                                                                                                                   |                          |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Processos JUCEC - Livro Diário e Balanço\|Processos JUCEC - Livro Diário e Balanço]]             | 1:07 PM - July 17, 2025  |
+| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]              | 11:50 AM - July 01, 2025 |
+| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]              | 11:50 AM - July 01, 2025 |
+| [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] | 10:43 PM - June 05, 2025 |
 
 { .block-language-dataview}
 
