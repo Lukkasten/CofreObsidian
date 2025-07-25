@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-07-25T09:50:39.757-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-07-25T10:19:14.608-03:00"}
 ---
 
 
@@ -10,7 +10,23 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 **Nota:**
 
-![Pasted image 20250725095018.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250725095018.png)
+
+**NOTA 1:**
+
+1) Verificar o Faturamento Bruto e Devoluções de Vendas x Escrita Fiscal;
+2) Verificar % de Variações do CMV  (Vem mantendo um padrão?) Se não tiver, analisar.
+3) Verificar o valor total das despesas operacionais  (Vem mantendo um padrão?) Se não tiver analisar.
+4) Verificar as conta de SERVIÇOS DE TERCEIROS (as vezes tem pagamentos e nota de serviços duplicados);
+5) Analisar a variação do Lucro Líquido, observar se as variações estão coerentes com as análises acima.
+
+⭐ Verificar se todas as tarefas no ONVIO foram baixadas. ( Caso possua tarefa ainda em aberto, solicitar que o assistente efetue a baixa)
+
+⭐ Após análise e aprovação, caso haja considerações a serem feitas, registre as observações diretamente no Onvio e mencione o @analista, o @supervisor e o @coordenador responsável.
+
+⭐ Verificar se todas as contas estão vinculadas na DRE.  Para isso vá em:  Domínio Contabilidade>> Utilitários>> Vincular Estrutura dos demonstrativos das contas contábeis
+
+⭐ Fazer o fechamento da Domínio Contabilidade (Acesse o menu Controle > Fechamento);
+
 
 
 ---
@@ -32,11 +48,9 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 
 
-1) Verificar o Faturamento Bruto e Devoluções de Vendas x Escrita Fiscal;
-2) Verificar % de Variações do CMV  (Vem mantendo um padrão?) Se não tiver, analisar.
-3) Verificar o valor total das despesas operacionais  (Vem mantendo um padrão?) Se não tiver analisar.
-4) Verificar as conta de SERVIÇOS DE TERCEIROS (as vezes tem pagamentos e nota de serviços duplicados);
-5) 
-⭐ Após análise e aprovação, caso haja considerações a serem feitas, registre as observações diretamente no Onvio e mencione o @analista, o @supervisor e o @coordenador responsável.
+
 
 #NotaPermanente 
+
+
+
