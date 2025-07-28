@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-central/","dgPassFrontmatter":true,"created":"2025-07-07T11:41:51.832-03:00","updated":"2025-07-07T11:42:33.642-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-central/","dgPassFrontmatter":true,"created":"2025-07-07T11:41:51.832-03:00","updated":"2025-07-28T15:31:57.925-03:00"}
 ---
 
 **Resumo:**
@@ -8,6 +8,6 @@
 
 **Notas:**
 
-
+Parcela em 3 quotas.
 
 **Conexões:**
