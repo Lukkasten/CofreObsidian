@@ -1,6 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"created":"2024-10-09T08:43:25.989-03:00","updated":"2025-06-04T15:43:36.912-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"created":"2024-10-09T08:43:25.989-03:00","updated":"2025-07-28T10:22:45.871-03:00"}
 ---
+
+
+Observações:
+
+Comparativo do ano ano 2023, 2024, 1 Trimestre 2025 (DRE ao longo dos anos);
+Reenviar a planilha do ano 2024;
+
+
+
+
+
+![Pasted image 20250727220958.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250727220958.png)
+
+
+
+![Pasted image 20250727220943.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250727220943.png)
+
+
 
 
 
