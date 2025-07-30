@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-29T20:57:16.349-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-29T21:21:27.241-03:00"}
 ---
 
 **Próximas Reuniões:**
-.....
+
+26/08/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]] às 09:00 Online, Participantes: Manuela e Jordão
 
 | File                                                                                                                                        |                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -14,6 +15,7 @@
 | [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]]      | 10:43 PM - June 05, 2025 |
 
 { .block-language-dataview}
+
 
 
 

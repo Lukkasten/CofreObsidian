@@ -1,18 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/perdcomps/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-06-18T11:17:15.304-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/perdcomps/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-07-29T22:15:54.665-03:00"}
 ---
 
 
+CPF
+
+05928016328
+
+E-mail
+
+[alexxaviercontabil@gmail.com](mailto:alexxaviercontabil@gmail.com)
+
+Telefone de contato
+
+85999619205
+
+Sua mensagem
+
+Fiz uma PER/DCOMP que retificou a original que tinha demonstrado um credito de IRPJ e CSLL, onde o valor do credito aumentou, ja tinha feito outras PER/DCOMPS abatendo outros impostos com o mesmo credito que tinha informado na 1º declaração (original), agora que retifiquei a 1º PER/DCOMP (original) que gerou o credito, preciso retificar as demais, tanto para atualizar o valor do creito (para maior), quanto mudar o numero da declaração vinculada a elas, que no caso nao seria a original e sim a retificadora. Problema é que quando faço isso aparece a seguinte mensagem "O PER/DCOMP que contém o detalhamento do crédito não é um documento original. Deseja recuperar o documento original?".  
+  
+Entao queria orientação quanto a o procedimento que devo adotar
+
+Assunto
+
+PER/DCOMP
+
+De: **RFOC-Fale Conosco-PerDComp e PerDComp web- DF-RFB-CxCorp** <[perdcomp@rfb.gov.br](mailto:perdcomp@rfb.gov.br)>  
+Date: qua., 9 de jul. de 2025, 07:30  
+Subject: Resposta da Receita Federal sobre PER/DCOMP  
+To: [alexxaviercontabil@gmail.com](mailto:alexxaviercontabil@gmail.com) <[alexxaviercontabil@gmail.com](mailto:alexxaviercontabil@gmail.com)>, [portal.receitafederal@serpro.gov.br](mailto:portal.receitafederal@serpro.gov.br) <[portal.receitafederal@serpro.gov.br](mailto:portal.receitafederal@serpro.gov.br)>  
+
+  
+  
+
+==Quando o primeiro PER/DCOMP é retificado para alterar o valor do crédito inicial, ****não é obrigatório**** retificar os PER/DCOMP subsequentes para corrigir valor do crédito inicial.==  
+  
+==No mesmo sentido, caso a retificação de algum PER/DCOMP, seja o primeiro ou posteriores, altere o saldo de crédito disponível para o próximo PER/DCOMP, ****não é obrigatório**** retificar os PER/DCOMP subsequentes para corrigir o saldo de crédito.==  
+  
+==Em ambas as situações, fica a critério do contribuinte retificar ou não os PER/DCOMP subsequentes. Contudo, se não houver retificação, o contribuinte deve manter um controle próprio do crédito já utilizado e a utilizar.==  
+
+  
+
+Atenciosamente,
+
+  
+
+****EQUIPE FALE CONOSCO PER/DCOMP****
+
+RA146
+
+
+
+
+
 [[per_dcomp-web_-informar-debitos-para-compensacao.pdf]]
-
-
-
-
-
-
-
-
-
 
 
 
