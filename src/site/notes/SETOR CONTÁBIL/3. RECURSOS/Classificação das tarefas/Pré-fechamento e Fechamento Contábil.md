@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-07-25T10:19:14.608-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/classificacao-das-tarefas/pre-fechamento-e-fechamento-contabil/","dgPassFrontmatter":true,"created":"2025-06-05T22:43:33.090-03:00","updated":"2025-07-29T11:21:06.220-03:00"}
 ---
 
 
@@ -54,3 +54,4 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 
 
+![Pasted image 20250729112057.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250729112057.png)

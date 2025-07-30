@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-acrilicos-ltda-444/","dgPassFrontmatter":true,"created":"2025-07-01T13:39:26.075-03:00","updated":"2025-07-08T17:54:05.451-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-acrilicos-ltda-444/","dgPassFrontmatter":true,"created":"2025-07-01T13:39:26.075-03:00","updated":"2025-07-08T17:54:11.194-03:00"}
 ---
 
 **Resumo:**
