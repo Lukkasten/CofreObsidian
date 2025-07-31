@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/1-projetos/projeto-perfomance/","dgPassFrontmatter":true,"created":"2025-06-18T09:26:50.726-03:00","updated":"2025-06-18T09:36:32.420-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/1-projetos/projeto-perfomance/","dgPassFrontmatter":true,"created":"2025-06-18T09:26:50.726-03:00","updated":"2025-06-18T09:36:26.460-03:00"}
 ---
 
 **Resumo:**

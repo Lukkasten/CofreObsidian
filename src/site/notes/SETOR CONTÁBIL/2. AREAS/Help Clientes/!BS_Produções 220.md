@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/bs-producoes-220/","dgPassFrontmatter":true,"created":"2025-01-17T13:39:42.066-03:00","updated":"2025-07-28T17:36:21.646-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/bs-producoes-220/","dgPassFrontmatter":true,"created":"2025-01-17T13:39:42.066-03:00","updated":"2025-07-28T17:36:14.057-03:00"}
 ---
 
 

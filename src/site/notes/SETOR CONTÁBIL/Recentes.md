@@ -1,20 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-29T21:21:27.241-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-07-31T12:11:19.160-03:00"}
 ---
+
+Comunicados Recentes:
+
+[[SETOR CONTÁBIL/3. RECURSOS/Cuidados, orientações/2025072025_Comunicado sobre a classificação das despesas\|2025072025_Comunicado sobre a classificação das despesas]]
+
 
 **Próximas Reuniões:**
 
 26/08/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]] às 09:00 Online, Participantes: Manuela e Jordão
 
-| File                                                                                                                                        |                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Processos JUCEC - Livro Diário e Balanço\|Processos JUCEC - Livro Diário e Balanço]]                  | 1:07 PM - July 17, 2025  |
-| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]                   | 11:50 AM - July 01, 2025 |
-| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]                   | 11:50 AM - July 01, 2025 |
-| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]] | 11:50 AM - July 01, 2025 |
-| [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]]      | 10:43 PM - June 05, 2025 |
+| File                                                                                                                                                                       |                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[SETOR CONTÁBIL/3. RECURSOS/Cuidados, orientações/2025072025_Comunicado sobre a classificação das despesas\|2025072025_Comunicado sobre a classificação das despesas]] | 12:06 PM - July 31, 2025 |
+| [[SETOR CONTÁBIL/3. RECURSOS/JUCEC/Processos JUCEC - Livro Diário e Balanço\|Processos JUCEC - Livro Diário e Balanço]]                                                 | 1:07 PM - July 17, 2025  |
+| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]                                                  | 11:50 AM - July 01, 2025 |
+| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Integrar Conferir - Escrita Fiscal\|Integrar Conferir - Escrita Fiscal]]                                                  | 11:50 AM - July 01, 2025 |
+| [[SETOR CONTÁBIL/3. RECURSOS/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]                                | 11:50 AM - July 01, 2025 |
 
 { .block-language-dataview}
+
+
+
+
+
+
+
+
 
 
 
