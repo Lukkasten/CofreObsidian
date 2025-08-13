@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maxx-norte-442/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-07-08T17:53:50.465-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/maxx-norte-442/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-08-13T15:31:25.459-03:00"}
 ---
 
 **Resumo:**
@@ -11,10 +11,10 @@
 
 Cadastro da Empresa
 - [x] Criar checklist; ✅ 2025-07-01
-- [ ] Envio de checklist;
-- [ ] Cadastro na Domínio;
-- [ ] Cadastrar tarefas no Onvio;
-- [ ] Criar página do site;
+- [x] Envio de checklist; ✅ 2025-08-13
+- [x] Cadastro na Domínio; ✅ 2025-08-13
+- [x] Cadastrar tarefas no Onvio; ✅ 2025-08-13
+- [x] Criar página do site; ✅ 2025-08-13
 - [x] Balanço de abertura; ✅ 2025-07-01 ( Não vai ter backup, SISTEMA ALTERDATA
 
 

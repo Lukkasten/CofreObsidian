@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-acrilicos-ltda-444/","dgPassFrontmatter":true,"created":"2025-07-01T13:39:26.075-03:00","updated":"2025-07-08T17:54:05.451-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-acrilicos-ltda-444/","dgPassFrontmatter":true,"created":"2025-07-01T13:39:26.075-03:00","updated":"2025-08-13T15:30:38.541-03:00"}
 ---
 
 **Resumo:**
@@ -10,8 +10,8 @@
 
 Cadastro da Empresa
 - [x] Criar checklist; ✅ 2025-07-01
-- [ ] Envio de checklist;
-- [ ] Cadastro na Domínio;
+- [x] Envio de checklist; ✅ 2025-08-13
+- [x] Cadastro na Domínio; ✅ 2025-08-13
 - [ ] Cadastrar tarefas no Onvio;
 - [ ] Criar página do site;
 - [ ] Balanço de abertura;

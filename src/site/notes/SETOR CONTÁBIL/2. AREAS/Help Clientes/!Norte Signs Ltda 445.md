@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-signs-ltda-445/","dgPassFrontmatter":true,"created":"2025-07-01T13:40:16.737-03:00","updated":"2025-07-08T17:54:27.647-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-signs-ltda-445/","dgPassFrontmatter":true,"created":"2025-07-01T13:40:16.737-03:00","updated":"2025-08-13T15:30:45.413-03:00"}
 ---
 
 **Resumo:**
@@ -11,10 +11,10 @@
 
 Cadastro da Empresa
 - [x] Criar checklist; ✅ 2025-07-01
-- [ ] Envio de checklist;
-- [ ] Cadastro na Domínio;
+- [x] Envio de checklist; ✅ 2025-08-13
+- [x] Cadastro na Domínio; ✅ 2025-08-13
 - [ ] Cadastrar tarefas no Onvio;
-- [ ] Criar página do site;
+- [x] Criar página do site; ✅ 2025-08-13
 - [ ] Balanço de abertura;
 
 
