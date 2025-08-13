@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-06-18T15:02:48.648-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-08-13T15:03:45.357-03:00"}
 ---
 
 **CONNECT SERVIÇOS**
@@ -104,4 +104,8 @@ A previsão legal de metodologia para cálculo de créditos de PIS/PASEP e COFIN
  - [x] 05/11/2024 - Fazer o Cadastro das novas tarefas da empresa sendo do Lucro Real ✅ 2025-01-30
 
 01/11/2024 - Connect Terceirização saiu do Simples e foi para o Lucro Real a partir da competência Novembro/2024.
+
+
+[[202508131502_Diminuição do Patrimônio\|202508131502_Diminuição do Patrimônio]]
+
 
