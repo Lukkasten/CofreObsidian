@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-14T12:00:27.355-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-14T15:52:44.485-03:00"}
 ---
 
 **Resumo:**
@@ -15,6 +15,8 @@ Substitui o ISS, ICMS.
 > 	- Não incidirá sobre exportações, assegurados ao exportador a manutenção e aproveitamento dos créditos.
 > 	- Legislação única e uniforme em todo território nacional. (==*Um dos grandes desafios do ICMS*==)
 > 	- Cada ente federativo fixará sua alíquota própria em lei específica.
+> 	- Será não cumulativo e por fora
+> 	- Não será objeto de concessão de incentivos fiscais
 > 	
 - Caberá a Lei Complementar;
 	- 
