@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-14T15:52:44.485-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-14T17:26:34.165-03:00"}
 ---
 
 **Resumo:**
@@ -10,16 +10,17 @@ Substitui o ISS, ICMS.
 
 - Imposto de competência compartilhada entre ==estados, Distrito Federal, e Munícipios==;
 - Base de incidência ampla;
-
-> 	- Todos os bens e serviços, inclusive os intangíveis ou imateriais (Ex: aplicativos), inclusive importações.
-> 	- Não incidirá sobre exportações, assegurados ao exportador a manutenção e aproveitamento dos créditos.
-> 	- Legislação única e uniforme em todo território nacional. (==*Um dos grandes desafios do ICMS*==)
-> 	- Cada ente federativo fixará sua alíquota própria em lei específica.
-> 	- Será não cumulativo e por fora
-> 	- Não será objeto de concessão de incentivos fiscais
-> 	
+	- - Todos os bens e serviços, inclusive os intangíveis ou imateriais (Ex: aplicativos), inclusive importações.
+	- Não incidirá sobre exportações, assegurados ao exportador a manutenção e aproveitamento dos créditos.
+	- Legislação única e uniforme em todo território nacional. (==*Um dos grandes desafios do ICMS*==)
+	- Cada ente nacional terá autonomia para fixar sua própria alíquota, dentro dos limites da Lei Complementar
+	- A alíquota do Munícipio do destino será somada com a do Estado de destino, com vistas à aplicação do princípio do destino.
+	- Será não cumulativo e por fora
+	- Não será objeto de concessão de incentivos fiscais (==Visa acaba com a Guerra fiscal==)
 - Caberá a Lei Complementar;
-	- 
+	- Hipóteses de cashback
+	- Processo administrativo fiscal
+	- Obrigações acessórias
 - Comitê Gestor do IBS - Competências Administrativas;
 
 
