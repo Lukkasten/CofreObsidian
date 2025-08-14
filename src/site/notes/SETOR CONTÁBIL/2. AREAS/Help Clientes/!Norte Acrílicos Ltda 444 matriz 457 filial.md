@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-signs-ltda-445/","dgPassFrontmatter":true,"created":"2025-07-01T13:40:16.737-03:00","updated":"2025-08-13T15:55:46.341-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/norte-acrilicos-ltda-444-matriz-457-filial/","dgPassFrontmatter":true,"created":"2025-07-01T13:39:26.075-03:00","updated":"2025-08-13T15:55:28.344-03:00"}
 ---
 
 **Resumo:**
@@ -7,7 +7,6 @@
 
 
 **Notas:**
-
 
 Cadastro da Empresa
 - [x] Criar checklist; ✅ 2025-07-01

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-13T15:34:38.840-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-13T16:42:39.240-03:00"}
 ---
 
-![Pasted image 20250813153433.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250813153433.png)
+![Pasted image 20250813153433.png|1000](/img/user/4%20ARQUIVOS/Pasted%20image%2020250813153433.png)
 
 
 
@@ -29,7 +29,7 @@ Email de migração
 - [x] Envio de checklist; ✅ 2025-08-13
 - [x] Cadastro na Domínio; ✅ 2025-08-13
 - [x] Cadastrar Filial ✅ 2025-08-13
-- [ ] Cadastrar tarefas no Onvio;
+- [x] Cadastrar tarefas no Onvio; ✅ 2025-08-13
 - [x] Criar página do site; ✅ 2025-07-08
       
 	*444 - NORTE ACRILICOS LTDA - CNPJ: 18.412.553/0001-17
@@ -38,7 +38,7 @@ Email de migração
 - [x] Criar checklist; ✅ 2025-08-13
 - [x] Envio de checklist; ✅ 2025-08-13
 - [x] Cadastro na Domínio; ✅ 2025-08-13
-- [ ] Cadastrar tarefas no Onvio;
+- [x] Cadastrar tarefas no Onvio; ✅ 2025-08-13
 - [x] Criar página do site; ✅ 2025-07-08
 	
 	*445 - NORTE SIGNS LTDA - CNPJ: 39.511.182/0001-09
@@ -65,10 +65,11 @@ Email de migração
 	Informo que o BPO Financeiro do GRUPO NORTE também será feito pela Control e está em processo de implantação a partir de hoje, 21/02.
 
 
+
 **Conexões:**
 
 [Pasta do Financeiro](https://drive.google.com/drive/folders/1lIgYIb0MPlE2e-K5rcRd1ct_BMI4yIQS)
 
-[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Maxx Norte 442\|!Maxx Norte 442]]
-[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Acrílicos Ltda 444\|!Norte Acrílicos Ltda 444]]
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Maxx Norte 442 matriz 443 filial\|!Maxx Norte 442 matriz 443 filial]]
+[[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Acrílicos Ltda 444 matriz 457 filial\|!Norte Acrílicos Ltda 444 matriz 457 filial]]
 [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Norte Signs Ltda 445\|!Norte Signs Ltda 445]]
