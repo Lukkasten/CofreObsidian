@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/jucec/processos-jucec-livro-diario-e-balanco/","dgPassFrontmatter":true,"created":"2025-07-17T13:07:48.178-03:00","updated":"2025-07-17T13:55:38.337-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/jucec/processos-jucec-livro-diario-e-balanco/","dgPassFrontmatter":true,"created":"2025-07-17T13:07:48.178-03:00","updated":"2025-07-17T13:55:44.084-03:00"}
 ---
 
 **Resumo:** 

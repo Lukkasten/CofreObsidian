@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-13T16:42:39.240-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-13T16:42:45.285-03:00"}
 ---
 
 ![Pasted image 20250813153433.png|1000](/img/user/4%20ARQUIVOS/Pasted%20image%2020250813153433.png)

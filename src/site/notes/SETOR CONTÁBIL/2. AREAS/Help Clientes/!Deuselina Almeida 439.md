@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/deuselina-almeida-439/","dgPassFrontmatter":true,"created":"2025-07-22T10:05:53.232-03:00","updated":"2025-07-22T12:11:29.878-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/deuselina-almeida-439/","dgPassFrontmatter":true,"created":"2025-07-22T10:05:53.232-03:00","updated":"2025-07-22T12:11:39.122-03:00"}
 ---
 
 ## **Resumo:**

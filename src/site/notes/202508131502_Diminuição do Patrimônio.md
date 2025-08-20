@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/202508131502-diminuicao-do-patrimonio/","dgPassFrontmatter":true,"created":"2025-08-13T15:03:00.669-03:00","updated":"2025-08-13T15:10:16.453-03:00"}
+{"dg-publish":true,"permalink":"/202508131502-diminuicao-do-patrimonio/","dgPassFrontmatter":true,"created":"2025-08-13T15:03:00.669-03:00","updated":"2025-08-13T15:10:27.449-03:00"}
 ---
 
 O maior ajuste foi devido ao ajuste no saldo da aplicação financeira do Bradesco.

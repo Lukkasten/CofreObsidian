@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-07-14T10:20:09.438-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-08-17T12:03:51.243-03:00"}
 ---
 
 #### **Bem-vindos, membros da equipe contábil!**
@@ -26,5 +26,6 @@ Assim como em uma grande engrenagem, cada membro do nosso departamento contábil
 
 
 **By: [[SETOR CONTÁBIL/2. AREAS/Help Interno/!Lucas Rebouças\|!Lucas Rebouças]]**
+Emet (אֱמֶת)
 
 ![Pasted image 20250714100123.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250714100123.png)
