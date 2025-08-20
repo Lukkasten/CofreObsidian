@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-19T23:59:42.673-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-20T00:17:37.947-03:00"}
 ---
 
 Resumo:
@@ -25,7 +25,9 @@ Conexões:
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Não cumulatividade\|Não cumulatividade]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Simples Nacional na Reforma Tributária\|Simples Nacional na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/MEI na Reforma Tributária\|MEI na Reforma Tributária]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Alíquotas e regimes diferenciados\|Alíquotas e regimes diferenciados]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplo de Cálculos\|Exemplo de Cálculos]]
 
 
 

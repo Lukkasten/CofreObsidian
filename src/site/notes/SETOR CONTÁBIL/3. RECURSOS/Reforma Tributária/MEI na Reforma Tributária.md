@@ -13,5 +13,5 @@
 **Conexões:**
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Reforma Tributária\|Reforma Tributária]]
-[[Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/MEI na Reforma Tributária\|MEI na Reforma Tributária]]

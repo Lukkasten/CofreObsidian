@@ -14,5 +14,5 @@
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025\|Lei 214.2025]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei complementar 132.2023\|Lei complementar 132.2023]]
-[[Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/MEI na Reforma Tributária\|MEI na Reforma Tributária]]
