@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/aliquotas-e-regimes-diferenciados/","dgPassFrontmatter":true,"created":"2025-08-14T18:11:44.782-03:00","updated":"2025-08-19T14:30:28.459-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/aliquotas-e-regimes-diferenciados/","dgPassFrontmatter":true,"created":"2025-08-14T18:11:44.782-03:00","updated":"2025-08-19T23:34:52.924-03:00"}
 ---
 
 **Resumo:**
@@ -14,6 +14,9 @@ Regimes específicos
 Isenção e Imunidade
 Regimes favorecidos
 Observação
+
+![Pasted image 20250819233452.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819233452.png)
+
 
 Conexões:
 
