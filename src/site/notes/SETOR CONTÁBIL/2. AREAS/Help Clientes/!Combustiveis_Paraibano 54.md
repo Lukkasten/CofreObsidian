@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/combustiveis-paraibano-54/","dgPassFrontmatter":true,"created":"2025-04-16T10:02:34.793-03:00","updated":"2025-07-28T18:23:39.088-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/combustiveis-paraibano-54/","dgPassFrontmatter":true,"created":"2025-04-16T10:02:34.793-03:00","updated":"2025-07-28T18:23:48.081-03:00"}
 ---
 
 
