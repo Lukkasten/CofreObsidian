@@ -106,6 +106,6 @@ A previsão legal de metodologia para cálculo de créditos de PIS/PASEP e COFIN
 01/11/2024 - Connect Terceirização saiu do Simples e foi para o Lucro Real a partir da competência Novembro/2024.
 
 
-[[202508131502_Diminuição do Patrimônio\|202508131502_Diminuição do Patrimônio]]
+[[SETOR CONTÁBIL/4. ARQUIVOS/202508131502_Diminuição do Patrimônio\|202508131502_Diminuição do Patrimônio]]
 
 
