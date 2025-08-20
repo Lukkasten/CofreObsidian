@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-19T23:20:04.592-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-19T23:59:42.673-03:00"}
 ---
 
 Resumo:
@@ -10,6 +10,7 @@ Notas:
 
 ![Pasted image 20250819231650.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819231650.png)
 
+![Pasted image 20250819235941.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819235941.png)
 Conexões:
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei complementar 132.2023\|Lei complementar 132.2023]]
