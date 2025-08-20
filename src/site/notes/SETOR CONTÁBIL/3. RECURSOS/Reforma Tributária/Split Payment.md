@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/split-payment/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:54.782-03:00","updated":"2025-08-20T00:49:30.841-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/split-payment/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:54.782-03:00","updated":"2025-08-20T00:51:40.122-03:00"}
 ---
 
 **Resumo:**
@@ -68,14 +68,16 @@ Em caso de **parcelamentos**, cada parcela terá retenção proporcional no mome
 
 ## Resumo em tabela
 
-|Tema|Detalhes principais|
-|---|---|
-|O que é|Separação automática do imposto no pagamento, sem nova tributação|
-|Tributos envolvidos|CBS (federal) + IBS (estadual/municipal)|
-|Formas previstas|Inteligente, simplificado (varejo), manual|
-|Benefícios|Menor sonegação, clareza, créditos automáticos, possível redução de alíquota|
-|Principais riscos|Fluxo de caixa, custos, adaptação tecnológica, falhas na regulamentação|
-|Cronograma|Testes em 2026 → implantação gradual → regime completo entre 2027–2028 → até 2033 transição total|
+| Tema                | Detalhes principais                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------- |
+| O que é             | Separação automática do imposto no pagamento, sem nova tributação                                 |
+| Tributos envolvidos | CBS (federal) + IBS (estadual/municipal)                                                          |
+| Formas previstas    | Inteligente, simplificado (varejo), manual                                                        |
+| Benefícios          | Menor sonegação, clareza, créditos automáticos, possível redução de alíquota                      |
+| Principais riscos   | Fluxo de caixa, custos, adaptação tecnológica, falhas na regulamentação                           |
+| Cronograma          | Testes em 2026 → implantação gradual → regime completo entre 2027–2028 → até 2033 transição total |
+https://youtu.be/jWXm5I0oOQ0?t=91
+
 
 ![Pasted image 20250819235319.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819235319.png)
 ![Pasted image 20250819235221.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819235221.png)
