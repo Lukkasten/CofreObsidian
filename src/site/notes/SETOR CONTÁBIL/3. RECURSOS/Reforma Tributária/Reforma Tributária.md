@@ -25,7 +25,7 @@ Conexões:
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Formas de Planejamento\|Formas de Planejamento]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplo de Cálculos\|Exemplo de Cálculos]]
 
-[[Exemplos Práticos - Reforma Tributária\|Exemplos Práticos - Reforma Tributária]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplos Práticos - Reforma Tributária\|Exemplos Práticos - Reforma Tributária]]
 
 
 
