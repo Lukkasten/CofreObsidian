@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/split-payment/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:54.782-03:00","updated":"2025-08-20T00:51:40.122-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/split-payment/","dgPassFrontmatter":true,"created":"2025-08-14T00:07:50.734-03:00","updated":"2025-08-21T20:45:25.464-03:00"}
 ---
 
 **Resumo:**
@@ -85,5 +85,7 @@ https://youtu.be/jWXm5I0oOQ0?t=91
 ![Pasted image 20250819211730.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819211730.png)
 ![Pasted image 20250819212210.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819212210.png)
 
+![Screenshot_20250821_204317_LinkedIn 1 1.jpg](/img/user/4%20ARQUIVOS/Screenshot_20250821_204317_LinkedIn%201%201.jpg)
+![Screenshot_20250821_204302_LinkedIn 1 1.jpg](/img/user/4%20ARQUIVOS/Screenshot_20250821_204302_LinkedIn%201%201.jpg)
 Conexões:
 
