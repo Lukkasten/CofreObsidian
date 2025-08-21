@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/transicao/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:56.849-03:00","updated":"2025-08-19T23:54:41.518-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/transicao/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:56.849-03:00","updated":"2025-08-20T21:50:59.744-03:00"}
 ---
 
 **Resumo:**
 
+A partir de janeiro/2026 começa o período de teste da Reforma Tributária.
+As empresas do [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]] e [[Lucro Presumido na Reforma Tributária\|Lucro Presumido na Reforma Tributária]]
 
 **Notas:**
 

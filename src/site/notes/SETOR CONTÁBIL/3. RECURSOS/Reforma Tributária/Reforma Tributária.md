@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-20T20:12:30.268-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-20T21:51:46.347-03:00"}
 ---
 
 Resumo:
@@ -26,9 +26,12 @@ Conexões:
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Simples Nacional na Reforma Tributária\|Simples Nacional na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/MEI na Reforma Tributária\|MEI na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lucro Real na Reforma Tributária\|Lucro Real na Reforma Tributária]]
+[[Lucro Presumido na Reforma Tributária\|Lucro Presumido na Reforma Tributária]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Alíquotas e regimes diferenciados\|Alíquotas e regimes diferenciados]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Formas de Planejamento\|Formas de Planejamento]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplo de Cálculos\|Exemplo de Cálculos]]
 
+
+[[Conceito - Receita Bruta\|Conceito - Receita Bruta]]
 
 
