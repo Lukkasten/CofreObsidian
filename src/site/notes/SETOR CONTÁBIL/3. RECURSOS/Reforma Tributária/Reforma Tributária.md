@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-20T21:59:36.560-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-20T22:39:16.060-03:00"}
 ---
 
 Resumo:
 
 
-
-Notas:
-
-![Pasted image 20250819231650.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819231650.png)
-
-![Pasted image 20250819235941.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819235941.png)
 Conexões:
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei complementar 132.2023\|Lei complementar 132.2023]]
@@ -31,7 +25,7 @@ Conexões:
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Formas de Planejamento\|Formas de Planejamento]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplo de Cálculos\|Exemplo de Cálculos]]
 
+[[Exemplos Práticos - Reforma Tributária\|Exemplos Práticos - Reforma Tributária]]
 
-[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Conceito - Receita Bruta\|Conceito - Receita Bruta]]
 
 
