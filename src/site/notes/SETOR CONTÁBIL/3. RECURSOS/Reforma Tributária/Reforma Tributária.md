@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-20T22:39:16.060-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-21T22:24:04.129-03:00"}
 ---
 
 Resumo:
@@ -24,7 +24,6 @@ Conexões:
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Alíquotas e regimes diferenciados\|Alíquotas e regimes diferenciados]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Formas de Planejamento\|Formas de Planejamento]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplo de Cálculos\|Exemplo de Cálculos]]
-
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Exemplos Práticos - Reforma Tributária\|Exemplos Práticos - Reforma Tributária]]
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-19T23:23:43.822-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T00:09:07.770-03:00","updated":"2025-08-21T22:31:54.178-03:00"}
 ---
 
 **Resumo:**
@@ -18,12 +18,11 @@ Substitui o ISS, ICMS.
 	- Será não cumulativo e por fora
 	- Não será objeto de concessão de incentivos fiscais (==Visa acaba com a Guerra fiscal==)
 - Caberá a Lei Complementar;
-	- Hipóteses de cashback
+	- Hipóteses de [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Cashback\|Cashback]]
 	- Processo administrativo fiscal
 	- Obrigações acessórias
 - Comitê Gestor do IBS - Competências Administrativas;
 
-![Pasted image 20250819232341.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819232341.png)
 
 **Conexões:**
 

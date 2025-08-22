@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/aliquotas-e-regimes-diferenciados/","dgPassFrontmatter":true,"created":"2025-08-14T18:11:44.782-03:00","updated":"2025-08-21T20:39:59.923-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/aliquotas-e-regimes-diferenciados/","dgPassFrontmatter":true,"created":"2025-08-14T18:11:44.782-03:00","updated":"2025-08-21T22:15:48.849-03:00"}
 ---
 
 **Resumo:**
@@ -16,16 +16,15 @@ Regimes favorecidos
 Observação
 
 Em função de...
-![Pasted image 20250819233452.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250819233452.png)
 
-![Pasted image 20250821202610.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250821202610.png)
-![Pasted image 20250821202957.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250821202957.png)
 
-![Pasted image 20250821203316.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250821203316.png)
-![Pasted image 20250821203401.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250821203401.png)
-![Pasted image 20250821203606.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250821203606.png)
 
-![Pasted image 20250821203957.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250821203957.png)
+
+
+
+
+
+
 
 Conexões:
 

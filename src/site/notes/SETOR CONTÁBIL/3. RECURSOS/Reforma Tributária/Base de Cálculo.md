@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/base-de-calculo/","dgPassFrontmatter":true,"created":"2025-08-20T23:05:10.965-03:00","updated":"2025-08-20T23:19:41.878-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/base-de-calculo/","dgPassFrontmatter":true,"created":"2025-08-20T23:05:10.965-03:00","updated":"2025-08-21T22:17:00.968-03:00"}
 ---
 
  
@@ -23,7 +23,7 @@ VI - demais importâncias cobradas ou recebidas como parte do valor da operaçã
 
 **§ 2º Não integram a base de cálculo do IBS e da CBS:**
 
-![Pasted image 20250820231940.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250820231940.png)
+
 I - o montante do IBS e da CBS incidentes sobre a operação;
 
 II - o montante do Imposto sobre Produtos Industrializados (IPI);

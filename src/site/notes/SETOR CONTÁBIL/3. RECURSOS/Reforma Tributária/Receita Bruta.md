@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/receita-bruta/","dgPassFrontmatter":true,"created":"2025-08-20T22:40:51.243-03:00","updated":"2025-08-20T22:55:12.929-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/receita-bruta/","dgPassFrontmatter":true,"created":"2025-08-20T22:40:51.243-03:00","updated":"2025-08-21T22:17:30.570-03:00"}
 ---
 
 **RESUMO:**
@@ -20,11 +20,6 @@
 **CONEXÕES:**
 
 
-
-![Pasted image 20250820210256.png|1](/img/user/4%20ARQUIVOS/Pasted%20image%2020250820210256.png)
-![Pasted image 20250820210022.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250820210022.png)
-
-![Pasted image 20250820205740.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250820205740.png)
 
 
 
