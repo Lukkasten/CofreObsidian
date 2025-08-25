@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T00:09:07.770-03:00","updated":"2025-08-21T22:31:54.178-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-21T22:32:06.426-03:00"}
 ---
 
 **Resumo:**

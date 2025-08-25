@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/cbs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.056-03:00","updated":"2025-08-21T22:14:12.259-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/cbs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.056-03:00","updated":"2025-08-21T22:14:19.910-03:00"}
 ---
 
 

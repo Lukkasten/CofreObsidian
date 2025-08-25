@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/g-telefarma-com-med-jose-walter-489/","dgPassFrontmatter":true,"created":"2025-08-12T13:38:08.946-03:00","updated":"2025-08-13T10:08:00.198-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/2-areas/help-clientes/g-telefarma-com-med-jose-walter-489/","dgPassFrontmatter":true,"created":"2025-08-12T13:38:08.946-03:00","updated":"2025-08-13T10:07:53.920-03:00"}
 ---
 
 **Resumo:**
