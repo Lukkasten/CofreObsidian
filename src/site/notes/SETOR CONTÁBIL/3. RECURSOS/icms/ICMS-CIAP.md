@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T09:42:07.764-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T09:48:02.388-03:00"}
 ---
 
 **ICMS CIAP**
@@ -10,7 +10,7 @@
 
 **FORTES FISCAL-> RELATÓRIOS-> CIAP-> DEMONSTRATIVO ANALITICO (CIAP – MODELO D)-> COLOCA O PERIODO:**
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![Pasted image 20250826094325.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094325.png)
 
 ESSE É O VALOR DO CIAP.  
 LANÇAMENTO:
@@ -29,22 +29,23 @@ Verificar se tem um bem novo.
 
 **O VALOR QUE TEM QUE ESTAR NO A RECUPERAR:**
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![Pasted image 20250826094338.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094338.png)
 
 **LANÇAR OS CRÉDITOS:**
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![Pasted image 20250826094345.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094345.png)
 
 **APÓS TODOS OS LANÇAMENTOS O A RECUPERAR TEM QUE BATER COM O VALOR A BAIXO:**
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![Pasted image 20250826094355.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094355.png)
 
 **APÓS FAZER ISSO, CONFERIR OS VALORES LANÇADOS TAMBÉM NO DOMINIO:**
 
 **RELATÓRIOS-> LIVROS-> LIVROS FISCAIS-> TICAR REGISTRO DE ICMS-> COLOCAR PERIODO.**
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![Pasted image 20250826094754.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094754.png)
+![Pasted image 20250826094800.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094800.png)
+
 
 **O VALOR DO CIAP, TEM SOMENTE NO FORTES, NÃO APARECE NO RELATÓRIO DO DOMINIO. POR ISSO FAZ TUDO PELO FORTES, E NO DOMINIO SÓ CONFERE.**
