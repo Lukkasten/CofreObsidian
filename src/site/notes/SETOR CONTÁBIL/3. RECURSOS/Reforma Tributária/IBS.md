@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-21T22:32:06.426-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-26T15:05:43.713-03:00"}
 ---
 
 **Resumo:**
@@ -27,5 +27,5 @@ Substitui o ISS, ICMS.
 **Conexões:**
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/CBS\|CBS]]
-[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025\|Lei 214.2025]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025\|SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei complementar 132.2023\|Lei complementar 132.2023]]

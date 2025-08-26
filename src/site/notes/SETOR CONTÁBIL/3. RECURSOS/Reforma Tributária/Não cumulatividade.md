@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/nao-cumulatividade/","dgPassFrontmatter":true,"created":"2025-08-14T16:35:43.918-03:00","updated":"2025-08-22T00:00:44.985-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/nao-cumulatividade/","dgPassFrontmatter":true,"created":"2025-08-14T16:35:43.918-03:00","updated":"2025-08-26T15:05:43.756-03:00"}
 ---
 
 **Resumo:**
@@ -13,5 +13,5 @@ A não cumulatividade é um dos pilares da [[SETOR CONTÁBIL/3. RECURSOS/Reforma
 
 **Conexões:**
 
-[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025\|Lei 214.2025]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025\|SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei complementar 132.2023\|Lei complementar 132.2023]]
