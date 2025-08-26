@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-08-13T14:48:37.514-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-08-26T13:11:41.694-03:00"}
 ---
 
 Comunicados Recentes:
@@ -9,7 +9,6 @@ Comunicados Recentes:
 
 **Próximas Reuniões:**
 
-26/08/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]] às 09:00 Online, Participantes: Manuela e Jordão
 27/08/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Com. med. Pinheiro 9081\|!Com. med. Pinheiro 9081]] às 15:00 Online ( Manu e Samária)
 
 
@@ -30,7 +29,8 @@ Comunicados Recentes:
 
 
 
-
+**Agosto/2025**
+26/08/2025 - [[SETOR CONTÁBIL/2. AREAS/Help Clientes/!Farmacia Menescal 297\|!Farmacia Menescal 297]] às 09:00 Online, Participantes: Manuela e Jordão ❌
 
 
 
