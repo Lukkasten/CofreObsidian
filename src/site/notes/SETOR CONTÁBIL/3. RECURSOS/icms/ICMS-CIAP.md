@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T09:49:27.916-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T13:18:02.043-03:00"}
 ---
 
 **ICMS CIAP**
@@ -10,7 +10,7 @@
 
 **FORTES FISCAL-> RELATÓRIOS-> CIAP-> DEMONSTRATIVO ANALITICO (CIAP – MODELO D)-> COLOCA O PERIODO:**
 
-![Pasted image 20250826094325.png](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094325.png)
+![Pasted image 20250826094325.png|600](/img/user/4%20ARQUIVOS/Pasted%20image%2020250826094325.png)
 
 ESSE É O VALOR DO CIAP.  
 LANÇAMENTO:
