@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/cuidados-orientacoes/2025072025-comunicado-sobre-a-classificacao-das-despesas/","dgPassFrontmatter":true,"created":"2025-07-31T12:06:02.777-03:00","updated":"2025-07-31T12:12:12.450-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/cuidados-orientacoes/2025072025-comunicado-sobre-a-classificacao-das-despesas/","dgPassFrontmatter":true,"created":"2025-07-31T12:06:02.777-03:00","updated":"2025-08-26T12:24:38.762-03:00"}
 ---
 
+teste
 
 Equipe,
 

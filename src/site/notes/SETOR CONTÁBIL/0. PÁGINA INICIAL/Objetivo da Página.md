@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-08-18T15:16:06.519-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/setor-contabil/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-08-26T12:11:46.819-03:00"}
 ---
 
 #### **Bem-vindos, membros da equipe contábil!**
@@ -15,7 +15,9 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 4. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
 5. [[SETOR CONTÁBIL/3. RECURSOS/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
-Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[SETOR CONTÁBIL/3. RECURSOS/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[SETOR CONTÁBIL/3. RECURSOS/Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do Onvio e apresentada no formato de dashboards.
+Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[SETOR CONTÁBIL/3. RECURSOS/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[SETOR CONTÁBIL/3. RECURSOS/Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do Onvio e apresentada no formato de dashboards
+
+Para acompanhamento e auditoria temos o **ACCORDBI**,[Clique aqui](obsidian://opengate?title=Clique%20aqui&url=https%3A%2F%2Fwww.accordbi.com.br%2Fmenu_responsivo%2Fmenu_responsivo.php)esse sistema permite cruzar informações dos sistemas naturais do fisco com o sistema domínio ( atualmente o módulo fiscal)
 
 
 **Este espaço digital harmoniza três conceitos fundamentais:**  

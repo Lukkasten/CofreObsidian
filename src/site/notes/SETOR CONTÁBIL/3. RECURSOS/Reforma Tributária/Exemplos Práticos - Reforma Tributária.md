@@ -4,5 +4,5 @@
 
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Receita Bruta\|Receita Bruta]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Base de Cálculo\|Base de Cálculo]]
-[[Fato Gerador\|Fato Gerador]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Fato Gerador\|Fato Gerador]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Apuração 1\|Apuração 1]]
