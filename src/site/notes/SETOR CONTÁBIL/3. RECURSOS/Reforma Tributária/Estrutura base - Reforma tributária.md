@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/estrutura-base-reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-26T15:07:09.442-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/reforma-tributaria/estrutura-base-reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-26T15:08:58.096-03:00"}
 ---
 
 **Resumo:**
@@ -7,7 +7,7 @@
 
 **Conexões:**
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei complementar 132.2023\|Lei complementar 132.2023]]
-[[Lei 214.2025\|Lei 214.2025]]
+[[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Lei 214.2025\|Lei 214.2025]]
 [[Instituição e definições conceituais\|Instituição e definições conceituais]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Hipóteses de Incidência, Não incidência, Imunidade e isenção\|Hipóteses de Incidência, Não incidência, Imunidade e isenção]]
 [[SETOR CONTÁBIL/3. RECURSOS/Reforma Tributária/Base de Cálculo\|Base de Cálculo]]
