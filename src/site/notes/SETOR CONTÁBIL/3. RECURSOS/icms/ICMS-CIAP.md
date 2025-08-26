@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T09:48:02.388-03:00"}
+{"dg-publish":true,"permalink":"/setor-contabil/3-recursos/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T09:49:27.916-03:00"}
 ---
 
 **ICMS CIAP**
@@ -49,3 +49,4 @@ Verificar se tem um bem novo.
 
 
 **O VALOR DO CIAP, TEM SOMENTE NO FORTES, NÃO APARECE NO RELATÓRIO DO DOMINIO. POR ISSO FAZ TUDO PELO FORTES, E NO DOMINIO SÓ CONFERE.**
+
