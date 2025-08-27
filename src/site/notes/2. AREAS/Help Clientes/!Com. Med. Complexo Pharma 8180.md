@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-complexo-pharma-8180/","dgPassFrontmatter":true,"created":"2025-06-13T10:40:25.646-03:00","updated":"2025-06-13T11:00:24.390-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-complexo-pharma-8180/","dgPassFrontmatter":true,"created":"2025-06-13T10:40:25.646-03:00","updated":"2025-06-13T11:00:13.235-03:00"}
 ---
 
 

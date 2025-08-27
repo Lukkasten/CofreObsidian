@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nota-de-debito/","dgPassFrontmatter":true,"created":"2025-06-16T11:06:29.327-03:00","updated":"2025-06-16T11:29:07.676-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nota-de-debito/","dgPassFrontmatter":true,"created":"2025-06-16T11:06:29.327-03:00","updated":"2025-06-16T11:29:01.572-03:00"}
 ---
 
 

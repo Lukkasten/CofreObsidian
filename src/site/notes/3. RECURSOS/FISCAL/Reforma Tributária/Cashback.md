@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/cashback/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.982-03:00","updated":"2025-08-25T08:48:34.886-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/cashback/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.982-03:00","updated":"2025-08-23T17:34:46.501-03:00"}
 ---
 
 **Resumo:**

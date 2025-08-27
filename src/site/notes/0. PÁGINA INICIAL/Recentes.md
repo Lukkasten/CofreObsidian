@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-pagina-inicial/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-08-26T18:35:52.331-03:00"}
+{"dg-publish":true,"permalink":"/0-pagina-inicial/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-08-26T18:35:45.867-03:00"}
 ---
 
 Comunicados Recentes:

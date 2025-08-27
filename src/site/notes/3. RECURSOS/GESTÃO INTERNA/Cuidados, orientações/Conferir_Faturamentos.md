@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/conferir-faturamentos/","dgPassFrontmatter":true,"created":"2025-06-27T08:28:44.725-03:00","updated":"2025-06-27T08:39:08.085-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/conferir-faturamentos/","dgPassFrontmatter":true,"created":"2025-06-27T08:28:44.725-03:00","updated":"2025-06-27T08:30:19.746-03:00"}
 ---
 
 
