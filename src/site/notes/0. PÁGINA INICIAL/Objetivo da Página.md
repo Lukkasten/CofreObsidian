@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-09-03T17:35:50.453-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-09-03T17:36:05.890-03:00"}
 ---
 
 
@@ -20,7 +20,7 @@ Assim como em uma grande engrenagem, cada membro do nosso departamento contábil
 
 **Produtividade**
 
-O [[!SPA\|!SPA]] ou WorkMonitor, é uma solução para monitoração de produtividade que registra atividades digitais dos colaboradores — desde cliques, teclas digitadas e navegação até gravação de telas em HD — e permite classificar essas atividades como produtivas, improdutivas ou neutras.
+O [[3. RECURSOS/PRODUTIVIDADE/!SPA\|!SPA]] ou WorkMonitor, é uma solução para monitoração de produtividade que registra atividades digitais dos colaboradores — desde cliques, teclas digitadas e navegação até gravação de telas em HD — e permite classificar essas atividades como produtivas, improdutivas ou neutras.
 
 **Auditoria, apresentação**
 
@@ -37,4 +37,3 @@ Para acompanhamento e auditoria temos o **ACCORDBI**,[Clique aqui](obsidian://op
 **By: [[2. AREAS/Help Interno/!Lucas Rebouças\|!Lucas Rebouças]]**
 Emet (אֱמֶת)
 
-![Pasted image 20250714100123.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250714100123.png)
