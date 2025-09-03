@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-pinheiro-9081/","dgPassFrontmatter":true,"created":"2025-07-11T11:31:26.066-03:00","updated":"2025-07-29T22:18:17.272-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-pinheiro-9081/","dgPassFrontmatter":true,"created":"2025-07-11T11:31:26.066-03:00","updated":"2025-08-29T14:34:30.944-03:00"}
 ---
 
 
@@ -14,3 +14,5 @@
 
 
 **Conexões:**
+
+[[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Modelo - Checklist cadastro de cliente\|Modelo - Checklist cadastro de cliente]]

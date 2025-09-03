@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/central-farma-comercio-varejista/","dgPassFrontmatter":true,"created":"2025-08-25T09:42:37.296-03:00","updated":"2025-08-25T09:46:37.601-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/central-farma-comercio-varejista/","dgPassFrontmatter":true,"created":"2025-08-25T09:42:37.296-03:00","updated":"2025-08-29T14:36:26.144-03:00"}
 ---
 
 RESUMO:
@@ -13,3 +13,30 @@ NOTAS:
 CONEXÕES
 
 [[2. AREAS/Help Clientes/!Grupo_Central\|!Grupo_Central]]
+
+[[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Modelo - Checklist cadastro de cliente\|Modelo - Checklist cadastro de cliente]]
+
+
+
+
+- [x] Regime Tributário - Lucro Presumido ✅ 2025-08-29
+- [x] 1º envio de checklist ( Mensal) cadastrar na planilha de envio de checklist ✅ 2025-08-29
+- [x] Tipo de escrituração contábil ✅ 2025-08-29
+- [x] Implantar Balanço de Abertura ✅ 2025-08-29
+- [x] Verificar envio de ECD e ECF anteriores ✅ 2025-08-29
+- [x] Possui Filial? ✅ 2025-08-29
+- [x] Importar movimentação p/ Dominio ✅ 2025-08-29
+- [ ] Delegar Responsável
+- [ ] Cadastrar / Tarefas no Onvio
+	- [ ] Recorrentes
+	- [ ] Ordem de serviços
+	      LALUR
+	      FECHAMENTO
+- Cadastrar / Domínio
+    - [ ] Fiscal; ⭐
+    - [ ] Folha; ⭐
+    - [ ] Patrimônio; ⭐
+    - [ ] Lalur - Caso seja do Lucro Real;
+- [ ] Cadastrar / no Mister Contador 
+- [ ] Cadastrar /  na Planilha - D Grupo de Clientes
+- [ ] Cadastrar / Checklist Online Aguardando alguma informação

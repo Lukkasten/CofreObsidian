@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-25T09:44:11.116-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-27T10:32:02.862-03:00"}
 ---
 
 
@@ -76,3 +76,7 @@ Email de migração
 [[2. AREAS/Help Clientes/!Maxx Norte 442 matriz 443 filial\|!Maxx Norte 442 matriz 443 filial]]
 [[2. AREAS/Help Clientes/!Norte Acrílicos Ltda 444 matriz 457 filial\|!Norte Acrílicos Ltda 444 matriz 457 filial]]
 [[2. AREAS/Help Clientes/!Norte Signs Ltda 445\|!Norte Signs Ltda 445]]
+
+Maxx Norte - 442
+Norte Acrílicos - 444
+Norte Signs - 445

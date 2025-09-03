@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-07-02T10:28:52.116-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-09-01T14:49:36.342-03:00"}
 ---
 
 
@@ -26,15 +26,16 @@
 **ANALISTA CONTÁBIL**
 
 - Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos
-- [[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens/Direcionar emails recebidos\|Direcionar emails recebidos]]
+- [[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Direcionar emails recebidos\|Direcionar emails recebidos]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Guia - IRPJ CSLL - Lucro Real - Trimestral\|Guia - IRPJ CSLL - Lucro Real - Trimestral]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Guia - Pis Cofins - Não Cumulativo\|Guia - Pis Cofins - Não Cumulativo]]
+- [[3. RECURSOS/CONTABIL/Fechamento do Balanço\|Fechamento do Balanço]]
+- [[Apresentação dos resultados\|Apresentação dos resultados]]
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/IBGE\|IBGE]]
-- [[3. RECURSOS/CONTABIL/Fechamento do Balanço\|Fechamento do Balanço]]
 - [[Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]
 - [[Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
 
