@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-08-26T15:25:57.487-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-09-03T17:35:50.453-03:00"}
 ---
 
 
@@ -17,6 +17,12 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 5. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
 Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[3. RECURSOS/GESTÃO INTERNA/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[3. RECURSOS/GESTÃO INTERNA/Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do Onvio e apresentada no formato de dashboards
+
+**Produtividade**
+
+O [[!SPA\|!SPA]] ou WorkMonitor, é uma solução para monitoração de produtividade que registra atividades digitais dos colaboradores — desde cliques, teclas digitadas e navegação até gravação de telas em HD — e permite classificar essas atividades como produtivas, improdutivas ou neutras.
+
+**Auditoria, apresentação**
 
 Para acompanhamento e auditoria temos o **ACCORDBI**,[Clique aqui](obsidian://opengate?title=Clique%20aqui&url=https%3A%2F%2Fwww.accordbi.com.br%2Fmenu_responsivo%2Fmenu_responsivo.php)esse sistema permite cruzar informações dos sistemas naturais do fisco com o sistema domínio ( atualmente o módulo fiscal)
 
