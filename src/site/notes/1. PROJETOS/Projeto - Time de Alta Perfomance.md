@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"created":"2025-09-03T09:12:28.018-03:00","updated":"2025-09-03T12:58:53.100-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"created":"2025-09-03T09:12:28.018-03:00","updated":"2025-09-03T14:35:43.894-03:00"}
 ---
+
+**Data: 03/09/2025**
+Reunião de abertura do Projeto: Lucas, Gabriella, Alex, Manu, Guilherme, Debora, Brayann, Erica, Jordão, Samária, Marcos Carvalho, Iuri.
 
 **Objetivo:** Entrega mensal das demonstrações contábeis
 
@@ -10,7 +13,7 @@
 
 **Quando:** Diariamente a partir das 17:00, se houver algum imprevisto fazer o planejamento com antecedência. em média 10 minutos.
 
-**Como:** Será analisado o planejamento do dia, e o realizado do dia anterior;
+**Como:** Será analisado o planejamento do dia seguinte e o realizado no dia.
 
 
 **Como fazer o planejamento?** Por prioridade.
@@ -49,6 +52,10 @@
 **Observações:**
 
 A princípio será feito com o coordenador, supervisor, analistas e assistentes.
+
+
+
+
 
 
 ![Pasted image 20250618092702.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250618092702.png)
