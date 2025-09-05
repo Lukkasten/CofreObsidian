@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-pagina-inicial/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-09-01T10:22:08.214-03:00"}
+{"dg-publish":true,"permalink":"/0-pagina-inicial/recentes/","dgPassFrontmatter":true,"created":"2025-07-14T17:35:31.415-03:00","updated":"2025-09-05T11:14:32.895-03:00"}
 ---
 
 Comunicados Recentes:
@@ -45,5 +45,3 @@ lucas
 
 
 
-Farmácia Menescal
-Comercio
