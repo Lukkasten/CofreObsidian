@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/produtividade/spa/","dgPassFrontmatter":true,"created":"2025-09-03T17:28:24.007-03:00","updated":"2025-09-03T17:31:58.160-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/produtividade/spa/","dgPassFrontmatter":true,"created":"2025-09-03T17:28:24.007-03:00","updated":"2025-09-04T13:15:18.875-03:00"}
 ---
 
 
 #### Sempre que tiver alguma reunião fora do TS, adicionar atividade extra conforme vídeo abaixo:
+
+[[Como registrar atividades extras no SPA.mp4]]
 
 
 ### O que é essa plataforma?

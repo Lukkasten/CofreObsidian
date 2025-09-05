@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"created":"2025-06-03T23:37:20.721-03:00","updated":"2025-06-04T08:37:18.384-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"created":"2025-06-03T23:37:20.721-03:00","updated":"2025-09-05T10:22:05.354-03:00"}
 ---
 
 
+[[3. RECURSOS/GESTÃO INTERNA/TERMO DE ACORDO PARA ADESÃO A TRABALHO HIBRIDO E CIÊNCIA DAS REGRAS E ORIENTAÕES DEVIDAS\|TERMO DE ACORDO PARA ADESÃO A TRABALHO HIBRIDO E CIÊNCIA DAS REGRAS E ORIENTAÕES DEVIDAS]]
+
+#modelo #termo #híbrido
 ## **1. Introdução**
 
 Este documento apresenta o modelo de trabalho híbrido a ser implementado na Departamento Contábil, com o objetivo de alinhar produtividade, bem-estar da equipe, qualidade no atendimento ao cliente e eficiência nos processos internos.
