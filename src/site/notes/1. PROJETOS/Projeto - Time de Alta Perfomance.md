@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"created":"2025-09-03T09:12:28.018-03:00","updated":"2025-09-05T11:57:50.031-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"created":"2025-09-03T09:12:28.018-03:00","updated":"2025-09-05T11:58:55.850-03:00"}
 ---
 
 **Data: 03/09/2025**
@@ -30,7 +30,6 @@ Reunião de abertura do Projeto: Lucas, Gabriella, Alex, Manu, Guilherme, Debora
 	Fiscal Presumido e Simples 22, 23, 24
 	Envio dos darfs (pis, cofins) prazo máximo dia 20
 	Envio dos darfs (IRPJ e CSLL) prazo máximo de envio dia 25
-	
 	Lalur dia 29
 
 
