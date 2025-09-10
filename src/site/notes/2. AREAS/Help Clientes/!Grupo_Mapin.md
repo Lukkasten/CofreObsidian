@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-08T12:04:24.646-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-08T15:55:14.936-03:00"}
 ---
 
 
 **EMPRESAS DO GRUPO:**
 
-**[[!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Qual regime? Lucro resumido
+**[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Qual regime? Lucro Presumido
 **[[!POPVIDA 18\|!POPVIDA 18]]** - Qual regime? Lucro Real
-**[[!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real
+**[[2. AREAS/Help Clientes/!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real
 **[[!Agil Entregas\|!Agil Entregas]]** - Simples Nacional
 
 

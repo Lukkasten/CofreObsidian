@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"created":"2025-09-03T09:12:28.018-03:00","updated":"2025-09-05T11:58:55.850-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"created":"2025-09-03T09:12:28.018-03:00","updated":"2025-09-09T18:01:43.075-03:00"}
 ---
+
+https://www.youtube.com/watch?v=RF2SPxLepnE
+
 
 **Data: 03/09/2025**
 Reunião de abertura do Projeto: Lucas, Gabriella, Alex, Manu, Guilherme, Debora, Brayann, Erica, Jordão, Samária, Marcos Carvalho, Iuri.

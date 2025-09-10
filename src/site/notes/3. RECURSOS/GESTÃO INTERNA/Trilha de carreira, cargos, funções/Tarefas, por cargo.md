@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-09-01T14:49:36.342-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-09-09T10:47:03.895-03:00"}
 ---
 
 
@@ -27,6 +27,7 @@
 
 - Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Direcionar emails recebidos\|Direcionar emails recebidos]]
+- [[Conduzir reunião de apresentação junto ao cliente\|Conduzir reunião de apresentação junto ao cliente]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Guia - IRPJ CSLL - Lucro Real - Mensal\|Guia - IRPJ CSLL - Lucro Real - Mensal]]
