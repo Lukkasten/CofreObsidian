@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-08T15:55:14.936-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T14:34:39.059-03:00"}
 ---
 
 
+_________
 **EMPRESAS DO GRUPO:**
 
-**[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Qual regime? Lucro Presumido
-**[[!POPVIDA 18\|!POPVIDA 18]]** - Qual regime? Lucro Real
+**[[2. AREAS/Help Clientes/!POPVIDA 18\|!POPVIDA 18]]** - Lucro Real
 **[[2. AREAS/Help Clientes/!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real
-**[[!Agil Entregas\|!Agil Entregas]]** - Simples Nacional
+**[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Lucro Presumido
+**[[2. AREAS/Help Clientes/!Agil Entregas 84\|!Agil Entregas 84]]** - Simples Nacional
+____________
 
 
 
-![Pasted image 20250908110602.png](/img/user/Pasted%20image%2020250908110602.png)
+![Pasted image 20250908110602 1.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250908110602%201.png)
 ____
 #### **Dia 08/09/2025**
 ##### **Reunião de Alinhamento e Apresentação - GRUPO MAPIN**

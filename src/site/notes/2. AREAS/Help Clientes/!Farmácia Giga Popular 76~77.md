@@ -1,8 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-giga-popular-76-77/","dgPassFrontmatter":true,"created":"2025-09-08T11:38:27.164-03:00","updated":"2025-09-08T12:03:12.327-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-giga-popular-76-77/","dgPassFrontmatter":true,"created":"2025-09-08T11:38:27.164-03:00","updated":"2025-09-12T14:17:57.083-03:00"}
 ---
 
+
+_______
+[Planilha de Migração](https://docs.google.com/spreadsheets/d/1Hl4sXp8xcGMFG34395IdJnlEbxfes0LOsMREWvOt_vg/edit?gid=1978312704#gid=1978312704)
 [[2. AREAS/Help Clientes/!Grupo_Mapin\|!Grupo_Mapin]]
+_____________
+
+
+**HISTÓRICOS:**
 
 Segunda-feira, 01 Setembro 2025
  

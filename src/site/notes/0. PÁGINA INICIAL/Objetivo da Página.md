@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-09-03T17:36:05.890-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-06-03T22:08:34.152-03:00","updated":"2025-09-11T11:05:12.991-03:00"}
 ---
 
 
@@ -20,7 +20,7 @@ Assim como em uma grande engrenagem, cada membro do nosso departamento contábil
 
 **Produtividade**
 
-O [[3. RECURSOS/PRODUTIVIDADE/!SPA\|!SPA]] ou WorkMonitor, é uma solução para monitoração de produtividade que registra atividades digitais dos colaboradores — desde cliques, teclas digitadas e navegação até gravação de telas em HD — e permite classificar essas atividades como produtivas, improdutivas ou neutras.
+O [[3. RECURSOS/PRODUTIVIDADE/!SPA\|!SPA]] ou WorkMonitor, (Relatório é enviado diariamente por email) é uma solução para monitoração de produtividade que registra atividades digitais dos colaboradores — desde cliques, teclas digitadas e navegação até gravação de telas em HD — e permite classificar essas atividades como produtivas, improdutivas ou neutras.
 
 **Auditoria, apresentação**
 
