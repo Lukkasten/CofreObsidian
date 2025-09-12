@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T14:34:39.059-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T15:23:57.244-03:00"}
 ---
 
 
@@ -8,14 +8,33 @@ _________
 
 **[[2. AREAS/Help Clientes/!POPVIDA 18\|!POPVIDA 18]]** - Lucro Real
 **[[2. AREAS/Help Clientes/!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real
-**[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Lucro Presumido
-**[[2. AREAS/Help Clientes/!Agil Entregas 84\|!Agil Entregas 84]]** - Simples Nacional
+**[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Lucro Presumido - Empresa simplificada
+**[[2. AREAS/Help Clientes/!Agil Entregas 84\|!Agil Entregas 84]]** - Simples Nacional - Sem escrituração
+
 ____________
+**CADASTROS NOS SISTEMAS:**
 
+- [x] Cadastro na Domínio; Gabriella ✅ 2025-09-12
+- [ ] Cadastro de Planilha de Checklist;
+- [ ] Cadastro na planilha de envio de checklist;
+- [x] Criar páginas no site ✅ 2025-09-12
+- [x] Cadastro planilha - D Grupo Clientes - Lucas ✅ 2025-09-12
+- [x] Cadastro de Tarefas no Onvio; ✅ 2025-09-12
+- [x] Cadastro no Accord BI; ✅ 2025-09-12
+- [x] Delegar responsável; - Lucas ✅ 2025-09-12
+- [ ] Backup - Antiga Contabilidade; 🟡
 
+_________
+
+**EMAILS:**
 
 ![Pasted image 20250908110602 1.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250908110602%201.png)
 ____
+
+
+**HISTÓRICO**
+
+
 #### **Dia 08/09/2025**
 ##### **Reunião de Alinhamento e Apresentação - GRUPO MAPIN**
 ## Tópicos
