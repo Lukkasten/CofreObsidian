@@ -1,27 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T15:23:57.244-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T17:03:55.305-03:00"}
 ---
+
 
 
 _________
 **EMPRESAS DO GRUPO:**
 
-**[[2. AREAS/Help Clientes/!POPVIDA 18\|!POPVIDA 18]]** - Lucro Real
+**[[2. AREAS/Help Clientes/!POPVIDA 18\|!POPVIDA 18]]** - Lucro Real (até a competência agosto movimento folha e fiscal na Domínio)
 **[[2. AREAS/Help Clientes/!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real
 **[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Lucro Presumido - Empresa simplificada
 **[[2. AREAS/Help Clientes/!Agil Entregas 84\|!Agil Entregas 84]]** - Simples Nacional - Sem escrituração
 
 ____________
-**CADASTROS NOS SISTEMAS:**
+**CADASTROS NOS SISTEMAS:** DO GRUPO
 
 - [x] Cadastro na Domínio; Gabriella ✅ 2025-09-12
-- [ ] Cadastro de Planilha de Checklist;
-- [ ] Cadastro na planilha de envio de checklist;
+- [x] Cadastro de Planilha de Checklist; ✅ 2025-09-12
+- [x] Cadastro na planilha de envio de checklist; ✅ 2025-09-12
 - [x] Criar páginas no site ✅ 2025-09-12
 - [x] Cadastro planilha - D Grupo Clientes - Lucas ✅ 2025-09-12
 - [x] Cadastro de Tarefas no Onvio; ✅ 2025-09-12
 - [x] Cadastro no Accord BI; ✅ 2025-09-12
 - [x] Delegar responsável; - Lucas ✅ 2025-09-12
+- [x] Precisa enviar algum comunicado para o time sobre o regime tributário? Sim ✅ 2025-09-12
 - [ ] Backup - Antiga Contabilidade; 🟡
 
 _________

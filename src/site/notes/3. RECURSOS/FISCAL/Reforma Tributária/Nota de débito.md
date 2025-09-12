@@ -1,9 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nota-de-debito/","dgPassFrontmatter":true,"created":"2025-06-16T11:06:29.327-03:00","updated":"2025-06-16T11:29:01.572-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nota-de-debito/","dgPassFrontmatter":true,"created":"2025-06-16T11:06:29.327-03:00","updated":"2025-09-12T16:51:17.825-03:00"}
 ---
 
+https://www.normaslegais.com.br/legislacao/sd-23-2013-cosit.htm
+________________
+**SOLUÇÃO DE DIVERGÊNCIA COSIT 23, DE 23 DE SETEMBRO DE 2013**
 
+D.O.U.: 14.10.2013
 
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO 
+
+EMENTA: É possível a concentração, em uma única empresa, do controle dos gastos referentes a departamentos de apoio administrativo centralizados, para posterior [rateio dos custos e despesas administrativos comuns](https://www.portaltributario.com.br/artigos/convenio-de-rateio-de-custos-comuns.htm) entre empresas que não a mantenedora da estrutura administrativa concentrada. Para que os valores movimentados em razão do citado rateio de custos e despesas sejam dedutíveis do [IRPJ](https://www.portaltributario.com.br/tributos/irpj.html "IRPJ"), exige-se que correspondam a custos e despesas necessárias, normais e usuais, devidamente comprovadas e pagas; que sejam calculados com base em critérios de rateio razoáveis e objetivos, previamente ajustados, formalizados por instrumento firmado entre os intervenientes; que correspondam ao efetivo gasto de cada empresa e ao preço global pago pelos bens e serviços; que a empresa centralizadora da operação aproprie como despesa tão-somente a parcela que lhe cabe de acordo com o critério de rateio, assim como devem proceder de forma idêntica as empresas descentralizadas beneficiárias dos bens e serviços, e contabilize as parcelas a serem ressarcidas como direitos de créditos a recuperar; e, finalmente, que seja mantida escrituração destacada de todos os atos diretamente relacionados com o rateio das despesas administrativas. 
+
+Relativamente à Contribuição para o [PIS/PASEP](https://www.portaltributario.com.br/tributos/pis.htm "PIS") e à [COFINS](https://www.portaltributario.com.br/tributos/cofins.html "cofins"), observadas as exigências estabelecidas no item anterior para regularidade do rateio de dispêndios em estudo: a) os valores auferidos pela pessoa jurídica centralizadora das atividades compartilhadas como reembolso das demais pessoas jurídicas integrantes do grupo econômico pelo pagamento dos dispêndios comuns não integram a base de cálculo das contribuições em lume apurada pela pessoa jurídica centralizadora; b) a apuração de eventuais créditos da não cumulatividade das mencionadas contribuições deve ser efetuada individualizadamente em cada pessoa jurídica integrante do grupo econômico, com base na parcela do rateio de dispêndios que lhe foi imputada; c) o rateio de dispêndios comuns deve discriminar os itens integrantes da parcela imputada a cada pessoa jurídica integrante do grupo econômico para permitir a identificação dos itens de dispêndio que geram para a pessoa jurídica que os suporta direito de creditamento, nos termos da legislação correlata.
+
+DISPOSITIVOS LEGAIS: arts. 251 e 299, Decreto nº 3.000, de 26 de março de 1999; art. 123 da Lei nº 5.172, de 25 de outubro de 1966 (CTN); arts. 2º e 3º da Lei nº 9.718, de 27 de novembro de 1998; art. 1º da Lei nº 10.637, de 30 de dezembro de 2002; e art. 1º da Lei nº 10.833, de 29 de dezembro de 2003.
+________________
 # Consulta sobre Dedutibilidade de Nota de Débito – IRPJ e CSLL
 
 **Data da Consulta:** 13/06/2025  
@@ -44,3 +56,7 @@ Assim, para que a despesa seja considerada dedutível para fins de IRPJ e CSLL, 
 
 - [DOCUMENTO HÁBIL E IDÔNEO - Boletim 16/2018](https://www.econeteditora.com.br/boletim_imposto_renda/ir-18/16_ass_div_doc_habil_idoneo.php)
 - [LUCRO REAL – Despesas Dedutíveis - Boletim 06/2020](https://www.econeteditora.com.br/boletim_imposto_renda/ir-20/06_irpj_lucro_real.php)
+
+
+
+
