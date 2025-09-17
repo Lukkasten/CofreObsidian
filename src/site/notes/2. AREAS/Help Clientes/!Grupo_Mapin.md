@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T17:03:55.305-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T17:05:10.815-03:00"}
 ---
 
 
@@ -8,10 +8,11 @@ _________
 **EMPRESAS DO GRUPO:**
 
 **[[2. AREAS/Help Clientes/!POPVIDA 18\|!POPVIDA 18]]** - Lucro Real (até a competência agosto movimento folha e fiscal na Domínio)
-**[[2. AREAS/Help Clientes/!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real
+**[[2. AREAS/Help Clientes/!Farmácia Giga Popular 76~77\|!Farmácia Giga Popular 76~77]]** - Lucro Real (até a competência agosto movimento folha e fiscal na Domínio)
 **[[2. AREAS/Help Clientes/!Mapin Gestão e Participação 1\|!Mapin Gestão e Participação 1]]** - Lucro Presumido - Empresa simplificada
 **[[2. AREAS/Help Clientes/!Agil Entregas 84\|!Agil Entregas 84]]** - Simples Nacional - Sem escrituração
 
+#Hudson
 ____________
 **CADASTROS NOS SISTEMAS:** DO GRUPO
 
