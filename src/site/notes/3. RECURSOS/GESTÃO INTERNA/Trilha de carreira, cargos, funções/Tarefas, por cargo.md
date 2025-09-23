@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-09-09T10:47:03.895-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-09-23T13:12:40.226-03:00"}
 ---
 
 
@@ -43,18 +43,24 @@
 
 **SUPERVISOR CONTÁBIL**
 
-1. Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos;
-2. Acompanhar o sistema de gestão de tarefas, garantindo as entregas no prazo, conjuntamente com o coordenador;
-3. Atender fiscalização e auditoria fornecendo informações e documentos;
-4. Supervisionar o processo de migração, orientando sobre os padrões a serem seguidos e implantação das melhorias apontadas pelo setor de inteligência;
-5. Supervisionar a integração de novos clientes, saídos da migração para a produção;
-6. Revisar balanços e documentos correspondentes, assim como, impostos e seus cálculos
-7. Auxiliar a equipe em resolução de tarefas e processos, que por algum motivo não estão sendo solucionados;
-8. Acompanhar mudanças na situação das empresas, que impactem em mudanças de regime, alteração de sócio, entre outros, repassando para a equipe as informações necessários, e aos clientes as orientações devidas;
-9. Participar das reuniões de migração junto com o analista contábil responsável;
-10. Repassar comunicação sobre a equipe ao setor administrativo, em particular a execução de tarefas/atendimento durante as ausências;
-11. Realizar a distribuição de tarefas e responsabilidades, conforme planejamento, e necessidades de clientes e empresa em conjunto com o coordenador;
-12. Manter-se atualizado quanto as alterações de legislação difundindo para a equipe as modificações que impactam na operação das atividades do cliente.
+- Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos;
+- Acompanhar o sistema de gestão de tarefas, garantindo as entregas no prazo, conjuntamente com o coordenador;
+- Atender fiscalização e auditoria fornecendo informações e documentos;
+- Supervisionar o processo de migração, orientando sobre os padrões a serem seguidos e implantação das melhorias apontadas pelo setor de inteligência;
+- Supervisionar a integração de novos clientes, saídos da migração para a produção;
+- Revisar balanços e documentos correspondentes, assim como, impostos e seus cálculos
+- Auxiliar a equipe em resolução de tarefas e processos, que por algum motivo não estão sendo solucionados;
+- Acompanhar mudanças na situação das empresas, que impactem em mudanças de regime, alteração de sócio, entre outros, repassando para a equipe as informações necessários, e aos clientes as orientações devidas;
+- Participar das reuniões de migração junto com o analista contábil responsável;
+- Repassar comunicação sobre a equipe ao setor administrativo, em particular a execução de tarefas/atendimento durante as ausências;
+- Realizar a distribuição de tarefas e responsabilidades, conforme planejamento, e necessidades de clientes e empresa em conjunto com o coordenador;
+- Manter-se atualizado quanto as alterações de legislação difundindo para a equipe as modificações que impactam na operação das atividades do cliente.
+
+**RESUMO**
+- Verificar o cumprimento dos procedimentos operacionais e treinar os operadores;
+- Conduzir o treinamento de anomalias;
+- Ajudar o coordenador a resolver problemas de gerência ( atuando nesse caso na função assessoria);
+
 
 
 **COORDENADOR CONTÁBIL**

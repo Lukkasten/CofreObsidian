@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-06-16T14:13:17.761-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-09-23T14:33:02.058-03:00"}
 ---
+
+
+
 
 
 **Resumo:**

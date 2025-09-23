@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/202503130900-lucro-real-empresa-de-vigilancia-e-seguranca-privada/","dgPassFrontmatter":true,"created":"2025-09-23T09:38:10.695-03:00","updated":"2025-09-23T09:43:50.225-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/202503130900-lucro-real-empresa-de-vigilancia-e-seguranca-privada/","dgPassFrontmatter":true,"created":"2025-09-23T09:38:10.695-03:00","updated":"2025-09-23T10:58:36.823-03:00"}
 ---
 
 
 ____
-#TaxPratico #Regimemisto #PIS #COFINS #ServiçosdeVigilância #Alíquota #Retenção
+#TaxPratico #Regimemisto #PIS #COFINS #ServiçosdeVigilância #Alíquota #Retenção #CódigoDARF
 ___
 Boa tarde, Gostaria de saber se podemos tributar pis e cofins no regime cumulativo utilizando as alíquotas 0,65% e 3% respectivamente. E se podemos nessa sistemática utilizar as retenções nas fontes da prestação dos serviços para abater do imposto a pagar. Gostaria também da base legal para essas questões acima! CNAE: 80.11-1-01 Atividades de Vigilância e Segurança Privada.
 
@@ -47,4 +47,23 @@ Atenciosamente, Equipe Tax Prático.
 
 _enviada em 13/03/2025_
 
-#TaxPratico
+
+**Uma empresa do lucro real que presta serviços de vigilância, no pis e cofins apura na sistemática de regime cumulativo. Nessa situação qual o código do darf de pis e cofins?**  
+
+---
+
+**Postado em: 23/09/2025**  
+Última atualização: 23/09/2025
+
+Bom dia,
+
+Prezado Consulente,
+
+Para o PIS e COFINS regime cumulativo se utilizam os códigos de receita **8109** e **2172** respectivamente.
+
+  
+Atenciosamente, Equipe Tax Prático.
+
+---
+
+_enviada em 23/09/2025_
