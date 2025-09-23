@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-12T17:05:10.815-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-18T08:59:31.592-03:00"}
 ---
 
 
@@ -24,6 +24,8 @@ ____________
 - [x] Cadastro de Tarefas no Onvio; ✅ 2025-09-12
 - [x] Cadastro no Accord BI; ✅ 2025-09-12
 - [x] Delegar responsável; - Lucas ✅ 2025-09-12
+- [x] Incluir no fluxo de fechamento ( Ordem de serviços) ✅ 2025-09-17
+- [x] Cadastrar tarefa ECD/ECF ( se for necessário) ✅ 2025-09-18
 - [x] Precisa enviar algum comunicado para o time sobre o regime tributário? Sim ✅ 2025-09-12
 - [ ] Backup - Antiga Contabilidade; 🟡
 

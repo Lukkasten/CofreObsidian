@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/fechamento-do-balanco/","dgPassFrontmatter":true,"created":"2025-06-16T11:48:14.105-03:00","updated":"2025-06-16T11:56:11.319-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/fechamento-do-balanco/","dgPassFrontmatter":true,"created":"2025-06-16T11:48:14.105-03:00","updated":"2025-09-18T11:11:56.948-03:00"}
 ---
 
 
@@ -10,6 +10,14 @@ Compreende as atividades de conferência, conciliação, ajustes e encerramento 
 
 **Nota:**
 
+Dia 18/09/2025
+Equipe,
+
+A partir de hoje, todas as solicitações de fechamento ou reabertura no módulo Domínio Contabilidade e (LALUR) deverão ser encaminhadas exclusivamente para a Gabriella, acompanhadas do motivo da solicitação.
+
+Essa medida tem como objetivo preservar a integridade dos fechamentos, garantindo maior controle e evitando retrabalho decorrente de alterações não justificadas ou sem a devida ciência do processo.
+
+Contamos com a colaboração de todos para manter a organização e a segurança das informações.
 ---
 
 **Conexões:**
