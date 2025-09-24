@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"created":"2025-09-16T09:26:00.128-03:00","updated":"2025-09-17T12:10:41.865-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"created":"2025-09-16T09:26:00.128-03:00","updated":"2025-09-24T08:26:01.163-03:00"}
 ---
 
 
@@ -28,6 +28,7 @@ ____
 
 
 
+Dia 24/09/2025 - Reunião Cliente | Presencial
 
-
+ [acompanhamento mensal](https://docs.google.com/spreadsheets/d/1kE3lPt4Wl_2Wzm7DZ2OtsCERX7iy_62N/edit?gid=899953363#gid=899953363)
 

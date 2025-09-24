@@ -16,7 +16,7 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 4. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
 5. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
-Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[3. RECURSOS/GESTÃO INTERNA/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[3. RECURSOS/GESTÃO INTERNA/Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do [[Onvio\|Onvio]] e apresentada no formato de dashboards
+Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[3. RECURSOS/GESTÃO INTERNA/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[3. RECURSOS/GESTÃO INTERNA/Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do [[3. RECURSOS/PRODUTIVIDADE/Onvio\|Onvio]] e apresentada no formato de dashboards
 
 **Produtividade**
 
@@ -24,7 +24,7 @@ O [[3. RECURSOS/PRODUTIVIDADE/!SPA\|!SPA]] ou WorkMonitor, (Relatório é enviad
 
 **Auditoria, apresentação**
 
-Para acompanhamento e auditoria temos o **[[AccordBI\|AccordBI]]**,[Clique aqui](obsidian://opengate?title=Clique%20aqui&url=https%3A%2F%2Fwww.accordbi.com.br%2Fmenu_responsivo%2Fmenu_responsivo.php)esse sistema permite cruzar informações dos sistemas naturais do fisco com o sistema domínio ( atualmente o módulo fiscal)
+Para acompanhamento e auditoria temos o **[[3. RECURSOS/PRODUTIVIDADE/AccordBI\|AccordBI]]**,[Clique aqui](obsidian://opengate?title=Clique%20aqui&url=https%3A%2F%2Fwww.accordbi.com.br%2Fmenu_responsivo%2Fmenu_responsivo.php)esse sistema permite cruzar informações dos sistemas naturais do fisco com o sistema domínio ( atualmente o módulo fiscal)
 
 
 **Este espaço digital harmoniza três conceitos fundamentais:**  
