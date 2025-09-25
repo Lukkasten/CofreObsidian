@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-09-23T17:37:41.206-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-09-24T08:37:00.352-03:00"}
 ---
 
 
-🔴 Dia 23/09/2025
+🟢 Dia 23/09/2025
 Simulação da Projeção do Trimestre Ano 2025. [[2. AREAS/Help Interno/!Brayann ACJ - 07.04.2025\|!Brayann ACJ - 07.04.2025]] está fazendo o preenchimento.
 
 

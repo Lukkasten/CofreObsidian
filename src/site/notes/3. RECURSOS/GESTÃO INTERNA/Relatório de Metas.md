@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-09-23T14:41:26.385-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-09-25T13:36:36.819-03:00"}
 ---
 
-Incluir o percentual das tarefas concluídas na coluna de fechamento.
+- [x] Incluir o percentual das tarefas concluídas na coluna de fechamento. ✅ 2025-09-25
+Ao passar o mouse, é possível verificar essa informação.
 
 
 

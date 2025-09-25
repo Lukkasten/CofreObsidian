@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-telefarma-com-med-jose-walter-489/","dgPassFrontmatter":true,"created":"2025-08-12T13:38:08.946-03:00","updated":"2025-08-13T10:07:53.920-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-telefarma-com-med-jose-walter-489/","dgPassFrontmatter":true,"created":"2025-08-12T13:38:08.946-03:00","updated":"2025-09-25T13:40:00.664-03:00"}
 ---
 
 **Resumo:**
 
-A [Efigenia](https://app.gestta.com.br/attendance/#/chat/contact-list/62e120d8836fc8000648fbb1) comprou o CNPJ e a partir da competência Agosto/2025 a empresa ficará no lucro real.
-A empresa faz parte do grupo Telefarma, possa ser que eles façam transferências entre empresas verificar isso em reunião.
+1. A [Efigenia](https://app.gestta.com.br/attendance/#/chat/contact-list/62e120d8836fc8000648fbb1) comprou o CNPJ e a partir da competência Agosto/2025 a empresa ficará no lucro real.
+2. A empresa faz parte do grupo Telefarma, possa ser que eles façam transferências entre empresas verificar isso em reunião.
+
+3. partir de da competência agosto/2025 implantar os saldos bancários.
+
+4. Não confundir com a Farmácia Jose Walter
 
 **Ações Técnicas:**
 
@@ -25,10 +29,6 @@ A empresa faz parte do grupo Telefarma, possa ser que eles façam transferência
 
 
 **Notas:**
-
-1) partir de da competência agosto/2025 implantar os saldos bancários.
-
-2) Não confundir com a Farmácia Jose Walter
 
 
 
