@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-09-24T09:03:23.615-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-09-29T13:31:35.036-03:00"}
 ---
 
+## Convite: Reunião de Alinhamento e Apresentação - 139 - CARLOS ADAI... - qua. 1 out. 2025 9:30am - 10:30am (BRT) (Lucas Rebouças - Control)
 
+____
 
 Terça-feira, 23 Setembro 2025
  
@@ -13,3 +15,4 @@ Informo que a empresa CARLOS ADAIU DE LIMA de CNPJ Nº 33.917.166/0001-26, está
 Para mais informações, consulte a planilha de migração disponível no campo "Observação" da tarefa.
 
 Qualquer dúvida, estou á disposição! 
+____

@@ -5,7 +5,7 @@
 
 #### Sempre que tiver alguma reunião fora do TS, adicionar atividade extra conforme vídeo abaixo:
 
-[[Como registrar atividades extras no SPA.mp4]]
+[[Como registrar atividades extras no SPA.mp4\|Como registrar atividades extras no SPA.mp4]]
 
 
 ### O que é essa plataforma?

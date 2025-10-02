@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20250917113211.png|200](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250917113211.png)
+![[Pasted image 20250917113211.png\|200]]
 
 **Observações importantes:** 
 
@@ -69,17 +69,17 @@ Adicionará nas despesas R$ 20.000,00 referente a despesa de treinamentos
 
 Foi retirado todas as bonificações e o [[2. AREAS/Help Interno/!Guilherme ACJ 11.07.2025\|!Guilherme ACJ 11.07.2025]] reclassificará com alguma conta do balanço patrimonial.
 
-![Pasted image 20250925131928.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250925131928.png)
-![Pasted image 20250925153142.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250925153142.png)
+![[Pasted image 20250925131928.png\|Pasted image 20250925131928.png]]
+![[Pasted image 20250925153142.png\|Pasted image 20250925153142.png]]
 
 
 
 08/2025
 
-![Pasted image 20250925153703.png](/img/user/Pasted%20image%2020250925153703.png)
+![[Pasted image 20250925153703.png\|Pasted image 20250925153703.png]]
 
 07/2025
-![Pasted image 20250925153749.png](/img/user/Pasted%20image%2020250925153749.png)
+![[Pasted image 20250925153749.png\|Pasted image 20250925153749.png]]
 
 06/2025
-![Pasted image 20250925153830.png](/img/user/Pasted%20image%2020250925153830.png)
+![[Pasted image 20250925153830.png\|Pasted image 20250925153830.png]]

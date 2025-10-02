@@ -1,6 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/combustiveis-paraibano-54/","dgPassFrontmatter":true,"created":"2025-04-16T10:02:34.793-03:00","updated":"2025-07-28T18:23:39.088-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/combustiveis-paraibano-54/","dgPassFrontmatter":true,"created":"2025-04-16T10:02:34.793-03:00","updated":"2025-09-30T11:57:22.595-03:00"}
 ---
+
+_____
+**Reunião:** DIA 30/09/2025
+**Participantes:** Lucas, Sergio, Hudson
+
+
+🟢 Enviar email para o Theofylo solicitando que sempre envie as notas de serviços tomados de outros municípios.
+🟢 Deixar o pagamento do trimestre sempre em 2 cotas
+🟢 Wesley
+
+![Pasted image 20250930113428.png|100](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250930113428.png)
+
+
+______
+
+
+
 
 
 **Resumo:**
