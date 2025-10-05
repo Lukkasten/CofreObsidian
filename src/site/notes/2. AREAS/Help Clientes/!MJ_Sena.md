@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"created":"2024-12-23T11:27:53.592-03:00","updated":"2025-07-18T14:11:18.834-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"created":"2024-12-23T11:27:53.592-03:00","updated":"2025-07-18T14:11:29.014-03:00"}
 ---
 
 ![Pasted image 20250718134530.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250718134530.png)

@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/benedito-vicente-124/","dgPassFrontmatter":true,"created":"2025-09-29T15:43:42.898-03:00","updated":"2025-09-30T08:21:43.152-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/benedito-vicente-124/","dgPassFrontmatter":true,"created":"2025-09-29T15:43:42.898-03:00","updated":"2025-10-03T00:22:33.706-03:00"}
 ---
 
 **CONEXÕES**
 ___
-
+[Reunião de alinhamento](https://mail.google.com/mail/u/1/?pli=1#inbox/FMfcgzQcpwvCtsHqVDFZGZsSxxCBBljw)
 [Planilha de migração](https://docs.google.com/spreadsheets/d/12k77gFCyjKuidKQoU-tztPxaiXHbVTNzt7jndmqGNTw/edit?gid=1978312704#gid=1978312704)
 ___
+
+
+
 
 
 **HISTÓRICO:**

@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-09-29T13:31:35.036-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-10-03T00:21:00.038-03:00"}
 ---
+
+
+
+REUNIÃO DE ALINHAMENTO - MIGRAÇÃO
+https://mail.google.com/mail/u/1/?pli=1#inbox/FMfcgzQcpwvCtsJlhFDSLBfmjzHQpkdF
+
 
 ## Convite: Reunião de Alinhamento e Apresentação - 139 - CARLOS ADAI... - qua. 1 out. 2025 9:30am - 10:30am (BRT) (Lucas Rebouças - Control)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/is-imposto-seletivo/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.638-03:00","updated":"2025-08-29T08:21:54.088-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/is-imposto-seletivo/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.638-03:00","updated":"2025-08-29T08:39:07.984-03:00"}
 ---
 
 # 🚦 Imposto Seletivo  

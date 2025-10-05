@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/gestao-interna/acompanhamento-semanal/","dgPassFrontmatter":true,"created":"2025-08-29T09:35:28.071-03:00","updated":"2025-08-29T11:24:48.127-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/gestao-interna/acompanhamento-semanal/","dgPassFrontmatter":true,"created":"2025-08-29T09:35:28.071-03:00","updated":"2025-08-29T11:24:54.789-03:00"}
 ---
 
 
