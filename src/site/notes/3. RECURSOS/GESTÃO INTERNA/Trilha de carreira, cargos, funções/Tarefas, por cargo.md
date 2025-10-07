@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-09-23T13:12:46.172-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-10-07T14:13:30.635-03:00"}
 ---
 
 
@@ -54,7 +54,7 @@
 - Participar das reuniões de migração junto com o analista contábil responsável;
 - Repassar comunicação sobre a equipe ao setor administrativo, em particular a execução de tarefas/atendimento durante as ausências;
 - Realizar a distribuição de tarefas e responsabilidades, conforme planejamento, e necessidades de clientes e empresa em conjunto com o coordenador;
-- Manter-se atualizado quanto as alterações de legislação difundindo para a equipe as modificações que impactam na operação das atividades do cliente.
+- **Manter-se atualizado quanto as alterações de legislação difundindo para a equipe as modificações que impactam na operação das atividades do cliente.**
 
 **RESUMO**
 - Verificar o cumprimento dos procedimentos operacionais e treinar os operadores;

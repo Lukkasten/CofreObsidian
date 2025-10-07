@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-em-construtoras/","dgPassFrontmatter":true,"created":"2025-06-05T22:17:41.238-03:00","updated":"2025-06-05T22:26:52.697-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-em-construtoras/","dgPassFrontmatter":true,"created":"2025-06-05T22:17:41.238-03:00","updated":"2025-06-05T22:26:56.516-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/east-coast-shippings-ltda/","dgPassFrontmatter":true,"created":"2025-10-02T09:17:58.596-03:00","updated":"2025-10-02T14:54:30.405-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/east-coast-shippings-ltda/","dgPassFrontmatter":true,"created":"2025-10-02T09:17:58.596-03:00","updated":"2025-10-02T14:54:22.231-03:00"}
 ---
 
 ----
@@ -7,9 +7,9 @@
 **Segmento:** Logística
 
 ____
-![Pasted image 20251002145228.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020251002145228.png)
+![[Pasted image 20251002145228.png\|Pasted image 20251002145228.png]]
 
-![Pasted image 20251002145254.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020251002145254.png)
+![[Pasted image 20251002145254.png\|Pasted image 20251002145254.png]]
 
 
 

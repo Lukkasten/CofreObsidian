@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"created":"2025-06-03T23:37:20.721-03:00","updated":"2025-09-05T10:23:48.868-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"created":"2025-06-03T23:37:20.721-03:00","updated":"2025-09-05T10:23:41.847-03:00"}
 ---
 
 

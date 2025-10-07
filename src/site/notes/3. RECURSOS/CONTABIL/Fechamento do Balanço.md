@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/fechamento-do-balanco/","dgPassFrontmatter":true,"created":"2025-06-16T11:48:14.105-03:00","updated":"2025-09-18T11:12:03.832-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/fechamento-do-balanco/","dgPassFrontmatter":true,"created":"2025-06-16T11:48:14.105-03:00","updated":"2025-09-18T11:11:56.948-03:00"}
 ---
 
 

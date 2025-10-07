@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/produtividade/onvio/","dgPassFrontmatter":true,"created":"2025-09-23T14:33:27.753-03:00","updated":"2025-09-30T22:23:55.030-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/produtividade/onvio/","dgPassFrontmatter":true,"created":"2025-09-23T14:33:27.753-03:00","updated":"2025-10-06T08:41:42.497-03:00"}
 ---
 
 
@@ -20,7 +20,7 @@ Confirmado: ✅ Os relatórios financeiros e contábeis (Extratos bancários, et
 .
 **[INTEGRAR/CONFERIR - FOLHA](https://app.gestta.com.br/admin/#/sidebar/task/edit/5cb76ddfabb4f917d18c71f9/details)**
 Integração e Conferência da Folha.
-Salvar os relatórios nas pastas do servidor em suas devidas competências (Mês/Ano)
+
 .
 📌 CONFERÊNCIAS ADICIONAIS
 Confirmado: ✅ Os relatórios da folha ( Resumo do período, Férias, Rescisão, entre outros) estão salvos nas pastas do servidor em suas devidas competências (Mês/Ano)
@@ -49,4 +49,3 @@ Confirmado: ✅ Os relatórios do fiscal ( Resumo por acumulador, faturamento, e
   REGISTRAR/CONFERIR - NFSE (PRESTADORA)
 
 
-![[Pasted image 20250930222354.png\|Pasted image 20250930222354.png]]
