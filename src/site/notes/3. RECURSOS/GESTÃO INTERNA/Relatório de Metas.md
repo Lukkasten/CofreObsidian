@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-10-15T22:10:21.487-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"created":"2025-06-16T13:22:16.392-03:00","updated":"2025-10-15T22:20:20.978-03:00"}
 ---
 
 **Resumo:**
@@ -9,8 +9,18 @@ O [relatório de metas](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4N
 
 **Classes:**
 
-**A++ =** CLIENTES DO LUCRO REAL ENTREGA MENSAL
-**A+ =** CLIENTES QUE TEM REUNIÃO/ENTREGA MENSAL ( EXCETO LUCRO REAL)
-**A  =** EMPRESAS DO LUCRO REAL ENTREGA TRIMESTRAL
-**B, E B+ =** LUCRO PRESUMIDO E SIMPLES ENTREGA TRIMESTRAL
-**C =** CLIENTE SIMPLIFICADOS ENTREGA SEMESTRAL
+**A++ =** Cliente do Lucro Real Entrega Mensal
+**A+ =** Cliente que têm reunião/entrega mensal (Exceto Lucro Real)
+**A  =** Empresas do Lucro Real Entrega Trimestral
+**B, E B+ =** Lucro Presumido e Simples Nacional entrega Trimestral
+**C =** Clientes Simplificados entrega semestral
+
+
+**PARA O ACOMPANHAMENTO DIÁRIO É NECESSÁRIO:**
+
+1) Priorizar empresas nessa ordem: A++, A+, A, B+ B e C;
+2) Manter o checklist contábil, sempre atualizado;
+3) Status da tarefa evidenciando a realidade;
+4) Sempre que concluir uma tarefa, efetuar a baixa no [[3. RECURSOS/PRODUTIVIDADE/Onvio\|Onvio]]
+
+**TEMPO MÉDIO PARA CADA PESSOA 10 MINUTOS**
