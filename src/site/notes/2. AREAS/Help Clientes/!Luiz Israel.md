@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/luiz-israel/","dgPassFrontmatter":true,"created":"2025-07-29T22:11:32.106-03:00","updated":"2025-07-29T22:12:36.699-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/luiz-israel/","dgPassFrontmatter":true,"created":"2025-07-29T22:11:32.106-03:00","updated":"2025-07-29T22:12:30.349-03:00"}
 ---
 
 Resumo:

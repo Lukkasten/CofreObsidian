@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-09-24T08:37:00.352-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-10-15T21:20:15.670-03:00"}
 ---
 
-
-🟢 Dia 23/09/2025
-Simulação da Projeção do Trimestre Ano 2025. [[2. AREAS/Help Interno/!Brayann ACJ - 07.04.2025\|!Brayann ACJ - 07.04.2025]] está fazendo o preenchimento.
+🟢 15/10/2025 Gerar o DAE para autenticação do Balanço Ano 2024
+🟢 15/10/2025 Enviar junto com o DAE o Balanço Patrimonial, e DRE Atualizado Ano 2024
+🟢 23/09/2025 Simulação da Projeção do Trimestre Ano 2025. [[2. AREAS/Help Interno/!Brayann ACJ - 07.04.2025\|!Brayann ACJ - 07.04.2025]] está fazendo o preenchimento.
 
 
 

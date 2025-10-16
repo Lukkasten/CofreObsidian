@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/2-areas/help-clientes/plenar-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-11T09:27:18.307-03:00"}
+{"dg-publish":true,"CNPJ":"10.433.367/0001-52","permalink":"/2-areas/help-clientes/plenar-servicos-492/","dgPassFrontmatter":true,"created":"2025-07-01T13:53:27.914-03:00","updated":"2025-07-11T09:27:25.764-03:00"}
 ---
 
 **Resumo:**

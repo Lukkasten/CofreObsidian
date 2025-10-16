@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/mister-contador/","dgPassFrontmatter":true,"created":"2025-06-16T23:00:19.308-03:00","updated":"2025-07-11T13:51:19.044-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/mister-contador/","dgPassFrontmatter":true,"created":"2025-06-16T23:00:19.308-03:00","updated":"2025-10-09T11:35:05.265-03:00"}
 ---
+
+1. Asa Brasil;
+2. Complexo Pharma;
+3. Farmacia Realce;
+
 
 
 **Resumo:**

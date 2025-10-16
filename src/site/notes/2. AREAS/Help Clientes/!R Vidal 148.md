@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"created":"2025-10-05T00:44:19.820-03:00","updated":"2025-10-05T00:55:58.275-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/r-vidal-148/","dgPassFrontmatter":true,"created":"2025-10-13T14:29:07.141-03:00","updated":"2025-10-13T14:35:07.573-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
- - 
+Contas bancárias
+ Itau 7979 c/c 99160-6
+CEF agencia 3281 c/c 1553-0
 
 
 
@@ -52,4 +54,5 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
 

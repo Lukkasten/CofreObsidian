@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-cavalcante/","dgPassFrontmatter":true,"created":"2025-04-16T10:03:28.299-03:00","updated":"2025-10-06T15:51:04.384-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-cavalcante/","dgPassFrontmatter":true,"created":"2025-04-16T10:03:28.299-03:00","updated":"2025-10-14T10:56:47.312-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -58,3 +58,5 @@ ___
 ___
 
 A reunião será às 15:00 dia 24/07/2025 e será online
+
+![[Pasted image 20251014105639.png\|Pasted image 20251014105639.png]]
