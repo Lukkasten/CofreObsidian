@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"created":"2025-06-13T15:09:17.397-03:00","updated":"2025-07-23T09:21:56.617-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"created":"2025-06-13T15:09:17.397-03:00","updated":"2025-10-24T21:29:54.574-03:00"}
 ---
 
 
 
 **Resumo:**
+
+![Pasted image 20251024212952.png](/img/user/Pasted%20image%2020251024212952.png)
+
+
 
 
 **Nota:**
