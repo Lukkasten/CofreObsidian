@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/d-p-de-andrade/","dgPassFrontmatter":true,"created":"2025-09-12T11:16:09.177-03:00","updated":"2025-09-12T11:26:40.006-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/d-p-de-andrade/","dgPassFrontmatter":true,"created":"2025-09-12T11:16:09.177-03:00","updated":"2025-09-12T11:26:34.245-03:00"}
 ---
 
 Reunião online de migração para apresentação das análises das empresas do Grupo.

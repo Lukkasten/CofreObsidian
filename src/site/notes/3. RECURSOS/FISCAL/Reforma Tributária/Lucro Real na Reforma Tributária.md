@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/lucro-real-na-reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-19T23:46:00.437-03:00","updated":"2025-08-21T22:15:23.478-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/lucro-real-na-reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-19T23:46:00.437-03:00","updated":"2025-08-21T22:15:30.837-03:00"}
 ---
 
 

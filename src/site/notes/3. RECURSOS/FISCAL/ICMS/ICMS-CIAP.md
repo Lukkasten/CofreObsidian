@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T13:18:11.540-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/icms/icms-ciap/","dgPassFrontmatter":true,"created":"2025-08-26T09:41:43.532-03:00","updated":"2025-08-26T13:18:02.043-03:00"}
 ---
 
 **ICMS CIAP**

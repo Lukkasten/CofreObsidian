@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"created":"2024-10-09T08:43:25.989-03:00","updated":"2025-10-08T23:47:43.367-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"created":"2024-10-09T08:43:25.989-03:00","updated":"2025-10-08T23:47:53.428-03:00"}
 ---
 
 [[4. ARQUIVOS/Migração Grupo Evidence para Domínio\|Migração Grupo Evidence para Domínio]]

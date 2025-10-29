@@ -1,5 +1,5 @@
 ---
-{"cssClasses":null,"dg-publish":true,"permalink":"/4-arquivos/papel-do-analista/","dgPassFrontmatter":true,"created":"2024-07-03T13:42:12.000-03:00","updated":"2025-10-08T16:57:04.479-03:00"}
+{"cssClasses":null,"dg-publish":true,"permalink":"/4-arquivos/papel-do-analista/","dgPassFrontmatter":true,"created":"2024-07-03T13:42:12.000-03:00","updated":"2025-10-08T16:56:56.323-03:00"}
 ---
 
 ROBERTA

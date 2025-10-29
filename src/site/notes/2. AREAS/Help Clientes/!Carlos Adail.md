@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-10-03T00:21:00.038-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-10-03T00:21:09.127-03:00"}
 ---
 
 
