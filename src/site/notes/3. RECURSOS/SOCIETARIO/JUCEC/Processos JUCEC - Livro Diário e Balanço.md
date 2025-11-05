@@ -99,5 +99,5 @@ Observação a ser feita é que para gerar o DAE do livro diário é necessário
 
 
 
-![Pasted image 20251029112525.png](/img/user/Pasted%20image%2020251029112525.png)
-![Pasted image 20251029112536.png](/img/user/Pasted%20image%2020251029112536.png)
+![Pasted image 20251029112525.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020251029112525.png)
+![Pasted image 20251029112536.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020251029112536.png)

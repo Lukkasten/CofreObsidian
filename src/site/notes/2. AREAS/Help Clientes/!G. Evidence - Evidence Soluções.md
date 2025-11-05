@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"created":"2024-10-09T08:43:25.989-03:00","updated":"2025-10-30T14:24:07.604-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"created":"2024-10-09T08:43:25.989-03:00","updated":"2025-11-03T12:21:12.353-03:00"}
 ---
+
+* Orientações sobre a Reforma Tributaria  
+* Orientações sobre Distribuição de Lucros (PL 1087/2025)  
+* Analises Tributaria (LR-Presumido)
 
 [[4. ARQUIVOS/Migração Grupo Evidence para Domínio\|Migração Grupo Evidence para Domínio]]
 

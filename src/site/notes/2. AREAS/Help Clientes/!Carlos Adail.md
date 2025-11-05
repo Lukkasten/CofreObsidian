@@ -1,7 +1,76 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-10-03T00:21:09.127-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-11-05T10:26:56.744-03:00"}
 ---
 
+##### **RESUMO:**
+
+[Planilha de migração](https://docs.google.com/spreadsheets/d/1gUsQPRq7vXpGNpu6yA66KCkcNS8ZT2MLTngdjbJV5lY/edit?gid=1978312704#gid=1978312704)
+
+
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+
+
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+
+
+##### **HISTÓRICO DE REUNIÕES:**
+____
+
+
+**DIA 05/11/2025 - REUNIÃO DE MIGRAÇÃO - CARLOS ADAIU - PRESENCIAL**
+**PARTICIPANTES:** Adail, Izaura, Mayara, Almeida, Muriel, Lucas, Maynara, Raul
+
+- Escrituração contábil ( Extratos bancários, contas pagas, estoques);
+- Balanço;
+- DRE;
+- Índices Econômicos Financeiros;
+- Simulação tributária
+
+BPO - Financeiro
+Fluxo de Caixa
+
+
+Quem é o responsável pelo financeiro? Jhemyle
+Qual o nome do sistema? Bling
+Backup do contábil - Não recebido
+
+
+**Observações:**
+
+
+
+
+_________________________
 
 
 REUNIÃO DE ALINHAMENTO - MIGRAÇÃO
