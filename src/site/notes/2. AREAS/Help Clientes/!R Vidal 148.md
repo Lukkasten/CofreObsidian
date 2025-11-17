@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/r-vidal-148/","dgPassFrontmatter":true,"created":"2025-10-13T14:29:07.141-03:00","updated":"2025-10-13T14:35:00.242-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/r-vidal-148/","dgPassFrontmatter":true,"created":"2025-10-13T14:29:07.141-03:00","updated":"2025-10-13T14:35:07.573-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

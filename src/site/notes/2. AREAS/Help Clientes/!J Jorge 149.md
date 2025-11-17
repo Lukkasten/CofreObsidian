@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/j-jorge-149/","dgPassFrontmatter":true,"created":"2025-10-13T14:25:09.401-03:00","updated":"2025-10-13T14:32:14.177-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/j-jorge-149/","dgPassFrontmatter":true,"created":"2025-10-13T14:25:09.401-03:00","updated":"2025-10-13T14:32:19.850-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

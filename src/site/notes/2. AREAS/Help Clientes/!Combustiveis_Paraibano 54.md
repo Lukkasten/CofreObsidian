@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/combustiveis-paraibano-54/","dgPassFrontmatter":true,"created":"2025-04-16T10:02:34.793-03:00","updated":"2025-10-24T16:26:48.239-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/combustiveis-paraibano-54/","dgPassFrontmatter":true,"created":"2025-04-16T10:02:34.793-03:00","updated":"2025-10-24T16:26:59.372-03:00"}
 ---
 
 _____
