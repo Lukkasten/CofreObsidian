@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-de-alimentos-jose-paraibano/","dgPassFrontmatter":true,"created":"2025-08-26T09:52:25.100-03:00","updated":"2025-11-18T09:03:43.520-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-de-alimentos-jose-paraibano/","dgPassFrontmatter":true,"created":"2025-08-26T09:52:25.100-03:00","updated":"2025-11-18T09:05:00.144-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 	
 1. A partir do ano 2026 ficará no lucro real trimestral
-2. Deixar sempre uma média de lucro de R$20mil por mês
+2. Deixar sempre uma média de lucro de R$20mil por mês ( Conforme acordado em reunião no dia 12/11/2025)
 
 
 
