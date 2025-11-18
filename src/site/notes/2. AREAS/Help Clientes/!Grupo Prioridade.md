@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"created":"2025-09-12T16:43:34.397-03:00","updated":"2025-09-12T16:58:45.411-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"created":"2025-09-12T16:43:34.397-03:00","updated":"2025-09-12T16:58:37.989-03:00"}
 ---
 
 **EMPRESAS DO GRUPO**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/central-farma-comercio-varejista-455/","dgPassFrontmatter":true,"created":"2025-08-25T09:42:37.296-03:00","updated":"2025-09-08T15:52:46.728-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/central-farma-comercio-varejista-455/","dgPassFrontmatter":true,"created":"2025-08-25T09:42:37.296-03:00","updated":"2025-09-08T15:52:38.770-03:00"}
 ---
 
 RESUMO:

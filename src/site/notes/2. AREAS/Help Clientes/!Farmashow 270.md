@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmashow-270/","dgPassFrontmatter":true,"created":"2025-09-12T16:59:27.674-03:00","updated":"2025-09-16T18:33:53.914-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmashow-270/","dgPassFrontmatter":true,"created":"2025-09-12T16:59:27.674-03:00","updated":"2025-09-16T18:31:53.281-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/integrar-conferir-escrita-fiscal/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:10.834-03:00","updated":"2025-07-17T16:58:32.021-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/integrar-conferir-escrita-fiscal/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:10.834-03:00","updated":"2025-07-17T16:58:28.107-03:00"}
 ---
 
 **Resumo:** 

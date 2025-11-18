@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-10-07T14:13:36.871-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/trilha-de-carreira-cargos-funcoes/tarefas-por-cargo/","dgPassFrontmatter":true,"created":"2025-06-16T11:39:53.379-03:00","updated":"2025-10-07T14:13:30.635-03:00"}
 ---
 
 
