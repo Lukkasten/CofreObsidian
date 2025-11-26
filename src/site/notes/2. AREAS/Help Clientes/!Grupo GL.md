@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"created":"2025-09-16T09:26:00.128-03:00","updated":"2025-09-25T15:50:44.655-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"created":"2025-09-16T09:26:00.128-03:00","updated":"2025-11-26T15:38:08.401-03:00"}
 ---
 
 
@@ -11,6 +11,7 @@
 2) Assuntos relacionados a bonificação tratar somente com a dona Germana
 3) Preencher e apresentar para a dona Germana a planilha de [acompanhamento mensal](https://docs.google.com/spreadsheets/d/1kE3lPt4Wl_2Wzm7DZ2OtsCERX7iy_62N/edit?gid=899953363#gid=899953363)
 4) Empresas do camarão entrar em contato com a Carla ou Paulo, depois de 3 tentativas com cada um falar com a dona Germana;
+5) Antes de enviar os impostos trimestrais ( validar com o Lucas)
 
 
 _______
@@ -26,6 +27,21 @@ _______
 [[2. AREAS/Help Clientes/!GL Serviços e Entregas Ltda 9890\|!GL Serviços e Entregas Ltda 9890]]
 
 ____
+
+**DIA 26/11/2025**
+
+
+
+
+
+**Vitor Magalhães - Sobre as de camarão do grupo GL**
+
+Possui débitos de PIS e COFINS do mês 03 e 04 em atraso e um ICMS em aberto, o relatório de compra x vendas dela alguns meses tem compras sem vendas e outros com vendas.
+
+Está com CND Federal, municipal e estadual OK, no relatório de compra x venda só possui entrada e não há saidas. 
+
+
+
 
 
 

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-a-and-b/","dgPassFrontmatter":true,"created":"2024-10-30T16:29:47.146-03:00","updated":"2025-11-18T14:04:20.465-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-a-and-b/","dgPassFrontmatter":true,"created":"2024-10-30T16:29:47.146-03:00","updated":"2025-11-25T14:34:11.001-03:00"}
 ---
-
-
 
 _____
 🔴 Dia 07/10/2025
@@ -11,8 +9,6 @@ _____
 (11:42) lucas: https://drive.google.com/drive/folders/12YITN1jHyRmHaCmWPPXXSe2HpdSefQVE
 (11:42) lucas: Esse é o link do drive dos extratos das empresas do grupo A & B
 (11:43) lucas: Salva todos no servidor e atualiza o checklist contábil online
-
-
 
 
 ________________________________________________
