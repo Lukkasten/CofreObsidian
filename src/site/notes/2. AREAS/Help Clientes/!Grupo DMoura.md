@@ -1,6 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-d-moura/","dgPassFrontmatter":true,"created":"2025-09-12T11:13:42.220-03:00","updated":"2025-09-26T15:55:39.834-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-d-moura/","dgPassFrontmatter":true,"created":"2025-09-12T11:13:42.220-03:00","updated":"2025-12-11T15:31:38.185-03:00"}
 ---
+
+
+
+
+**HISTÓRICO DE REUNIÕES**
+
+Simulação tributária
+https://mail.google.com/mail/u/0/?source=sync&tf=1&view=pt&th=19aef0a5bf674c06&search=all
+*Bom dia segue em anexo planilha da sa cruz comercial e dmoura*
+
 
 26/09/2025
 Reunião com cliente presencial,  foi explicado sobre a importância do envio das informações contábeis.
@@ -16,6 +26,8 @@ Reunião online de migração para apresentação das análises das empresas do 
 
 
 CONEXÕES:
+
+
 
 
 

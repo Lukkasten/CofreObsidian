@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/benedito-vicente-124/","dgPassFrontmatter":true,"created":"2025-09-29T15:43:42.898-03:00","updated":"2025-10-03T00:22:39.323-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/benedito-vicente-124/","dgPassFrontmatter":true,"created":"2025-09-29T15:43:42.898-03:00","updated":"2025-12-11T14:37:55.200-03:00"}
 ---
 
 **CONEXÕES**
@@ -14,6 +14,11 @@ ___
 
 **HISTÓRICO:**
 ___
+
+https://mail.google.com/mail/u/0/?source=sync&tf=1&view=pt&th=19a919250cb2e313&search=all
+
+
+______
 (15:37) Mayara Víctor - 7553 - Notificar como alerta: Prezados, boa tarde!
 
 A reunião de onboarding do cliente — referente à empresa em processo de migração: 124 - BENEDITO VICENTE M F DE QUEIROZ LTDA — foi agendada para amanhã (30/09), às 14h, presencialmente aqui no escritório. 

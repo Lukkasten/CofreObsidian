@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-11-05T10:26:56.744-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adail/","dgPassFrontmatter":true,"created":"2025-09-23T10:46:50.520-03:00","updated":"2025-12-11T13:50:52.543-03:00"}
 ---
 
 ##### **RESUMO:**
@@ -45,6 +45,10 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ____
+
+Ver email! - Mudança de Regime
+https://mail.google.com/mail/u/0/?source=sync&tf=1&view=pt&th=19a92a7310d73af5&search=all
+
 
 
 **DIA 05/11/2025 - REUNIÃO DE MIGRAÇÃO - CARLOS ADAIU - PRESENCIAL**

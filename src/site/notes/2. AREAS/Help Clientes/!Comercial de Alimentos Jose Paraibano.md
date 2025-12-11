@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-de-alimentos-jose-paraibano/","dgPassFrontmatter":true,"created":"2025-08-26T09:52:25.100-03:00","updated":"2025-11-18T09:05:00.144-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-de-alimentos-jose-paraibano/","dgPassFrontmatter":true,"created":"2025-08-26T09:52:25.100-03:00","updated":"2025-12-11T16:56:38.014-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -8,12 +8,20 @@ ___
 1. A partir do ano 2026 ficará no lucro real trimestral
 2. Deixar sempre uma média de lucro de R$20mil por mês ( Conforme acordado em reunião no dia 12/11/2025)
 
+##### **GUIA DARF PIS, COFINS**
+____
 
+
+
+##### **GUIA DARF IRPJ E CSLL**
+____
+
+ 🔴 Empresa do lucro real mensal, todos mês ajustamos o lucro para poder chegar a lucro médio de R$ 20.000,00 conforme já alinhado com o cliente, sobre isso veja com a coordenação ou a diretoria.
 
 ##### **CONTÁBIL/FINANCEIRO**
 ___
 
-Bancos integrados no mister contador ( Exceto BNB)
+🟢 Bancos integrados no mister contador ( Exceto BNB)
 
 ##### **MOVIMENTO FISCAL**
 ____
