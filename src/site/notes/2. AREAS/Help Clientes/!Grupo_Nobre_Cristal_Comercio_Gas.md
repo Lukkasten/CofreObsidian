@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-nobre-cristal-comercio-gas/","dgPassFrontmatter":true,"created":"2025-02-12T10:52:40.192-03:00","updated":"2025-12-15T17:42:38.384-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-nobre-cristal-comercio-gas/","dgPassFrontmatter":true,"created":"2025-02-12T10:52:40.192-03:00","updated":"2025-12-15T17:43:19.078-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -13,6 +13,9 @@ ____
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
+
+O Nadson detectou que essas
+
 
 
 ##### **CONTÁBIL/FINANCEIRO:**

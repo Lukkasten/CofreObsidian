@@ -1,0 +1,62 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/alma-caseira-marmitaria-ltda-274/","dgPassFrontmatter":true,"created":"2025-12-16T14:39:10.840-03:00","updated":"2025-12-16T14:40:11.513-03:00"}
+---
+
+##### **ASPECTOS GERAIS:**
+___
+
+
+##### **GUIA DARF PIS, COFINS:**
+____
+
+
+
+##### **GUIA DARF IRPJ E CSLL:**
+____
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+##### **DOMINIO LALUR:**
+___
+
+##### **DOMINIO PATRIMONIO:**
+___
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+##### **HISTÓRICO DE REUNIÕES:**
+
+_____
+Terça-feira, 16 Dezembro 2025
+ 
+(15:29) Mayara Víctor - 7553 - Notificar como alerta: Prezados, boa tarde!
+
+A reunião de onboarding do cliente — referente à empresa ALMA CASEIRA MARMITARIA LTDA — foi agendada para segunda-feira, dia 22/12, às 16h30min e será presencial.
+
+O objetivo da reunião é integrar o cliente aos nossos processos e apresentar os setores e seus respectivos coordenadores.
+
+Caso não seja possível a sua participação, por gentileza, delegue um responsável para representá-lo ou me comunique para que possamos verificar a possibilidade de uma nova data.
+
+Qualquer dúvida, estou à disposição. 
+_____

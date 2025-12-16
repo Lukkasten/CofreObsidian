@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"created":"2025-10-07T09:10:44.993-03:00","updated":"2025-10-13T14:32:19.868-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"created":"2025-10-07T09:10:44.993-03:00","updated":"2025-12-16T15:17:34.171-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -42,10 +42,22 @@ ___
 ___
 
 
+##### **HISTÓRICO DE CONVERSAS SPARK/WHATS:**
 
+_______
+Terça-feira, 16 Dezembro 2025(16:00) Mayara Víctor - 7553 - Notificar como alerta: Boa tarde, mais uma vez!  
 
+Comunico que a Reunião referente à Migração das empresas do GRUPO EXCELENT POPULAR, foi devidamente agendada para o dia 08/01 (quinta-feira), às 10h, e será realizada no formato presencial.
 
+O cliente está dependendo das análises para decidir sobre a mudança de regime das empresas.
 
+Por gentileza, verifiquem se os itens do checklist foram devidamente preenchidos!
+
+Fico à disposição para quaisquer esclarecimentos.
+(16:05) Mayara Víctor - 7553: Oi Lucas, boa tarde!
+(16:06) Mayara Víctor - 7553: Sobre a reunião que comuniquei há pouco, o cliente pretende migrar para o regime de Lucro Real ou Lucro Presumido, conforme o que se mostrar mais vantajoso.
+Você poderia verificar as projeções, por gentileza?
+______
 
 
 

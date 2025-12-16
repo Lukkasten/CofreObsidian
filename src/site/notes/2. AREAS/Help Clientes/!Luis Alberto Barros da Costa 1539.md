@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"created":"2025-12-11T17:11:05.665-03:00","updated":"2025-12-16T15:59:16.841-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/luis-alberto-barros-da-costa-1539/","dgPassFrontmatter":true,"created":"2025-12-16T15:57:32.091-03:00","updated":"2025-12-16T16:00:42.912-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
+
 
 
 ##### **GUIA DARF PIS, COFINS:**
@@ -46,8 +47,14 @@ ___
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
-___
+
+
+
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
-___
+
+
+
+![Pasted image 20251216155733.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020251216155733.png)

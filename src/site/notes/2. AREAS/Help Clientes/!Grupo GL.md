@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"created":"2025-09-16T09:26:00.128-03:00","updated":"2025-11-26T15:38:08.401-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"created":"2025-09-16T09:26:00.128-03:00","updated":"2025-12-16T14:25:12.368-03:00"}
 ---
 
-
-![[Pasted image 20250917113211.png\|200]]
-
+ 
 **Observações importantes:** 
 
 1) A Ju do financeiro tem o nome por **JUREMA**, mas gosta de ser chamada de Ju.
@@ -27,24 +25,37 @@ _______
 [[2. AREAS/Help Clientes/!GL Serviços e Entregas Ltda 9890\|!GL Serviços e Entregas Ltda 9890]]
 
 ____
+**GRUPO TELEFARMA - RETIRAR TAREFAS DO ONVIO**
 
+- [x] COMERCIAL DE MEDICAMENTOS NOGUEIRA LTDA 41.399.468/0001-88 ✅ 2025-12-16
+- [x] COMERCIAL DE MEDICAMENTOS TELEFARMA LTDA 34.186.975/0001-78 ✅ 2025-12-16
+- [x] - COMERCIO DE MEDICAMENTOS JOSE WALTER LTDA 12.446.824/0001-79 ✅ 2025-12-16
+- [x] FARMACIA PLANETA LTDA 27.409.369/0001-09 ✅ 2025-12-16
+- [x] NOGUEIRA SERVICOS DE APOIO ADMINISTRATIVO LTDA 42.922.282/0001-24 ✅ 2025-12-16
+
+
+**GRUPO GL - RETIRAR TAREFAS DO ONVIO**
+
+ - [x] CENTRO COMERCIO DE GAS LTDA 08.422.268/0001-23 ✅ 2025-12-16
+- [x] F C COMERCIO VAREJISTA DE GAS LTDA 41.403.928/0001-02 ✅ 2025-12-16
+- [x] GL CARLITO COMERCIO DE GAS LTDA 35.073.837/0001-45 ✅ 2025-12-16
+- [x] GL DISTRIBUIDORA DE GAS LTDA 05.851.526/0001-07 ✅ 2025-12-16
+- [x] - GL SERVICOS E ENTREGAS LTDA 44.888.575/0001-68 ✅ 2025-12-16
+- [x] - PALMEIRAS COMERCIO DE GAS E REPRESENTACOES LTDA 08.999.498/0001-50 ✅ 2025-12-16
+- [x] PINHEIRO CARCINICULTURA LTDA 42.184.115/0001-23 ✅ 2025-12-16
+- [x] - PINHEIRO E JUCA CARCINICULTURA LTDA 55.133.758/0001-90 ✅ 2025-12-16
+
+***Tarefas da competência Dezembro/2025 foram geradas.
+
+_____
 **DIA 26/11/2025**
-
-
-
-
 
 **Vitor Magalhães - Sobre as de camarão do grupo GL**
 
 Possui débitos de PIS e COFINS do mês 03 e 04 em atraso e um ICMS em aberto, o relatório de compra x vendas dela alguns meses tem compras sem vendas e outros com vendas.
 
 Está com CND Federal, municipal e estadual OK, no relatório de compra x venda só possui entrada e não há saidas. 
-
-
-
-
-
-
+_____
 
 
 **Dia 24/09/2025 - Reunião Cliente | Presencial**
@@ -84,18 +95,6 @@ Aumentarás as compras em R$ 64.000,00
 Adicionará nas despesas R$ 20.000,00 referente a despesa de treinamentos
 
 Foi retirado todas as bonificações e o [[2. AREAS/Help Interno/!Guilherme ACJ 11.07.2025\|!Guilherme ACJ 11.07.2025]] reclassificará com alguma conta do balanço patrimonial.
-
-![[Pasted image 20250925131928.png\|Pasted image 20250925131928.png]]
-![[Pasted image 20250925153142.png\|Pasted image 20250925153142.png]]
+______
 
 
-
-08/2025
-
-![[Pasted image 20250925153703.png\|Pasted image 20250925153703.png]]
-
-07/2025
-![[Pasted image 20250925153749.png\|Pasted image 20250925153749.png]]
-
-06/2025
-![[Pasted image 20250925153830.png\|Pasted image 20250925153830.png]]
