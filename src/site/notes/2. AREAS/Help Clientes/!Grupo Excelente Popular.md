@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"created":"2025-10-07T09:10:44.993-03:00","updated":"2025-12-16T15:17:34.171-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"created":"2025-10-07T09:10:44.993-03:00","updated":"2025-12-19T10:59:18.950-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-[[2. AREAS/Help Clientes/!J Jorge 149\|!J Jorge 149]] Matriz + 2 filiais
-[[!R Vidal 148 \|!R Vidal 148 ]] Somente Matriz
+[[2. AREAS/Help Clientes/!Excelente Comercio (Antiga J Jorge) 149\|!Excelente Comercio (Antiga J Jorge) 149]] Matriz + 2 filiais
+[[2. AREAS/Help Clientes/!Excelente RM (Antiga R Vidal)148\|!Excelente RM (Antiga R Vidal)148]] Somente Matriz
 
 
 
