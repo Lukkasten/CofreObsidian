@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-pamplona/","dgPassFrontmatter":true,"created":"2025-01-06T17:49:42.212-03:00","updated":"2025-12-22T14:32:51.996-03:00"}
+{"dg-publish":true,"permalink":"/f-realce-199/","dgPassFrontmatter":true,"created":"2025-12-22T14:24:53.778-03:00","updated":"2025-12-22T14:25:43.764-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
-
-[[4. ARQUIVOS/!Pamplona e Pinho Farmácia Ltda 282\|!Pamplona e Pinho Farmácia Ltda 282]]
 
 
 ##### **GUIA DARF PIS, COFINS:**
@@ -53,6 +51,3 @@ ___
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
-
-
-
