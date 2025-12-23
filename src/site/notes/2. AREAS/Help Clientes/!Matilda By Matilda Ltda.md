@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/matilda-by-matilda-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-23T14:29:56.082-03:00","updated":"2025-12-23T14:31:29.836-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/matilda-by-matilda-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-23T14:29:56.082-03:00","updated":"2025-12-23T14:32:34.218-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -52,3 +52,12 @@ ___
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
+
+Terça-feira, 23 Dezembro 2025
+
+(14:45) Mayara Víctor - 7553 - Notificar como alerta: Boa tarde, pessoal!
+
+Informo que a empresa de razão social MATILDA BY MATILDA LTDA e CNPJ 34.517.338/0001-37 está em processo de migração para a Control. 
+
+Para mais informações, consultar a planilha de migração disponível no link a seguir:
+ https://docs.google.com/spreadsheets/d/1bCcIsdd-rSVx2cQmFuLo-NyR6nOpHhJ715QZEtGHsLQ/edit?usp=sharing
