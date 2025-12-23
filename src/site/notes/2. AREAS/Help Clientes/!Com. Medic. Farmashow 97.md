@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-medic-farmashow-97/","dgPassFrontmatter":true,"created":"2025-09-12T17:00:57.248-03:00","updated":"2025-09-16T18:33:12.946-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-medic-farmashow-97/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T17:00:57.248-03:00","updated":"2025-09-16T18:33:12.946-03:00"}
 ---
 
 EMPRESA FICARÁ NO REGIME LUCRO PRESUMIDO

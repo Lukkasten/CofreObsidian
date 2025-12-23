@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/maxx-norte-442-matriz-443-filial/","dgPassFrontmatter":true,"created":"2025-07-01T13:38:21.496-03:00","updated":"2025-08-13T15:46:23.854-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/maxx-norte-442-matriz-443-filial/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T13:38:21.496-03:00","updated":"2025-08-13T15:46:23.854-03:00"}
 ---
 
 **Resumo:**

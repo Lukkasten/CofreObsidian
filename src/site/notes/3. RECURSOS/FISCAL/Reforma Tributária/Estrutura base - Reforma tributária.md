@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/estrutura-base-reforma-tributaria/","dgPassFrontmatter":true,"created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-26T15:08:58.096-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/estrutura-base-reforma-tributaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T16:41:31.570-03:00","updated":"2025-08-26T15:08:58.096-03:00"}
 ---
 
 **Resumo:**

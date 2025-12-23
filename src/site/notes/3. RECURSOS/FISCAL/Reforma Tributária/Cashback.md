@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/cashback/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.982-03:00","updated":"2025-08-29T08:18:09.340-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/cashback/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:55.982-03:00","updated":"2025-08-29T08:18:09.340-03:00"}
 ---
 
 # 💸 Cashback Tributário  

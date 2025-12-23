@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/mister-contador/","dgPassFrontmatter":true,"created":"2025-06-16T23:00:19.308-03:00","updated":"2025-10-09T11:34:58.570-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/mister-contador/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T23:00:19.308-03:00","updated":"2025-10-09T11:34:58.570-03:00"}
 ---
 
 1. Asa Brasil;

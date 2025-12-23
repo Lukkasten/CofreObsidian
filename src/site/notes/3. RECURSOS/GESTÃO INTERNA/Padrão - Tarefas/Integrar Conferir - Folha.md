@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/integrar-conferir-folha/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.939-03:00","updated":"2025-06-11T10:30:15.427-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/integrar-conferir-folha/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:12.939-03:00","updated":"2025-06-11T10:30:15.427-03:00"}
 ---
 
 **Resumo:** 

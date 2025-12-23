@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/aprenda-10x-mais-rapido/","dgPassFrontmatter":true,"created":"2025-06-18T09:25:58.556-03:00","updated":"2025-06-18T07:54:50.232-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/aprenda-10x-mais-rapido/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-18T09:25:58.556-03:00","updated":"2025-06-18T07:54:50.232-03:00"}
 ---
 
 

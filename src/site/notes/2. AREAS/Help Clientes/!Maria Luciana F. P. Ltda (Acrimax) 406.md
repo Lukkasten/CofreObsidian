@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"created":"2025-08-26T12:00:43.551-03:00","updated":"2025-08-26T14:54:54.493-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2025-08-26T14:54:54.493-03:00"}
 ---
 
 **Terça-feira, 26 Agosto 2025**

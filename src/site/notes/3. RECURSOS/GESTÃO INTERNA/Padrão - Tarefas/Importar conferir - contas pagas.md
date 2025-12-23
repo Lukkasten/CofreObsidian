@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/importar-conferir-contas-pagas/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:11.121-03:00","updated":"2025-06-16T23:02:01.781-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/importar-conferir-contas-pagas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:11.121-03:00","updated":"2025-06-16T23:02:01.781-03:00"}
 ---
 
 **Resumo:** 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-18T08:59:31.592-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2025-09-18T08:59:31.592-03:00"}
 ---
 
 

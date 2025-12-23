@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mais-drogalu/","dgPassFrontmatter":true,"created":"2025-12-11T13:56:54.255-03:00","updated":"2025-12-11T13:57:27.932-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mais-drogalu/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T13:56:54.255-03:00","updated":"2025-12-11T13:57:27.932-03:00"}
 ---
 
 HISTÓRICO DE REUNIÃO/EMAIL

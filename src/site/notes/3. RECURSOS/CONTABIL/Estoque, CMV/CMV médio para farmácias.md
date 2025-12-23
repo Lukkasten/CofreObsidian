@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-medio-para-farmacias/","dgPassFrontmatter":true,"created":"2025-06-05T22:10:24.307-03:00","updated":"2025-06-05T22:27:03.178-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-medio-para-farmacias/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-05T22:10:24.307-03:00","updated":"2025-06-05T22:27:03.178-03:00"}
 ---
 
 

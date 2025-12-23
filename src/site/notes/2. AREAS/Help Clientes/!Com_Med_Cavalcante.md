@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-cavalcante/","dgPassFrontmatter":true,"created":"2025-04-16T10:03:28.299-03:00","updated":"2025-10-14T10:56:39.835-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-cavalcante/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-16T10:03:28.299-03:00","updated":"2025-10-14T10:56:39.835-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

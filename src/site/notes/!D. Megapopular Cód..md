@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-osvaldo-cruz/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:07:39.940-03:00","updated":"2025-12-22T14:50:04.836-03:00"}
+{"dg-publish":true,"permalink":"/d-megapopular-cod/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-23T13:21:08.393-03:00","updated":"2025-12-23T13:21:26.649-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

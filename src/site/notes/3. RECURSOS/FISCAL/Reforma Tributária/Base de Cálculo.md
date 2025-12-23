@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/base-de-calculo/","dgPassFrontmatter":true,"created":"2025-08-20T23:05:10.965-03:00","updated":"2025-08-21T22:17:08.256-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/base-de-calculo/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-20T23:05:10.965-03:00","updated":"2025-08-21T22:17:08.256-03:00"}
 ---
 
  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/radar-pub/","dgPassFrontmatter":true,"created":"2025-08-11T11:33:03.581-03:00","updated":"2025-08-11T11:33:35.756-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/radar-pub/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-11T11:33:03.581-03:00","updated":"2025-08-11T11:33:35.756-03:00"}
 ---
 
 ENTREGA DE BACKUP PARA A NOVA CONTABILIDADE

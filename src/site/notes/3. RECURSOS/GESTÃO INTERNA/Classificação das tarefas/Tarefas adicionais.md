@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"created":"2025-06-05T23:47:51.073-03:00","updated":"2025-07-02T10:28:52.071-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/classificacao-das-tarefas/tarefas-adicionais/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-05T23:47:51.073-03:00","updated":"2025-07-02T10:28:52.071-03:00"}
 ---
 
 

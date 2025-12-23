@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/produtividade/onvio/","dgPassFrontmatter":true,"created":"2025-09-23T14:33:27.753-03:00","updated":"2025-10-06T08:41:42.497-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/produtividade/onvio/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T14:33:27.753-03:00","updated":"2025-10-06T08:41:42.497-03:00"}
 ---
 
 

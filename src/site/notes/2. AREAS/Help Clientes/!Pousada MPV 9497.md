@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/pousada-mpv-9497/","dgPassFrontmatter":true,"created":"2025-06-09T21:50:52.666-03:00","updated":"2025-06-09T22:17:10.169-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/pousada-mpv-9497/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T21:50:52.666-03:00","updated":"2025-06-09T22:17:10.169-03:00"}
 ---
 
 

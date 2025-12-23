@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mm-timbo/","dgPassFrontmatter":true,"created":"2025-10-03T00:28:43.348-03:00","updated":"2025-10-07T16:31:36.021-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mm-timbo/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-03T00:28:43.348-03:00","updated":"2025-10-07T16:31:36.021-03:00"}
 ---
 
 Conforme conversado com Hudson, será do lucro Presumido. 

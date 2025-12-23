@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/bs-producoes-220/","dgPassFrontmatter":true,"created":"2025-01-17T13:39:42.066-03:00","updated":"2025-07-31T18:02:41.575-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/bs-producoes-220/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-17T13:39:42.066-03:00","updated":"2025-07-31T18:02:41.575-03:00"}
 ---
 
 Pessoal conforme as necessidades apresentadas pelo Bryan e Alane, segue abaixo os números simulados no lucro presumido (Regime Tributário mais viável de acordo com as informações recebidas)

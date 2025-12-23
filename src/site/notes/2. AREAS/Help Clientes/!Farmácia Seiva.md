@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-seiva/","dgPassFrontmatter":true,"created":"2025-12-11T14:07:30.967-03:00","updated":"2025-12-17T18:12:06.206-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-seiva/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:07:30.967-03:00","updated":"2025-12-17T18:12:06.206-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/ibs/","dgPassFrontmatter":true,"created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-26T15:05:43.713-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/ibs/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:55.342-03:00","updated":"2025-08-26T15:05:43.713-03:00"}
 ---
 
 **Resumo:**

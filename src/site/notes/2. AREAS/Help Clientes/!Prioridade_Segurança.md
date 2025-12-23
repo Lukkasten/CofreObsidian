@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/prioridade-seguranca/","dgPassFrontmatter":true,"created":"2025-03-11T15:15:00.441-03:00","updated":"2025-09-23T09:47:56.901-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/prioridade-seguranca/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-11T15:15:00.441-03:00","updated":"2025-09-23T09:47:56.901-03:00"}
 ---
 
 

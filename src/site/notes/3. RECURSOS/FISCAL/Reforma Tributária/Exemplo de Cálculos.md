@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/exemplo-de-calculos/","dgPassFrontmatter":true,"created":"2025-08-20T00:16:35.031-03:00","updated":"2025-08-26T07:25:25.914-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/exemplo-de-calculos/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-20T00:16:35.031-03:00","updated":"2025-08-26T07:25:25.914-03:00"}
 ---
 
 RESUMO:

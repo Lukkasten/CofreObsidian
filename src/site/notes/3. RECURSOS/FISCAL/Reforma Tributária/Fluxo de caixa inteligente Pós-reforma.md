@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/fluxo-de-caixa-inteligente-pos-reforma/","dgPassFrontmatter":true,"created":"2025-08-29T08:38:59.003-03:00","updated":"2025-08-29T08:24:20.920-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/fluxo-de-caixa-inteligente-pos-reforma/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-29T08:38:59.003-03:00","updated":"2025-08-29T08:24:20.920-03:00"}
 ---
 
 # 💡 Fluxo de Caixa Inteligente Pós-Reforma  

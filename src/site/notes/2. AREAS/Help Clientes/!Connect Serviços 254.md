@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"created":"2024-11-01T14:16:04.367-03:00","updated":"2025-10-15T21:20:20.816-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2025-10-15T21:20:20.816-03:00"}
 ---
 
 🟢 15/10/2025 Gerar o DAE para autenticação do Balanço Ano 2024

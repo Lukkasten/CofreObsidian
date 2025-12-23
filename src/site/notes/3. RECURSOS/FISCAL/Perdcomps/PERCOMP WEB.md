@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/perdcomps/percomp-web/","dgPassFrontmatter":true,"created":"2025-06-11T16:06:43.960-03:00","updated":"2025-07-29T22:16:00.358-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/perdcomps/percomp-web/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-11T16:06:43.960-03:00","updated":"2025-07-29T22:16:00.358-03:00"}
 ---
 
 

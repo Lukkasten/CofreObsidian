@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-relatorio-do-sistema-trier/","dgPassFrontmatter":true,"created":"2025-10-04T23:23:49.022-03:00","updated":"2025-10-06T17:43:12.054-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-relatorio-do-sistema-trier/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-04T23:23:49.022-03:00","updated":"2025-10-06T17:43:12.054-03:00"}
 ---
 
 

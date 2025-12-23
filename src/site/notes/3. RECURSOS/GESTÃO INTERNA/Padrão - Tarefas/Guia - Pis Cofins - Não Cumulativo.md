@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/guia-pis-cofins-nao-cumulativo/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:12.273-03:00","updated":"2025-10-13T11:20:34.139-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/guia-pis-cofins-nao-cumulativo/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:12.273-03:00","updated":"2025-10-13T11:20:34.139-03:00"}
 ---
 
 

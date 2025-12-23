@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-mensagens-modelos/direcionar-emails-recebidos/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:13.585-03:00","updated":"2025-06-16T14:01:05.073-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-mensagens-modelos/direcionar-emails-recebidos/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:13.585-03:00","updated":"2025-06-16T14:01:05.073-03:00"}
 ---
 
 

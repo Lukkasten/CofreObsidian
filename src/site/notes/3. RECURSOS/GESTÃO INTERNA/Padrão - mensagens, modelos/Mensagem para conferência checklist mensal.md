@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-mensagens-modelos/mensagem-para-conferencia-checklist-mensal/","dgPassFrontmatter":true,"created":"2025-07-01T11:50:13.234-03:00","updated":"2025-07-01T07:44:02.641-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-mensagens-modelos/mensagem-para-conferencia-checklist-mensal/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:13.234-03:00","updated":"2025-07-01T07:44:02.641-03:00"}
 ---
 
 Bom dia, equipe! 🎯

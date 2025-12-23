@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/202503130900-lucro-real-empresa-de-vigilancia-e-seguranca-privada/","dgPassFrontmatter":true,"created":"2025-09-23T09:38:10.695-03:00","updated":"2025-09-23T10:58:36.823-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/202503130900-lucro-real-empresa-de-vigilancia-e-seguranca-privada/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T09:38:10.695-03:00","updated":"2025-09-23T10:58:36.823-03:00"}
 ---
 
 

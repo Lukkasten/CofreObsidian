@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/apuracao-1/","dgPassFrontmatter":true,"created":"2025-08-21T23:09:33.037-03:00","updated":"2025-08-25T08:57:18.400-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/apuracao-1/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-21T23:09:33.037-03:00","updated":"2025-08-25T08:57:18.400-03:00"}
 ---
 
 

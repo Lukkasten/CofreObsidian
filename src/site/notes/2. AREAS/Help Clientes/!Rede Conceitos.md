@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos/","dgPassFrontmatter":true,"created":"2025-10-13T11:25:50.393-03:00","updated":"2025-12-15T09:36:58.364-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2025-12-15T09:36:58.364-03:00"}
 ---
 
 

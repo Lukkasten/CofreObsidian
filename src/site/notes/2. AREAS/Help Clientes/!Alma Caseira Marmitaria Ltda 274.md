@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/alma-caseira-marmitaria-ltda-274/","dgPassFrontmatter":true,"created":"2025-12-16T14:39:10.840-03:00","updated":"2025-12-23T11:00:04.452-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/alma-caseira-marmitaria-ltda-274/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-16T14:39:10.840-03:00","updated":"2025-12-23T11:00:04.452-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

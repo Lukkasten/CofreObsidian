@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/livro-de-apuracao-do-lucro-real-lalur/","dgPassFrontmatter":true,"created":"2025-10-02T17:38:12.603-03:00","updated":"2025-10-02T17:39:59.172-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/livro-de-apuracao-do-lucro-real-lalur/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-02T17:38:12.603-03:00","updated":"2025-10-02T17:39:59.172-03:00"}
 ---
 
 Para uma empresa que apura o Imposto de Renda Pessoa Jurídica (IRPJ) e a Contribuição Social sobre o Lucro Líquido (CSLL) com base no lucro real anual, o ajuste final no Livro de Apuração do Lucro Real (LALUR) é crucial. Esse processo integra os pagamentos mensais (com ou sem balanços de redução e suspensão) à apuração anual consolidada. 

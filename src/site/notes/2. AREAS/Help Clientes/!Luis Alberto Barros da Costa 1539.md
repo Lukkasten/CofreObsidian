@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/luis-alberto-barros-da-costa-1539/","dgPassFrontmatter":true,"created":"2025-12-16T15:57:32.091-03:00","updated":"2025-12-16T16:00:42.912-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/luis-alberto-barros-da-costa-1539/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-16T15:57:32.091-03:00","updated":"2025-12-16T16:00:42.912-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

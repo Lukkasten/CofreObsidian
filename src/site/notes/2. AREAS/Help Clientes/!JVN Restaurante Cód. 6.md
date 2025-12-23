@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/jvn-restaurante-cod-6/","dgPassFrontmatter":true,"created":"2025-12-10T18:02:32.939-03:00","updated":"2025-12-19T09:36:32.686-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/jvn-restaurante-cod-6/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-10T18:02:32.939-03:00","updated":"2025-12-19T09:36:32.686-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

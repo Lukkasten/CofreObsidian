@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/aliquotas-e-regimes-diferenciados/","dgPassFrontmatter":true,"created":"2025-08-14T18:11:44.782-03:00","updated":"2025-08-22T00:00:36.846-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/aliquotas-e-regimes-diferenciados/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T18:11:44.782-03:00","updated":"2025-08-22T00:00:36.846-03:00"}
 ---
 
 **Resumo:**

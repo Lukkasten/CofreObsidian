@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/202506260900-reuniao-grupo-nadja/","dgPassFrontmatter":true,"created":"2025-06-26T09:12:02.083-03:00","updated":"2025-07-03T13:52:26.941-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/202506260900-reuniao-grupo-nadja/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-26T09:12:02.083-03:00","updated":"2025-07-03T13:52:26.941-03:00"}
 ---
 
 

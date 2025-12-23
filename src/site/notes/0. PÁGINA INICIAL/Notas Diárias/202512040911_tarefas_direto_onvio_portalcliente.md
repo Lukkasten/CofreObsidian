@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-pagina-inicial/notas-diarias/202512040911-tarefas-direto-onvio-portalcliente/","dgPassFrontmatter":true,"created":"2025-12-03T10:03:47.295-03:00","updated":"2025-12-04T10:31:37.796-03:00"}
+{"dg-publish":true,"permalink":"/0-pagina-inicial/notas-diarias/202512040911-tarefas-direto-onvio-portalcliente/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-03T10:03:47.295-03:00","updated":"2025-12-04T10:31:37.796-03:00"}
 ---
 
 #Onvio #PortaldoCliente
