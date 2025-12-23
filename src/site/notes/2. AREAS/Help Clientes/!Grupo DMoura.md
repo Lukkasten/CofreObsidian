@@ -1,8 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-d-moura/","dgPassFrontmatter":true,"created":"2025-09-12T11:13:42.220-03:00","updated":"2025-12-11T15:31:38.185-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-d-moura/","dgPassFrontmatter":true,"created":"2025-09-12T11:13:42.220-03:00","updated":"2025-12-22T14:44:11.511-03:00"}
 ---
 
+##### **ASPECTOS GERAIS:**
+___
 
+[[2. AREAS/Help Clientes/!Dmoura 106\|!Dmoura 106]]
+[[2. AREAS/Help Clientes/!SA Cruz 226\|!SA Cruz 226]]
+
+
+##### **GUIA DARF PIS, COFINS:**
+____
+
+
+
+##### **GUIA DARF IRPJ E CSLL:**
+____
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+##### **DOMINIO LALUR:**
+___
+
+##### **DOMINIO PATRIMONIO:**
+___
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+##### **HISTÓRICO DE REUNIÕES:**
+___
+
+
+##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
+___
 
 
 **HISTÓRICO DE REUNIÕES**
