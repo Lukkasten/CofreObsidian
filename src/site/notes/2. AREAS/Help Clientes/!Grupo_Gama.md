@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2025-12-30T09:48:55.698-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2025-12-30T09:58:13.173-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-
+[[2. AREAS/Help Clientes/Empreend. Farmacêuticos Gama Cód. 269\|Empreend. Farmacêuticos Gama Cód. 269]]
 
 
 ##### **GUIA DARF PIS, COFINS:**
