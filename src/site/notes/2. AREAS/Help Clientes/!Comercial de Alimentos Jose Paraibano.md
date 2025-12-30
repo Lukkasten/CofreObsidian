@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-de-alimentos-jose-paraibano/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T09:52:25.100-03:00","updated":"2025-12-11T16:56:38.014-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-de-alimentos-jose-paraibano/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T09:52:25.100-03:00","updated":"2025-12-30T13:27:26.029-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -22,6 +22,11 @@ ____
 ___
 
 🟢 Bancos integrados no mister contador ( Exceto BNB)
+
+30/12/2025 - By Samária
+Boa tarde Lucas, a COM DE ALIMENTOS enviou dois extrato do banco TRIANGULO, sendo que um extrato é de CONTA CORRENTE e o outro de CONTA VINCULADA. O da conta vinculada a movimentação é: entradas (recebimentos de clientes) saidas (transferencia para a conta corrente). Tenho que lançar o extrato da CONTA VINCULADA ou apenas o da CONTA CORRENTE? Eu orientei que a Samária registrasse somente a conta corrente.
+
+
 
 ##### **MOVIMENTO FISCAL**
 ____
