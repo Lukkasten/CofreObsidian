@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-de-alim-jose-paraibano/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T09:52:25.100-03:00","updated":"2025-12-30T13:34:49.028-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-de-alim-jose-paraibano/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T09:52:25.100-03:00","updated":"2025-12-30T13:43:41.215-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -23,7 +23,7 @@ ___
 
 🟢 Bancos integrados no mister contador ( Exceto BNB)
 
-**30/12/2025 - Clique ➡️ : [[4. ARQUIVOS/Conversa com a Samária sobre novo banco\|Conversa com a Samária sobre novo banco]]
+**30/12/2025 - Clique ➡️ : [[4. ARQUIVOS/202530121343_Conversa com a Samária sobre novo banco\|202530121343_Conversa com a Samária sobre novo banco]]
 
 
 
