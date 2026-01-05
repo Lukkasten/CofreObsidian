@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmoura-106/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:44:12.509-03:00","updated":"2025-12-29T17:13:05.839-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmoura-106/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:44:12.509-03:00","updated":"2025-12-31T10:06:41.159-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
 
+##### **MUDANÇA DE REGIME TRIBUTÁRIO** ⛓️‍💥
+29/12/2025 - Email geral informando a saída do simples nacional 
+29/12/2025 -  Aguardando reunião no 14/01/2026
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
