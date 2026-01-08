@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/east-coast-shippings-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-02T09:17:58.596-03:00","updated":"2026-01-08T09:32:25.279-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/east-coast-shippings-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-02T09:17:58.596-03:00","updated":"2026-01-08T09:39:52.566-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
+
+
 [Planilha de Migração](https://docs.google.com/spreadsheets/d/1F1Tj9Nz1UIJHTJXXG03KC2QSjSHE4ylkzQN97KOGLc8/edit?gid=1978312704#gid=1978312704)
 **Segmento:** Logística
+Marcus Consultor - Financeiro
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
