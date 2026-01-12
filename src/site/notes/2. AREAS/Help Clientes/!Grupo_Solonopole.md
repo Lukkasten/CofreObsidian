@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2025-12-17T18:06:33.689-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-01-09T18:33:22.904-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -8,7 +8,7 @@ ___
 Empresa do Grupo
 [[2. AREAS/Help Clientes/Farmacia Solonopole 166\|Farmacia Solonopole 166]]
 [[2. AREAS/Help Clientes/Com. Med. Silva 9730\|Com. Med. Silva 9730]]
-[[2. AREAS/Help Clientes/S.S. Silva Medicamentos Ltda\|S.S. Silva Medicamentos Ltda]]
+[[2. AREAS/Help Clientes/!Nunes Comercio de Medicamentos Ltda 271\|!Nunes Comercio de Medicamentos Ltda 271]]
 
 
 
