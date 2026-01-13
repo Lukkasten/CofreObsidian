@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-12T18:16:30.659-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-13T11:29:09.657-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
+
+Sócios: Wilson e Amanda
 
 [[2. AREAS/Help Clientes/JWS Wilson Gas Ltda 321\|JWS Wilson Gas Ltda 321]] - Lucro Real não pagar imposto.
 [[2. AREAS/Help Clientes/Bala Transportes Ltda\|Bala Transportes Ltda]] - Perdeu o Simples em ano 2026, a **Ideal** irá substituir essa empresa ( Empresa será do Simples)
@@ -29,8 +31,11 @@ ___
 
 BANCOS:
 - ITAU -  AG 5854 CC 9265-7
+- 
 - CEF - AG 1048 C/C 573169295-1
+- 
 - PAGBANK - AG: 0001 C/C 47982159-7
+- 
 
 
 **HERCULES 337**

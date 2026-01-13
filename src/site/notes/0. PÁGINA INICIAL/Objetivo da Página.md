@@ -34,6 +34,6 @@ Para acompanhamento e auditoria temos o **[[3. RECURSOS/PRODUTIVIDADE/AccordBI\|
 
 
 
-**By: [[!Lucas Rebouças\|!Lucas Rebouças]]**
+**By: [[2. AREAS/Help Interno/!Lucas Rebouças\|!Lucas Rebouças]]**
 Emet (אֱמֶת)
 
