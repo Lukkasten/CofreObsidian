@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-12T17:36:04.867-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-12T18:16:30.659-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -24,6 +24,20 @@ ____
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
+**JWS - WILSON GAS 321
+
+BANCOS:
+- ITAU -  AG 5854 CC 9265-7
+- CEF - AG 1048 C/C 573169295-1
+- PAGBANK - AG: 0001 C/C 47982159-7
+
+
+**HERCULES 337**
+BANCOS
+- ITAU -                  AG 1649 C/C 99408-2
+- PAGBANK -         AG 0001 C/C 35530393-4           
+- BANCO INTER -  AG 0001 C/C 13313233-1
 
 
 ##### **MOVIMENTO FISCAL:**
