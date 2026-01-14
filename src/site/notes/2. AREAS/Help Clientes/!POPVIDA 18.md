@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/popvida-18/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-08T11:30:57.280-03:00","updated":"2025-12-11T14:12:38.023-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/popvida-18/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-08T11:30:57.280-03:00","updated":"2025-12-11T14:12:47.403-03:00"}
 ---
 
 

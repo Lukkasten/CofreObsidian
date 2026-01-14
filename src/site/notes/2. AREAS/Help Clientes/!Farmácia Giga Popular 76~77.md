@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-giga-popular-76-77/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-08T11:38:27.164-03:00","updated":"2025-09-12T14:17:57.083-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-giga-popular-76-77/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-08T11:38:27.164-03:00","updated":"2025-09-12T14:18:03.034-03:00"}
 ---
 
 

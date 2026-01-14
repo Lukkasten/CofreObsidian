@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/excelente-comercio-antiga-j-jorge-149/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T14:25:09.401-03:00","updated":"2026-01-08T18:27:04.131-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/excelente-comercio-antiga-j-jorge-149/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T14:25:09.401-03:00","updated":"2026-01-08T18:27:14.541-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/norte-acrilicos-ltda-444-matriz-457-filial/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T13:39:26.075-03:00","updated":"2025-08-13T15:55:28.344-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/norte-acrilicos-ltda-444-matriz-457-filial/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T13:39:26.075-03:00","updated":"2025-08-13T15:55:34.562-03:00"}
 ---
 
 **Resumo:**

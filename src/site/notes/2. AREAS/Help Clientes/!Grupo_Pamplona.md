@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-pamplona/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-06T17:49:42.212-03:00","updated":"2025-12-22T14:32:51.996-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-pamplona/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-06T17:49:42.212-03:00","updated":"2025-12-22T14:32:59.305-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

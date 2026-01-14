@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mapin-gestao-e-participacao-1/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-08T11:20:54.840-03:00","updated":"2025-09-08T11:29:40.294-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mapin-gestao-e-participacao-1/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-08T11:20:54.840-03:00","updated":"2025-09-08T11:29:48.299-03:00"}
 ---
 
 Abertura: 09/07/2025

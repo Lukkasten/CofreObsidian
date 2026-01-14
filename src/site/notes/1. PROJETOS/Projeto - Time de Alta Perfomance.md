@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-03T09:12:28.018-03:00","updated":"2025-10-17T13:48:31.753-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-time-de-alta-perfomance/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-03T09:12:28.018-03:00","updated":"2025-10-17T13:48:39.573-03:00"}
 ---
 
  https://crescernegocios-my.sharepoint.com/:x:/g/personal/bruno_silvestre_crescernegocios_onmicrosoft_com/EYrfIKD7Tv1FreHTzlCVLvABhzk0RritEM_2nhI4hUIstQ?rtime=ahqzfnIN3kg

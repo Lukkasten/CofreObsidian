@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/empreend-farmaceuticos-gama-cod-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-30T09:45:45.059-03:00","updated":"2025-12-30T10:14:38.164-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/empreend-farmaceuticos-gama-cod-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-30T09:45:45.059-03:00","updated":"2025-12-30T10:14:44.759-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/simples-nacional-na-reforma-tributaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-19T21:25:38.167-03:00","updated":"2025-08-26T15:05:43.794-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/simples-nacional-na-reforma-tributaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-19T21:25:38.167-03:00","updated":"2025-08-26T15:05:52.246-03:00"}
 ---
 
 **Resumo:**

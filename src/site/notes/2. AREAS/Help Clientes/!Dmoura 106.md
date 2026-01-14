@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmoura-106/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:44:12.509-03:00","updated":"2025-12-31T10:06:41.159-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmoura-106/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:44:12.509-03:00","updated":"2025-12-31T10:06:33.573-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

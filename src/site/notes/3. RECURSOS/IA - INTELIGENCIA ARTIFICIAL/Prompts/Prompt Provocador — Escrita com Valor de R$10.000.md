@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/prompt-provocador-escrita-com-valor-de-r-10-000/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-20T12:40:53.116-03:00","updated":"2025-06-20T12:55:25.324-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/prompt-provocador-escrita-com-valor-de-r-10-000/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-20T12:40:53.116-03:00","updated":"2025-06-20T12:55:34.930-03:00"}
 ---
 
 **Resumo:**

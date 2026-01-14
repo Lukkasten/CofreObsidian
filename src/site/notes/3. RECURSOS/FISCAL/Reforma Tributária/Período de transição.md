@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/periodo-de-transicao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:56.849-03:00","updated":"2025-08-21T22:15:00.447-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/periodo-de-transicao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:56.849-03:00","updated":"2025-08-21T22:14:54.378-03:00"}
 ---
 
 **Resumo:**

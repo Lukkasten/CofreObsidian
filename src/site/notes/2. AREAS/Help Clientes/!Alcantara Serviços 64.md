@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/alcantara-servicos-64/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-23T16:11:20.299-03:00","updated":"2025-06-26T09:14:47.402-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/alcantara-servicos-64/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-23T16:11:20.299-03:00","updated":"2025-07-03T13:52:17.562-03:00"}
 ---
 
 **Resumo:**

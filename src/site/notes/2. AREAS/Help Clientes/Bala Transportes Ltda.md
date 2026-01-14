@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/bala-transportes-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:25:08.186-03:00","updated":"2026-01-05T13:25:47.390-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/bala-transportes-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:25:08.186-03:00","updated":"2026-01-05T13:25:53.867-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

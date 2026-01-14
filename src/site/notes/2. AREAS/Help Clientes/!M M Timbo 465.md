@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/m-m-timbo-465/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:12:09.591-03:00","updated":"2025-12-11T17:12:06.943-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/m-m-timbo-465/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:12:09.591-03:00","updated":"2025-12-11T17:41:01.675-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/luis-alberto-barros-da-costa-1539/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-16T15:57:32.091-03:00","updated":"2025-12-16T16:00:50.086-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/jfx-industria-e-servicos-ltda-362/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-13T23:03:58.090-03:00","updated":"2026-01-13T23:05:21.875-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-
+[Planilha de Migração](https://docs.google.com/spreadsheets/d/1cEz7-KQ4mISb75FoEfNlSyia-DxeGao75TgHl4kjz2o/edit?gid=1978312704#gid=1978312704)
+Será do Lucro Presumido
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
@@ -47,14 +48,8 @@ ___
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
-
-
-
-
+___
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
-
-
-
-![Pasted image 20251216155733.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020251216155733.png)
+___

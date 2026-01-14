@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/202530121343-conversa-com-a-samaria-sobre-novo-banco/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-30T13:31:42.592-03:00","updated":"2025-12-30T13:41:44.324-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/202530121343-conversa-com-a-samaria-sobre-novo-banco/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-30T13:31:42.592-03:00","updated":"2025-12-30T13:43:41.053-03:00"}
 ---
 
 Terça-feira, 30 Dezembro 2025

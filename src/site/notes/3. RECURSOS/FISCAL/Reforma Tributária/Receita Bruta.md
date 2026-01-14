@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/receita-bruta/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-20T22:40:51.243-03:00","updated":"2025-08-21T22:17:36.325-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/receita-bruta/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-20T22:40:51.243-03:00","updated":"2025-08-21T22:17:30.570-03:00"}
 ---
 
 **RESUMO:**

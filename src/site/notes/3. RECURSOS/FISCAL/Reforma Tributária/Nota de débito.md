@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nota-de-debito/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T11:06:29.327-03:00","updated":"2025-09-12T16:51:17.825-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nota-de-debito/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T11:06:29.327-03:00","updated":"2025-09-12T16:51:24.999-03:00"}
 ---
 
 https://www.normaslegais.com.br/legislacao/sd-23-2013-cosit.htm
