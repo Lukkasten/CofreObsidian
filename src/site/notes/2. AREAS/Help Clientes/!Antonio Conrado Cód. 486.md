@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/antonio-conrado-cod-486/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T13:59:09.113-03:00","updated":"2025-12-23T12:02:20.026-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/antonio-conrado-cod-486/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T13:59:09.113-03:00","updated":"2025-12-23T10:53:10.776-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

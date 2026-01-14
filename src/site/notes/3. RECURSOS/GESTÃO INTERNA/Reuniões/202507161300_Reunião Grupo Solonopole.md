@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/202507161300-reuniao-grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-16T11:05:31.766-03:00","updated":"2025-08-12T10:57:22.013-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/202507161300-reuniao-grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-16T11:05:31.766-03:00","updated":"2025-07-17T15:05:32.085-03:00"}
 ---
 
 **Reunião - Grupo Solonopole**

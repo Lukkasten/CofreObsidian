@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/modelos/laudo-tecnico-analise-de-capacidade-financeira/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T14:33:42.045-03:00","updated":"2025-08-26T14:37:23.232-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/modelos/laudo-tecnico-analise-de-capacidade-financeira/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T14:33:42.045-03:00","updated":"2025-08-26T14:37:16.517-03:00"}
 ---
 
 

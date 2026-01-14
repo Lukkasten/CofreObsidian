@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-central-comercio-436/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T13:56:31.480-03:00","updated":"2025-12-11T16:24:56.688-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-central-comercio-436/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T13:56:31.480-03:00","updated":"2025-12-11T16:24:49.680-03:00"}
 ---
 
 

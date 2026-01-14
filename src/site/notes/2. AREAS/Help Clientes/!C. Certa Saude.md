@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/c-certa-saude/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:00:26.109-03:00","updated":"2025-12-22T14:49:37.576-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/c-certa-saude/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:00:26.109-03:00","updated":"2025-12-22T14:49:31.201-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

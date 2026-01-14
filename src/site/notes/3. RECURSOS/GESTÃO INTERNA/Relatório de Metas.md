@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T13:22:16.392-03:00","updated":"2025-10-15T22:20:20.978-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T13:22:16.392-03:00","updated":"2026-01-14T00:16:23.551-03:00"}
 ---
 
 **Resumo:**
@@ -10,7 +10,7 @@ O [relatório de metas](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4N
 **Classes:**
 
 **A++ =** Cliente do Lucro Real Entrega Mensal
-**A+ =** Cliente que têm reunião/entrega mensal (Exceto Lucro Real)
+**A+ =** Cliente que têm reunião/entrega mensal ( Real trimestral, Presumido, ou simples)
 **A  =** Empresas do Lucro Real Entrega Trimestral
 **B, E B+ =** Lucro Presumido e Simples Nacional entrega Trimestral
 **C =** Clientes Simplificados entrega semestral

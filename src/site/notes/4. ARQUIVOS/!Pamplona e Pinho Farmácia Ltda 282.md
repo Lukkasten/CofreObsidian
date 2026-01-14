@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/pamplona-e-pinho-farmacia-ltda-282/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:58:03.749-03:00","updated":"2025-12-22T14:32:51.869-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/pamplona-e-pinho-farmacia-ltda-282/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:58:03.749-03:00","updated":"2025-12-17T17:59:11.038-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

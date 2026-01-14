@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/jfx-industria-e-servicos-ltda-362/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-13T23:03:58.090-03:00","updated":"2026-01-13T23:05:21.875-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/jfx-industria-e-servicos-ltda-362/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-13T23:03:58.090-03:00","updated":"2026-01-13T23:05:27.614-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

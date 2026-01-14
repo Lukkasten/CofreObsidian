@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/sp-comercio-farmaceutico-ltda-275/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T15:05:02.654-03:00","updated":"2026-01-09T18:45:58.468-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/sp-comercio-farmaceutico-ltda-275/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T15:05:02.654-03:00","updated":"2026-01-09T18:45:51.786-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

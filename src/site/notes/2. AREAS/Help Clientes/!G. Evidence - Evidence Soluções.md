@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-09T08:43:25.989-03:00","updated":"2025-11-03T12:21:19.643-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/g-evidence-evidence-solucoes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-09T08:43:25.989-03:00","updated":"2025-11-03T12:21:12.353-03:00"}
 ---
 
 * Orientações sobre a Reforma Tributaria  

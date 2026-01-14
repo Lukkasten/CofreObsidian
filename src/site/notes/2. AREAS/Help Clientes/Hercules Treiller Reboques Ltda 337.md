@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/hercules-treiller-reboques-ltda-337/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:25:17.763-03:00","updated":"2026-01-12T17:35:56.709-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/hercules-treiller-reboques-ltda-337/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:25:17.763-03:00","updated":"2026-01-05T13:25:54.493-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

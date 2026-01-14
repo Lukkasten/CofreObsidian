@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-27T10:32:13.773-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-norte/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-28T21:37:13.616-03:00","updated":"2025-08-27T10:32:02.862-03:00"}
 ---
 
 

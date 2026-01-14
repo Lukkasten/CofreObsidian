@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-silva-9730/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:36:03.895-03:00","updated":"2025-12-31T10:00:23.647-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/com-med-silva-9730/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:36:03.895-03:00","updated":"2025-12-31T10:00:30.220-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
