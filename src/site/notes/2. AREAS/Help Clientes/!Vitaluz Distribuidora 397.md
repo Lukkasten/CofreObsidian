@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2025-12-17T18:14:06.340-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-01-15T13:44:05.575-03:00"}
 ---
-
-
-
 
 ##### **ASPECTOS GERAIS:**
 ___
+
+1) Gentileza esses assuntos financeiro vamos tratar só comigo através desse e-mail ( lcostalopes@gmail.com) ok?  Por favor repassar para os demais setores. Assinado: Luciano Sócio 
+
+
 
 
 ##### **GUIA DARF PIS, COFINS:**
