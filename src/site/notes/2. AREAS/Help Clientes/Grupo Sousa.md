@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-13T11:29:09.657-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-20T18:04:49.629-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -31,11 +31,9 @@ ___
 
 BANCOS:
 - ITAU -  AG 5854 CC 9265-7
-- 
 - CEF - AG 1048 C/C 573169295-1
-- 
 - PAGBANK - AG: 0001 C/C 47982159-7
-- 
+
 
 
 **HERCULES 337**
