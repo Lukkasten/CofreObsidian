@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-pagina-inicial/notas-diarias/202601201401-grupo-connect-alteracao-do-balanco-ano-2024/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-20T14:01:20.707-03:00","updated":"2026-01-21T10:40:54.330-03:00"}
+{"dg-publish":true,"permalink":"/0-pagina-inicial/notas-diarias/202601201401-grupo-connect-alteracao-do-balanco-ano-2024/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-20T14:01:20.707-03:00","updated":"2026-01-21T11:06:55.438-03:00"}
 ---
 
 ___
@@ -22,3 +22,8 @@ dois últimos exercícios sociais;"
 Tirei os valores que estava em outros adiantamento no Não Circulante e coloquei para  Outros Adiantamentos Circulante. PS: Lucas Rebouças
 
 
+**PROCESSO JUCEC**
+
+[FCN / REMP](https://portalservicos.jucec.ce.gov.br/fcnremp/pages/documentos/documentos.seam?conversationPropagation=nested&cid=22001)
+
+#Processo #JUCEC #AutenticaçãoBalanço

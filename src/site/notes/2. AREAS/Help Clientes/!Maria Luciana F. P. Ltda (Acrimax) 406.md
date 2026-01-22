@@ -1,6 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2025-08-26T14:54:54.493-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2026-01-22T09:55:21.358-03:00"}
 ---
+
+##### **ASPECTOS GERAIS:**
+___
+
+
+##### **GUIA DARF PIS, COFINS:**
+____
+
+1) Sempre que você fizer a apuração do PIS e da COFINS enviar memória de cálculo direto para este cliente.
+2) 
+
+##### **GUIA DARF IRPJ E CSLL:**
+____
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+##### **DOMINIO LALUR:**
+___
+
+##### **DOMINIO PATRIMONIO:**
+___
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+##### **HISTÓRICO DE REUNIÕES:**
+___
+
+
+##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
+___
+
+
 
 **Terça-feira, 26 Agosto 2025**
 	(11:51) Samara Peixe - 7560: Bom dia, Lucas.
