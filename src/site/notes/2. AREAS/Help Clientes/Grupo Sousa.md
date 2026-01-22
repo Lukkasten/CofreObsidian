@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-20T18:04:49.629-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-22T15:18:41.190-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -88,3 +88,6 @@ Informo que as empresas:
 estão em processo de migração para a Control e farão parte do GRUPO SOUSA.
 
 Para mais informações, só falar comigo.  
+
+
+![Pasted image 20260122151840.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260122151840.png)
