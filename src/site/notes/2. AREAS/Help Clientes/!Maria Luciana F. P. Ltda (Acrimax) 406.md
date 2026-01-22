@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2026-01-22T09:55:21.358-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2026-01-22T09:56:34.481-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
+1) Sempre que fizer a apuração do pis e da cofins, enviar a memória de cálculo diretamente pelo onvio tarefa, aproveite a tarefa e envie por lá.
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
-1) Sempre que você fizer a apuração do PIS e da COFINS enviar memória de cálculo direto para este cliente.
-2) 
+1) Sempre que fizer a apuração do pis e da cofins, enviar a memória de cálculo diretamente pelo onvio tarefa, aproveite a tarefa e envie por lá.
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
