@@ -16,7 +16,7 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 4. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
 5. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
-Muito importante: [[Avisos e cuidados no Operacional\|Avisos e cuidados no Operacional]]
+Muito importante: [[3. RECURSOS/GESTÃO INTERNA/Cuidados, orientações/Avisos e cuidados no Operacional\|Avisos e cuidados no Operacional]]
 
 Assim como em uma grande engrenagem, cada membro do nosso departamento contábil é essencial para que tudo funcione com precisão e harmonia, e isso começa com o cada um sabendo qual suas [[3. RECURSOS/GESTÃO INTERNA/Trilha de carreira, cargos, funções/Tarefas, por cargo\|Tarefas, por cargo]], dentro da equipe, diariamente atualizo o [[3. RECURSOS/GESTÃO INTERNA/Relatório de Metas\|Relatório de Metas]], [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4Ny00ZjE4LWIxMzEtMTI0ODMxOGViNDliIiwidCI6IjBiNzU0YTA5LTA1NjgtNDhmZC1hMTAwLTg2MjFhMGJiZDdhYiJ9), essas informações são extraídas do [[3. RECURSOS/PRODUTIVIDADE/Onvio\|Onvio]] e apresentada no formato de dashboards.
 
