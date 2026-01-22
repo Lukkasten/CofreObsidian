@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-01-22T16:21:46.052-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-01-22T16:22:41.823-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
@@ -45,6 +45,6 @@ _____
 ___
 Sempre manter os equipamentos por perto, microsip, celular, etc... Mayanara
 _____
-
-
+Sempre for acontecer alguma reunião online, testar com antecedência os equipamentos
+____
 
