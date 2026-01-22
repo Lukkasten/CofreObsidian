@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-01-22T10:50:46.206-03:00"}
+{"dg-publish":true,"permalink":"/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-01-22T10:51:12.107-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
@@ -19,10 +19,6 @@ ___
 ____
 **MUTUOS** – Conferencia dos valores de mutuo entre as empresas. Saldo permanecer somente na conta de ativo ou passivo.
 ____
-Verificar e fazer a baixa das tarefas atrasadas.
-_____
-Apurar LALUR + Guia Pis e Cofins - Cadastrar as tarefas pro analista que estão pro assistente.
-____
 
 
 
@@ -37,6 +33,10 @@ Ao desconsiderar uma tarefa, marcar os itens do checklist mesmo assim.
 ___
 Ao marcar uma tarefa, ficar atento a competência.
 ____
+Verificar e fazer a baixa das tarefas atrasadas.
+_____
+Apurar LALUR + Guia Pis e Cofins - Cadastrar as tarefas pro analista que estão pro assistente.
+_____
 
 
 
