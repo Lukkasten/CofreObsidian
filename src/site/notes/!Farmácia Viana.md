@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farmacia-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-27T18:15:47.894-03:00","updated":"2026-01-27T18:16:06.308-03:00"}
+{"dg-publish":true,"permalink":"/farmacia-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-27T18:15:47.894-03:00","updated":"2026-01-27T18:19:59.687-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -47,6 +47,14 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+Reunião dia 27/01/2026
+Participantes: Ecaterine, Hudson, Mirella, Marido da Mirella, Lucas
+
+1) Ficou acordado entre as partes que a [[!Farmácia Viana\|!Farmácia Viana]] a partir da competência Janeiro/2026 passará a adotar o regime lucro real.
+2) A [[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]] continuará no Lucro Presumido no exercício Ano 2026.
+
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
