@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-01-27T18:16:43.669-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-01-27T18:21:33.821-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
 
-[[2. AREAS/Help Clientes/!Drogaria Cariri 1\|!Drogaria Cariri 1]]
-[[2. AREAS/Help Clientes/Drogaria Cariri 2\|Drogaria Cariri 2]]
-[[2. AREAS/Help Clientes/!Drogaria Viana\|!Drogaria Viana]]
-[[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]]
-[[!Farmácia Viana\|!Farmácia Viana]]
+[[2. AREAS/Help Clientes/!Drogaria Cariri 1\|!Drogaria Cariri 1]] - Lucro Real
+[[2. AREAS/Help Clientes/Drogaria Cariri 2\|Drogaria Cariri 2]] - Lucro Real
+[[2. AREAS/Help Clientes/!Drogaria Viana\|!Drogaria Viana]] - Lucro Real 
+[[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]] - Lucro Presumido
+[[!Farmácia Viana\|!Farmácia Viana]] - Lucro Real, a partir da competência Janeiro/2026.
+
+
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
@@ -33,8 +35,13 @@ ____
 ____
 
 
+
+
 ##### **DOMINIO LALUR:**
 ___
+
+
+
 
 ##### **DOMINIO PATRIMONIO:**
 ___
