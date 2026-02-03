@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-01-27T18:44:34.674-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-01-28T12:14:50.797-03:00"}
 ---
 
 ##### **RESUMO:**
@@ -46,6 +46,10 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ____
+
+
+
+
 
 Reunião dia 27/01/2026
 Local: na empresa

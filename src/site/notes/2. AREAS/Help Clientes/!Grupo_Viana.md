@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-01-27T18:21:33.821-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-01-28T12:15:36.551-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -61,6 +61,10 @@ ___
 ___
 
 
+
+
+
+
 Reunião dia 27/01/2026
 Participantes: Ecaterine, Hudson, Mirella, Marido da Mirella, Lucas
 
@@ -71,6 +75,13 @@ Participantes: Ecaterine, Hudson, Mirella, Marido da Mirella, Lucas
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
+
+**Quarta-feira, 28 Janeiro 2026** #Raul #Maynara #SPARK
+ (11:45) Maynara Víctor - 7551: (11:34) Raul Feitosa - 7569: Se ele for vender energia para as empresas precisa ser o cnae de venda de energia, se ele for vender só as placas e fazer a manutenção aí pode ser só o de vendas de materiais eletricos 4742-3/00 e esse de manutenção que vc falou
+(11:35) maynara: As placas ele já tem, vai vender apenas a geração de enegia mesmo. 
+(11:35) maynara: Então, não daria certo incluir o cnae na prestadora pois vai sair do simples. 
+(11:45) Maynara Víctor - 7551: Sobre o G. VIANNA, não é viável 
+
 
 ___
 
