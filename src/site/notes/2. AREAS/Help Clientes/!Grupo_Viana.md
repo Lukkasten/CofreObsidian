@@ -10,7 +10,7 @@ ___
 [[2. AREAS/Help Clientes/Drogaria Cariri 2\|Drogaria Cariri 2]] - Lucro Real
 [[2. AREAS/Help Clientes/!Drogaria Viana\|!Drogaria Viana]] - Lucro Real 
 [[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]] - Lucro Presumido
-[[!Farmácia Viana\|!Farmácia Viana]] - Lucro Real, a partir da competência Janeiro/2026.
+[[2. AREAS/Help Clientes/!Farmácia Viana\|!Farmácia Viana]] - Lucro Real, a partir da competência Janeiro/2026.
 
 
 ##### **GUIA DARF PIS, COFINS:**
@@ -68,7 +68,7 @@ ___
 Reunião dia 27/01/2026
 Participantes: Ecaterine, Hudson, Mirella, Marido da Mirella, Lucas
 
-1) Ficou acordado entre as partes que a [[!Farmácia Viana\|!Farmácia Viana]] a partir da competência Janeiro/2026 passará a adotar o regime lucro real.
+1) Ficou acordado entre as partes que a [[2. AREAS/Help Clientes/!Farmácia Viana\|!Farmácia Viana]] a partir da competência Janeiro/2026 passará a adotar o regime lucro real.
 2) A [[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]] continuará no Lucro Presumido no exercício Ano 2026.
 
 
