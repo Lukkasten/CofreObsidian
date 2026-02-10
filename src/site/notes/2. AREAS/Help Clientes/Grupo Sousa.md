@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-01-22T15:18:41.190-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-sousa/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:21:41.327-03:00","updated":"2026-02-10T11:45:22.193-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -8,7 +8,7 @@ ___
 Sócios: Wilson e Amanda
 
 [[2. AREAS/Help Clientes/JWS Wilson Gas Ltda 321\|JWS Wilson Gas Ltda 321]] - Lucro Real não pagar imposto.
-[[2. AREAS/Help Clientes/Bala Transportes Ltda\|Bala Transportes Ltda]] - Perdeu o Simples em ano 2026, a **Ideal** irá substituir essa empresa ( Empresa será do Simples)
+[[2. AREAS/Help Clientes/!Bala Transportes Ltda 347\|!Bala Transportes Ltda 347]] - Perdeu o Simples em ano 2026, a **Ideal** irá substituir essa empresa ( Empresa será do Simples)
 [[2. AREAS/Help Clientes/Hercules Treiller Reboques Ltda 337\|Hercules Treiller Reboques Ltda 337]] - Perdeu o simples e vai para o lucro real,  não vai pagar imposto.
 
 Cadastrar no ONVIO CNPJ: 23.241.555/0001-20 **JWS SERVICOS ADMINISTRATIVOS LTDA**
