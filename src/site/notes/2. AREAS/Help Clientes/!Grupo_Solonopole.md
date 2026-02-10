@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-01-09T18:33:22.904-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-02-05T15:28:21.721-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -54,14 +54,37 @@ ___
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
-Reunião dia 17/12/2025
+______
+
+**Reunião dia 05/02/2026**
+
+Vai para o Lucro Real
+	✅ Farmácia Solonopole 
+	✅ Com. Med. Silva 
+	✅ 271 - S.S. SILVA MEDICAMENTOS LTDA (Substituirá a Nunes)
+	✅Comercial de Medicamentos Lima
+
+**Participantes:** Kalina, Suliane, Hudson, Kalina, Lucas, Alexandre
+
+**Obs 1:** A Com. de Med. Lima, terá despesas recebidas ao longo do ano 2026 para ser viável no Lucro Real.
+**Obs 2:** Os funcionários da:
+	1. Farmácia Solonopole 
+	2. Comercial de Med. Silva 
+	3. Com. Med. Lima
+		 ... saíram das prestadoras e voltaram para as mesmas.
+
+
+______
+**Reunião dia 17/12/2025**
 
 Vai para o Lucro Real
 	✅ Farmácia Solonopole 
 	✅ Com. Med. Silva 
 	✅ 271 - S.S. SILVA MEDICAMENTOS LTDA (Substituirá a Nunes)
 
+Participantes: Kalina, Suliane, Hudson, Kalina, Lucas, Alexandre
 
+_____
 [[3. RECURSOS/GESTÃO INTERNA/Reuniões/202507161300_Reunião Grupo Solonopole\|202507161300_Reunião Grupo Solonopole]]
 [[2. AREAS/Help Interno/202507091400_Reunião\|202507091400_Reunião]]
 

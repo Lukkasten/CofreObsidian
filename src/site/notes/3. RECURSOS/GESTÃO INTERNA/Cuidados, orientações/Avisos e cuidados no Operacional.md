@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-01-22T16:22:41.823-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-02-06T16:31:51.811-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
@@ -48,3 +48,4 @@ _____
 Sempre for acontecer alguma reunião online, testar com antecedência os equipamentos
 ____
 
+____
