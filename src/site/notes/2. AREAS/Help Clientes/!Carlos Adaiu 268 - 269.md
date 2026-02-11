@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-10T16:18:17.761-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-10T16:18:34.148-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-
 [Planilha de migração](https://docs.google.com/spreadsheets/d/1gUsQPRq7vXpGNpu6yA66KCkcNS8ZT2MLTngdjbJV5lY/edit?gid=1978312704#gid=1978312704)
 Matriz + Filial
-
 
 
 ##### **GUIA DARF PIS, COFINS:**
