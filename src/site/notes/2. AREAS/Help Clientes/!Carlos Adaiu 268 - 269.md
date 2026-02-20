@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-10T16:18:34.148-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-18T11:11:05.494-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -12,7 +12,7 @@ Matriz + Filial
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
-10/02/2026 - Não tem PIS e COFINS *(Por Lucas Rebouças)*
+10/02/2026 - Não tem PIS e COFINS, 100% monofásica e alíquota zero*(Por Lucas Rebouças)*
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
