@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-seiva-cod-248/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:07:30.967-03:00","updated":"2026-02-20T12:04:10.994-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-seiva-cod-248/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:07:30.967-03:00","updated":"2026-02-20T12:12:52.945-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -60,8 +60,9 @@ ____
 Menseger dia 20/02/2026 - conversa sobre as informações iniciais para calcularmos o pis e a cofins
 
 **SEIVA MATRIZ**  
-  Aluguel Jan 26: **$4.000,00**  
+Aluguel Jan 26: **$4.000,00**  
 Energia Eletrica Jan 26: **$2.565,24**  
+Vale Alimentação: R$ 3.000,00
 Saldo em estoque 31/12/2025: **$709.463,13**  
 Saldo em estoque 31/01/2026: **$680.225,89**  
   
