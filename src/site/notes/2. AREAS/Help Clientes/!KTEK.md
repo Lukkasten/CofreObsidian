@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-01-19T18:41:26.312-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-02-23T13:10:28.502-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -15,7 +15,7 @@ ____
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
 Lucro Real a partir de janeiro/2026
-Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%
+Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%, comforme alinhado com o Dyaloisio e Hudson.
 
 
 ##### **CONTÁBIL/FINANCEIRO:**
