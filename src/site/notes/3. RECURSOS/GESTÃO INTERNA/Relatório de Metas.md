@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T13:22:16.392-03:00","updated":"2026-01-14T00:16:23.551-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T13:22:16.392-03:00","updated":"2026-02-23T15:59:54.691-03:00"}
 ---
 
 **Resumo:**
@@ -24,3 +24,7 @@ O [relatório de metas](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4N
 4) Sempre que concluir uma tarefa, efetuar a baixa no [[3. RECURSOS/PRODUTIVIDADE/Onvio\|Onvio]]
 
 **TEMPO MÉDIO PARA CADA PESSOA 10 MINUTOS**
+
+
+
+
