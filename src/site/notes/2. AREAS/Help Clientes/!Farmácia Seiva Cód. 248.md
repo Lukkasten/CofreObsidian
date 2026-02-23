@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-seiva-cod-248/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:07:30.967-03:00","updated":"2026-02-20T14:41:20.348-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-seiva-cod-248/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T14:07:30.967-03:00","updated":"2026-02-23T09:35:40.325-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
+Matriz + Filial
+Lucro Real Trimestral a partir de janeiro/2026
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
@@ -13,6 +15,9 @@ ____
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
+
+⚠️ Será com base num lucro ajustado, abaixo de 8%, deixar uma média de 7,5%, conforme alinhado com o Hudson.
+
 
 
 ##### **CONTÁBIL/FINANCEIRO:**
