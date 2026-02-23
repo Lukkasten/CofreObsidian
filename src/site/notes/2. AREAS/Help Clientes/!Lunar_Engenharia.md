@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-02-23T16:04:20.675-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-02-23T16:04:44.390-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -8,7 +8,8 @@ ___
 
 **LUNAR ENGENHARIA**
 1) algo mais simples, fácil
-2) que servisse para ele tomar decisão.
+2) Alinhado com o fiscal
+3) que servisse para ele tomar decisão.
 
 
 
