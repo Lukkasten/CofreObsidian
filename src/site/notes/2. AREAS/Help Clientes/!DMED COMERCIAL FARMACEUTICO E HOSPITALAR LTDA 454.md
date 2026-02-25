@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-comercial-farmaceutico-e-hospitalar-ltda-454/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-25T12:59:51.615-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-comercial-farmaceutico-e-hospitalar-ltda-454/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-25T13:21:29.078-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-Iniciou conosco a partir do ano 2026
-[Planilha de migração](https://docs.google.com/spreadsheets/d/1SueQqElqHNXdAnJnIKEe2l3VaVY3LvMQDQ1JwEvnL2k/edit?gid=1978312704#gid=1978312704)
-Competência de início: Fevereiro/2026
-
+1) Iniciou conosco a partir do ano 2026
+2) [Planilha de migração](https://docs.google.com/spreadsheets/d/1SueQqElqHNXdAnJnIKEe2l3VaVY3LvMQDQ1JwEvnL2k/edit?gid=1978312704#gid=1978312704)
+3) Competência de início: Fevereiro/2026
+4) Não vai ter DP
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
