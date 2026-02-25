@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-comercial-farmaceutico-e-hospitalar-ltda-454/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-25T10:20:42.794-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-comercial-farmaceutico-e-hospitalar-ltda-454/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-25T12:59:51.615-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -8,6 +8,8 @@ ___
 Iniciou conosco a partir do ano 2026
 [Planilha de migração](https://docs.google.com/spreadsheets/d/1SueQqElqHNXdAnJnIKEe2l3VaVY3LvMQDQ1JwEvnL2k/edit?gid=1978312704#gid=1978312704)
 Competência de início: Fevereiro/2026
+
+
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
@@ -16,6 +18,7 @@ ____
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
+
 
 
 ##### **CONTÁBIL/FINANCEIRO:**
@@ -27,6 +30,7 @@ ____
 
 
 
+
 ##### **MOVIMENTO FOLHA:**
 ____
 
@@ -34,8 +38,12 @@ ____
 ##### **DOMINIO LALUR:**
 ___
 
+
+
 ##### **DOMINIO PATRIMONIO:**
 ___
+
+
 
 
 ##### **PRÉ-FECHAMENTO:**
@@ -48,8 +56,13 @@ ___
 
 
 
+
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+
+
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
