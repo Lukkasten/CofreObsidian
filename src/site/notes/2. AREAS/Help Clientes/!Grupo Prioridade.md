@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2025-12-11T13:55:20.103-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-02-26T14:02:13.449-03:00"}
 ---
+
+[EMAIL DE SAÍDA DO GRUPO](https://mail.google.com/mail/u/0/#all/DRGVkzgsjnQVtbPvjTdpMJNSHklPClkrWLcXmrGG)
+
 
 **EMPRESAS DO GRUPO**
 ___
@@ -12,6 +15,9 @@ ___
 
 #Hudson 
 ___
+
+
+
 
 **HISTÓRICO**
 

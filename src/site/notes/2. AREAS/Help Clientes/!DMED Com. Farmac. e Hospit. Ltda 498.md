@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-26T12:08:43.976-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-26T15:19:03.017-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -22,7 +22,7 @@ A+ Deseja que seja apresentado mensalmente os resultados da empresa.
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
-
+1) O Antigo contador colocava 100% de alíquota zero e monofásica nas apurações de pis e cofins verificar conversa no dia 26/02/2026 sobre isso clique no [link](https://app.gestta.com.br/attendance/#/chat/ongoing/69862bce7c747cd58b31a80c) e veja a conversa. Ass. Lucas Rebouças
 
 
 ##### **GUIA DARF IRPJ E CSLL:**
@@ -66,7 +66,16 @@ ___
 ___
 
 
-*Deseja que seja apresentado mensalmente os resultados da empresa.
+
+ECF
+____
+
+Contador antigo disse que não vai enviar a ECF, ver conversa no link abaixo:
+https://app.gestta.com.br/attendance/#/chat/contact-list/69862bce7c747cd58b31a80c
+
+
+____
+
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
@@ -77,12 +86,20 @@ ___
 Interesse em ter acompanhamento mensal
 entrar em contato com o antigo contador sobre os créditos de pis e cofins
 será feito a partir de janeiro/2026. backup de janeiro/2026 zerado
-
+*Deseja que seja apresentado mensalmente os resultados da empresa.
 
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
+
+
+
+
+
+
+
+
 
 ____
 **26/02/2026**
