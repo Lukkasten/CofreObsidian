@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ecs-benevides-ltda-9899/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T13:53:55.883-03:00","updated":"2026-02-25T14:01:35.444-03:00"}
+{"dg-publish":true,"permalink":"/ecs-benevides-ltda-9899/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T13:53:55.883-03:00","updated":"2026-02-25T16:25:11.331-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -10,6 +10,9 @@ Email  sobre a saída desse cliente - [Aqui](https://mail.google.com/mail/u/0/#a
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
+
+
+AZTECA15 - DEMONSTRAÇÕES CONTÁBEIS ANO 2025
 
 
 

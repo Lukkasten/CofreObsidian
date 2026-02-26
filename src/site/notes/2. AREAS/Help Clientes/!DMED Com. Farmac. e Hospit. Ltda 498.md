@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-25T13:47:01.476-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-26T11:11:26.449-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
+
+A+ Deseja que seja apresentado mensalmente os resultados da empresa.
 
 1) Iniciou conosco a partir do ano 2026
 2) [Planilha de migração](https://docs.google.com/spreadsheets/d/1SueQqElqHNXdAnJnIKEe2l3VaVY3LvMQDQ1JwEvnL2k/edit?gid=1978312704#gid=1978312704)
 3) Competência de início: Fevereiro/2026
 4) Não vai ter DP
 5) Recebemos Backup Contábil ( Domínio)
+
+
 
 
 ##### **GUIA DARF PIS, COFINS:**
@@ -25,6 +29,9 @@ ____
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
+
+
 
 
 ##### **MOVIMENTO FISCAL:**
@@ -56,19 +63,34 @@ ___
 ___
 
 
-
+*Deseja que seja apresentado mensalmente os resultados da empresa.
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
 
+**25/02/2026**
+Interesse em ter acompanhamento mensal
+entrar em contato com o antigo contador sobre os créditos de pis e cofins
+será feito a partir de janeiro/2026. backup de janeiro/2026 zerado
 
 
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
+
+____
+**26/02/2026**
+(08:23) Mayara Víctor - 7553: (Offline) Bom dia, Lucas!
+(08:24) Mayara Víctor - 7553: (Offline) O e-mail da Sra. Nádia, que irá ficar responsável de encaminhar as informações da empresa DMED, já está salvo no Onvio, é o financeiro@dmedfarma.com.br
+(08:24) Mayara Víctor - 7553: (Offline) O contato do antigo contador de lá é o:
+Roni Gomes - EX CONT DMED 
++55 88 99749-1200
+(08:24) Mayara Víctor - 7553: (Offline) Qualquer coisa, só falar!
+Quinta-feira, 26 Fevereiro 2026
+____
 
 Quarta-feira, 25 Fevereiro 2026
  

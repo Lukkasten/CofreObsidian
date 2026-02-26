@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/extralimp-ltda-415/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:11:57.146-03:00","updated":"2026-02-03T16:16:42.655-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/extralimp-ltda-415/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:11:57.146-03:00","updated":"2026-02-25T14:45:38.367-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -7,6 +7,8 @@ ___
 
 [[2. AREAS/Help Clientes/!Grupo Extralimp\|!Grupo Extralimp]]
 [Planilha de Migração](https://docs.google.com/spreadsheets/d/1UezmikY_mdtLrajft5IZxOqqBaXLVlS-aXg6JY_iONM/edit?gid=1978312704#gid=1978312704)
+A partir de Fevereiro/2026
+Matriz + Filial
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
