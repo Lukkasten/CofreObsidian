@@ -1,18 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-02-26T12:10:56.261-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/luana-silva-alexandre-ltda-359/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:28:11.617-03:00","updated":"2026-02-25T14:32:14.817-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-
-[[2. AREAS/Help Clientes/!Valdir João Alexandre  Ltda 355\|!Valdir João Alexandre  Ltda 355]]
-[[2. AREAS/Help Clientes/!Luana Silva Alexandre Ltda 359\|!Luana Silva Alexandre Ltda 359]] 
-
-
-
-
-
+[[2. AREAS/Help Clientes/!Grupo Rede Alexandre\|!Grupo Rede Alexandre]]
+[Planilha de migração](https://docs.google.com/spreadsheets/d/1pU1mt34G--GwJj3uQLyOl7O3TQq7MIjRiXSflN20Q5M/edit?gid=1978312704#gid=1978312704)
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
@@ -23,8 +17,11 @@ ____
 ____
 
 
+
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
+
 
 
 ##### **MOVIMENTO FISCAL:**
@@ -59,8 +56,6 @@ ___
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
-
-
 
 
 Quarta-feira, 11 Fevereiro 2026
