@@ -1,15 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-26T11:11:26.449-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-26T12:08:43.976-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
+Ficou alinhado na reunião. [Clique aqui](https://drive.google.com/file/d/1DBmR-oYIMhJzeKzly5JMim4lpTw8CCaW/view?usp=sharing)
+
+
 A+ Deseja que seja apresentado mensalmente os resultados da empresa.
 
 1) Iniciou conosco a partir do ano 2026
 2) [Planilha de migração](https://docs.google.com/spreadsheets/d/1SueQqElqHNXdAnJnIKEe2l3VaVY3LvMQDQ1JwEvnL2k/edit?gid=1978312704#gid=1978312704)
-3) Competência de início: Fevereiro/2026
+3) Competência de início: Fevereiro/2026, mas iremos fazer também o mês de janeiro/2026.
 4) Não vai ter DP
 5) Recebemos Backup Contábil ( Domínio)
 
