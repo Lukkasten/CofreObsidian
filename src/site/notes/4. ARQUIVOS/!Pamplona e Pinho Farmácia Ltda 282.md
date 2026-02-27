@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/pamplona-e-pinho-farmacia-ltda-282/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:58:03.749-03:00","updated":"2025-12-17T17:59:11.038-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/pamplona-e-pinho-farmacia-ltda-282/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:58:03.749-03:00","updated":"2026-02-27T14:14:53.475-03:00"}
 ---
+
 
 ##### **ASPECTOS GERAIS:**
 ___
@@ -17,6 +18,7 @@ ____
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
 
 
 ##### **MOVIMENTO FISCAL:**
@@ -48,8 +50,16 @@ ___
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
-# REUNIÕES:
 
+_____
+**27/02/2026**
+**Participantes: Lucas, Neuton, Igor**
+
+**O que foi visto?**
+Criação o drive;
+Salvo extratos bancários  (Stone, Banco do Brasil) ( faltou da CEF);
+Levantamento de despesas ( para poder diminuir o imposto);
+Registro de inventário ( Criar link externo Trier), Neuton vai falar com o Naldo;
 _____
 **Reunião dia 10/12/2025**
 **Participantes: Neuton, Igor e Lucas**
@@ -72,6 +82,7 @@ C/C: 00000565-7
 Banco: Stone 197 banco
 Ag: 0001
 C/C: 4550255-6
+
 
 _____
 
