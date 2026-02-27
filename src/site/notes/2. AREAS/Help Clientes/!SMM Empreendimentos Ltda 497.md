@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-extralimp/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:10:29.469-03:00","updated":"2026-02-27T09:12:36.075-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/smm-empreendimentos-ltda-497/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:13:35.804-03:00","updated":"2026-02-27T09:12:54.162-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-[[2. AREAS/Help Clientes/!Extralimp Ltda 415\|!Extralimp Ltda 415]] Matriz + Filial
-[[2. AREAS/Help Clientes/!SMM Empreendimentos Ltda 497\|!SMM Empreendimentos Ltda 497]]
-
-
+[[2. AREAS/Help Clientes/!Grupo Extralimp\|!Grupo Extralimp]]
+[Planilha de migração](https://docs.google.com/spreadsheets/d/1Ap0l2EKt5v0m7PmhX8-iAfOCy1ePrYVlJIGoxqzlK4o/edit?gid=1978312704#gid=1978312704)
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
@@ -47,6 +45,12 @@ ___
 ___
 
 
+
+**ECF**
+___
+
+1) 27/02/2026 Enviar a ECF Ano 2023, para tirar a pendência da Receita Federal
+2) 
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
