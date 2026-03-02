@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-02T17:29:52.537-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-02T17:33:29.877-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -7,22 +7,22 @@ ___
 
 
 **Conforme reunião dia 02/03/2026 ver notas abaixo em reuniões:**
-Lucro Real Mensal a partir de Janeiro/2026
-Marcus consultor fará o acompanhamento
-BPO Financeiro - Inter a partir de Março/2026
+1. Lucro Real Mensal a partir de Janeiro/2026
+2. Marcus consultor fará o acompanhamento
+3. BPO Financeiro - Inter a partir de Março/2026
 
 
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
-Janeiro/2026 - Nada a pagar
+Janeiro/2026 - ==Nada a pagar==
 
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
 
-Janeiro/2026 Nada a Pagar
+Janeiro/2026 ==Nada a Pagar==
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
