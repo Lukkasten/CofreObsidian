@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-02-27T17:13:13.992-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-03-02T13:26:02.779-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-Início da competência Março/2026
-Planilha de alinhamento da [reunião de migração](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQfCDPXjRWjKXcgGZbSMDqjCgjt?projector=1&messagePartId=0.1)
+1) Início da competência Março/2026
+2) Planilha de alinhamento da [reunião de migração](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQfCDPXjRWjKXcgGZbSMDqjCgjt?projector=1&messagePartId=0.1)
+3) Acompanhamento a cada 6 meses;
 
 
 
@@ -22,6 +23,8 @@ ____
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
+2) Onvio cobrança.
 
 
 ##### **MOVIMENTO FISCAL:**
@@ -52,6 +55,8 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+
 
 ______
 **27/02/2026**
