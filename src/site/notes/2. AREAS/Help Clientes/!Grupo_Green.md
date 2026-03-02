@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-02T17:28:39.499-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-02T17:29:52.537-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -30,9 +30,6 @@ ___
 Janeiro/2026 -  
 Fevereiro/2026 - 
 
-
-
-
 ##### **MOVIMENTO FISCAL:**
 ____
 
@@ -62,8 +59,6 @@ ___
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
-
-
 ____
 **Reunião Cliente**
 **Data: 02/03/2026** 
@@ -74,25 +69,14 @@ ____
 1) Mudança para o Lucro Real mensal;
 2) BPO Financeiro interno a partir de Março/2026;
 
-
-
-
-
-
-
-___
-
+_____
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
 
 
-
-
-_____________________________________________________________________
-
-Segunda-feira, 30 Dezembro 2024
+**Segunda-feira, 30 Dezembro 2024**
 (09:53) Mayara Víctor - 7553: Bom dia, Lucas!
  
 (09:54) Mayara Víctor - 7553: Só para avisar que recebemos o backup contábil das empresas CAVALCANTE & CAVALCANTE e GREEN X, do Grupo GREEN X, e já se encontram disponiveis no Fortes com os códigos:
