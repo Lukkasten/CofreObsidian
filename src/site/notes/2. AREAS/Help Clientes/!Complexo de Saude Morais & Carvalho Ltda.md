@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-02-27T17:13:05.983-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-02-27T17:13:13.992-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -7,6 +7,10 @@ ___
 
 Início da competência Março/2026
 Planilha de alinhamento da [reunião de migração](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQfCDPXjRWjKXcgGZbSMDqjCgjt?projector=1&messagePartId=0.1)
+
+
+
+
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
