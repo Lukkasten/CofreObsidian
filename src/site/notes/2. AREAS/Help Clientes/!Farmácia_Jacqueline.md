@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-03T18:21:27.944-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-03T18:23:32.224-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -58,7 +58,7 @@ Reunião Cliente | Farmácia Jacqueline
 Participantes: Julio (Financeiro), Brayann.
 Horário: 10:00 
 Modalidade Online
-Nota da reunião: Aguardando... ⏳
+Nota da reunião Gemini: Aguardando... ⏳
 
 **📌 Objetivo:**
 
