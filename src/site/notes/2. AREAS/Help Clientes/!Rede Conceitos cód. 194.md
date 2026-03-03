@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos-cod-194/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2026-03-03T13:31:11.363-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos-cod-194/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2026-03-03T15:43:41.802-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -60,8 +60,8 @@ ___
 
 ____
 **Reunião** dia 03/03/2026
-**Participantes**: Igor, Mirtuchi, Hudson, Raul e Lucas
-Assunto:
+**Participantes**: Igor, Myrtuchi, Hudson, Raul e Lucas
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/REUNIÃO - REDES CONCEITO - 2026_03_03 09_37 GMT-03_00 - Anotações do Gemini\|REUNIÃO - REDES CONCEITO - 2026_03_03 09_37 GMT-03_00 - Anotações do Gemini]]
 
 **📌 Ações:**
 Crédito de PIS e COFINS, foi feito o levantamento dos créditos e compartilhamento com o cliente via planilha online [[3. RECURSOS/TRIBUTÁRIO/Créditos PIS e COFINS - indústria de Artefatos de Cordoaria\|Créditos PIS e COFINS - indústria de Artefatos de Cordoaria]]

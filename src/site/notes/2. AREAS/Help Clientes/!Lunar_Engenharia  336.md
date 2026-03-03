@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia-336/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-02-25T15:45:02.127-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia-336/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-03-03T15:41:31.818-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -66,6 +66,18 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+___
+
+**Reunião** 03/03/2026
+**Participantes:** Hudson, Ecaterine, Lucas, Emanuel (Online)
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/Reunião - Lunar - 2026_03_03 14_15 GMT-03_00 - Anotações do Gemini\|Reunião - Lunar - 2026_03_03 14_15 GMT-03_00 - Anotações do Gemini]] 
+
+**Assunto:**
+- Planejamento estratégico
+- Vai trabalhar com a "minha casa, minha vida" - Depto. Fiscal
+- 
+____
 
 
 
