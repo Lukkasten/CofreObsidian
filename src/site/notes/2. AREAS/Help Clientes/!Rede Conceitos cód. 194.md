@@ -1,12 +1,62 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos-cod-194/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2026-02-26T12:12:15.599-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos-cod-194/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2026-03-03T12:07:08.925-03:00"}
 ---
 
+##### **ASPECTOS GERAIS:**
+___
+
 **Tem matriz + filiais**
+Acompanhamento Planilha de créditos de PIS e COFINS - [Clique aqui](https://docs.google.com/spreadsheets/d/1pQ1NeFVZCUCbJIF-IwcLrS0lpd3B-aR8zBYdiHPL0v0/edit?usp=sharing)
+Levantamento [[3. RECURSOS/TRIBUTÁRIO/Créditos PIS e COFINS - indústria de Artefatos de Cordoaria\|Créditos PIS e COFINS - indústria de Artefatos de Cordoaria]]
+
+##### **GUIA DARF PIS, COFINS:**
+____
+
+
+
+##### **GUIA DARF IRPJ E CSLL:**
+____
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+##### **DOMINIO LALUR:**
+___
+
+##### **DOMINIO PATRIMONIO:**
+___
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+
+##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
+___
+
+
+
 
 
 ***HISTÓRICO DE REUNIÃO:***
-
 
 _______
 Quarta-feira, 22 Outubro 2025

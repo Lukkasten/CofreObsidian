@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-02T17:33:29.877-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T09:26:22.201-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -9,7 +9,9 @@ ___
 **Conforme reunião dia 02/03/2026 ver notas abaixo em reuniões:**
 1. Lucro Real Mensal a partir de Janeiro/2026
 2. Marcus consultor fará o acompanhamento
-3. BPO Financeiro - Inter a partir de Março/2026
+3. BPO Financeiro interno -  a partir de Março/2026
+4. Recrutamento - Pessoal
+
 
 
 
@@ -27,8 +29,8 @@ Janeiro/2026 ==Nada a Pagar==
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
 
-Janeiro/2026 -  
-Fevereiro/2026 - 
+Janeiro/2026 -  Marcus
+Fevereiro/2026 -  Marcus
 
 ##### **MOVIMENTO FISCAL:**
 ____
@@ -68,6 +70,11 @@ ____
 **Assuntos Tratados:** 
 1) Mudança para o Lucro Real mensal;
 2) BPO Financeiro interno a partir de Março/2026;
+
+Ações
+
+Criar a planilha de PIS e COFINS de Janeiro/2026 - calcular
+
 
 _____
 
