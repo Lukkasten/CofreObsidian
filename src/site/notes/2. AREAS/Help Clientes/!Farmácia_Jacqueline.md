@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-03T17:42:10.759-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-03T18:21:27.944-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -54,14 +54,21 @@ ___
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
 
+Reunião Cliente | Farmácia Jacqueline
+Participantes: Julio (Financeiro), Brayann.
+Horário: 10:00 
+Modalidade Online
+Nota da reunião: Aguardando... ⏳
 
+**📌 Objetivo:**
 
-**Dia 03/03/2026 - Reunião Cliente**
-**Participante:** Júlio, Brayann, Amanda
+1. Orientar sobre a documentação que deve ser enviada para o setor contábil ( apresentar o formato de cobrança do onvio)
+2. Orientar que o cliente entre em contato com o sistema para falar da mudança de regime tributário ( Lucro Real Trimestral)
 
-1) Solicitar que entre em contato com sistema para falar a respeito da mudança de regime tributário. Lucro Real a partir de Janeiro/2026
-2) Orientar sobre a documentação mensal
-3) 
+**⚠️ Importante:**
+
+Não esquecer de gravar a reunião com o Gemini e depois da reunião  passa o link da mesma, para que possa deixar salvo no nosso site.
+
 
 ---
 
