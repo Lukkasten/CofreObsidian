@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-03-02T17:56:48.580-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-03-03T17:56:53.744-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -57,7 +57,7 @@ ___
 ___
 
 
-
+Reunião de migração - Representante do contábil ( Gabriella)
 
 
 ______
