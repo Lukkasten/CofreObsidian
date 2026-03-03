@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T13:32:13.558-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T13:39:56.101-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -75,6 +75,8 @@ ____
 
 Criar a planilha de PIS e COFINS de Janeiro/2026 - calcular
 Solicitar ao Marcus as informações financeiras de Janeiro e Fevereiro/2026
+Enviar mensagem para o fiscal informado sobre a decisão de ficar no lucro real ✅ Lucas
+Manda email da mudança tributária. ✅ Lucas
 
 **📌 Repassado para:** Brayann, Amanda, presente também a Gabriella sala de reunião no dia 03/03/2026
 
