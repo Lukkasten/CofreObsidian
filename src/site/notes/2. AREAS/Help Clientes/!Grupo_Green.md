@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T13:39:56.101-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T17:27:49.083-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -66,6 +66,7 @@ ____
 **Data: 02/03/2026** 
 **Local:** Control
 **Participantes:** Hudson, Igor, Marcus ( Consultor), Lucas, Camilla ( Sócia), Edvan (Sócio),  Lícia ( Apresentou o BPO)
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião - Grupo Green(Camila_Igor)_Marcos Menezes - 2026_03_02 16_08 GMT-03_00 - Anotações do Gemini\|Reunião - Grupo Green(Camila_Igor)_Marcos Menezes - 2026_03_02 16_08 GMT-03_00 - Anotações do Gemini]]
 
 **Assuntos Tratados:** 
 1) Mudança para o Lucro Real mensal;
