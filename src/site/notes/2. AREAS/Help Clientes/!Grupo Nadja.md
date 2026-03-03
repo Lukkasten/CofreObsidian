@@ -9,8 +9,8 @@
 **Notas:**
 
 
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/202507031751_Reunião_Nadja\|202507031751_Reunião_Nadja]]
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/202506260900_Reunião_Grupo_Nadja\|202506260900_Reunião_Grupo_Nadja]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2025/202507031751_Reunião_Nadja\|202507031751_Reunião_Nadja]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2025/202506260900_Reunião_Grupo_Nadja\|202506260900_Reunião_Grupo_Nadja]]
 
 
 **Conexões:**

@@ -71,7 +71,7 @@ ___
 
 **Reunião** 03/03/2026
 **Participantes:** Hudson, Ecaterine, Lucas, Emanuel (Online)
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/Reunião - Lunar - 2026_03_03 14_15 GMT-03_00 - Anotações do Gemini\|Reunião - Lunar - 2026_03_03 14_15 GMT-03_00 - Anotações do Gemini]] 
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião - Lunar - 2026_03_03 14_15 GMT-03_00 - Anotações do Gemini\|Reunião - Lunar - 2026_03_03 14_15 GMT-03_00 - Anotações do Gemini]] 
 
 **Assunto:**
 - Planejamento estratégico
