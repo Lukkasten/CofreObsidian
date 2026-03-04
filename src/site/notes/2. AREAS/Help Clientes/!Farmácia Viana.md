@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-27T18:15:47.894-03:00","updated":"2026-01-27T18:20:06.447-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-27T18:15:47.894-03:00","updated":"2026-01-27T18:19:59.687-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

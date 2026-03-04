@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-a-and-b/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T16:29:47.146-03:00","updated":"2025-11-25T14:34:18.747-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-a-and-b/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T16:29:47.146-03:00","updated":"2025-11-25T14:34:11.001-03:00"}
 ---
 
 _____

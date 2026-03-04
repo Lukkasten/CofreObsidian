@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-adriano/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-15T18:33:33.850-03:00","updated":"2026-01-28T16:48:57.917-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-adriano/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-15T18:33:33.850-03:00","updated":"2026-01-28T16:48:48.914-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

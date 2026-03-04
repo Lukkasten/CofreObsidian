@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/m-p-m-comercio-varejista-de-glp-287/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:17:01.462-03:00","updated":"2025-12-16T17:27:00.126-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/m-p-m-comercio-varejista-de-glp-287/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:17:01.462-03:00","updated":"2025-12-11T17:20:15.418-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/alberto-comercio-de-medicamentos-e-correlatos-ltda-164/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T13:13:40.699-03:00","updated":"2026-02-25T13:15:14.860-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/alberto-comercio-de-medicamentos-e-correlatos-ltda-164/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T13:13:40.699-03:00","updated":"2026-02-25T13:15:05.362-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

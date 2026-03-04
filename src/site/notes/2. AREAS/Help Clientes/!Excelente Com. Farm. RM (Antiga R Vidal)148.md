@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/excelente-com-farm-rm-antiga-r-vidal-148/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T14:29:07.141-03:00","updated":"2026-01-08T18:26:49.665-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/excelente-com-farm-rm-antiga-r-vidal-148/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T14:29:07.141-03:00","updated":"2026-01-08T18:26:42.719-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

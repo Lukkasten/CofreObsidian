@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/reuniao-grupo-green-camila-igor-marcos-menezes-2026-03-02-16-08-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-03T17:27:12.118-03:00","updated":"2026-03-03T17:28:06.890-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/reuniao-grupo-green-camila-igor-marcos-menezes-2026-03-02-16-08-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-03T17:27:12.118-03:00","updated":"2026-03-03T17:27:59.654-03:00"}
 ---
 
 2 de mar. de 2026
