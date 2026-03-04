@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-03-03T17:56:53.744-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/complexo-de-saude-morais-and-carvalho-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-26T12:16:13.887-03:00","updated":"2026-03-03T21:06:07.329-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -9,6 +9,7 @@ ___
 2) Planilha de alinhamento da [reunião de migração](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQfCDPXjRWjKXcgGZbSMDqjCgjt?projector=1&messagePartId=0.1)
 3) Acompanhamento a cada 6 meses;
 
+***Para mais informações consultar a Gabriella.
 
 
 

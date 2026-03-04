@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-18T11:11:05.494-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-18T11:11:13.457-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

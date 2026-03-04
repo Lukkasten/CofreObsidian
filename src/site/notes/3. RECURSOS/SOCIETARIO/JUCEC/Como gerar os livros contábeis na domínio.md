@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/societario/jucec/como-gerar-os-livros-contabeis-na-dominio/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-17T12:52:05.550-03:00","updated":"2025-07-17T12:57:04.345-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/societario/jucec/como-gerar-os-livros-contabeis-na-dominio/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-17T12:52:05.550-03:00","updated":"2025-07-17T12:57:08.888-03:00"}
 ---
 
 **Resumo:**

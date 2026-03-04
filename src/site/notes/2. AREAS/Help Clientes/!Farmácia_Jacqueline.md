@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-03T18:23:32.224-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-03T18:23:46.327-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -62,7 +62,7 @@ Nota da reunião Gemini: Aguardando... ⏳
 
 **📌 Objetivo:**
 
-1. Orientar sobre a documentação que deve ser enviada para o setor contábil ( apresentar o formato de cobrança do onvio)
+1. Orientar sobre a documentação que deve ser enviada para o setor contábil ( apresentar o formato de cobrança do Onvio)
 2. Orientar que o cliente entre em contato com o sistema para falar da mudança de regime tributário ( Lucro Real Trimestral)
 
 **⚠️ Importante:**

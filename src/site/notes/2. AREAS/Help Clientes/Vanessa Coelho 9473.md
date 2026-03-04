@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/vanessa-coelho-9473/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-08T10:02:11.822-03:00","updated":"2026-01-08T10:03:46.151-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/vanessa-coelho-9473/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-08T10:02:11.822-03:00","updated":"2026-01-08T10:04:26.730-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

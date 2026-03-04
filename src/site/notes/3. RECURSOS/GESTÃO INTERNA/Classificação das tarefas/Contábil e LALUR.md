@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-16T11:25:58.799-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/classificacao-das-tarefas/contabil-e-lalur/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-05T22:42:13.720-03:00","updated":"2025-06-16T11:26:09.132-03:00"}
 ---
 
 

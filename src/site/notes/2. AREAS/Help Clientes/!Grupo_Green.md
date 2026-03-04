@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T17:27:49.083-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-green/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-03T17:27:55.664-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

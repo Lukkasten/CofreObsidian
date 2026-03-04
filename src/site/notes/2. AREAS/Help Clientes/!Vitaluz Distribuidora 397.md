@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-01-15T13:44:05.575-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-01-15T13:44:11.422-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

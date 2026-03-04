@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-nobre-cristal-comercio-gas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-12T10:52:40.192-03:00","updated":"2025-12-15T17:43:19.078-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-nobre-cristal-comercio-gas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-12T10:52:40.192-03:00","updated":"2025-12-15T17:43:26.656-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"cssClasses":null,"dg-publish":true,"permalink":"/4-arquivos/papel-do-analista/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-03T13:42:12.000-03:00","updated":"2026-02-02T09:43:03.636-03:00"}
+{"cssClasses":null,"dg-publish":true,"permalink":"/4-arquivos/papel-do-analista/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-03T13:42:12.000-03:00","updated":"2026-02-02T09:43:11.019-03:00"}
 ---
 
 PATRICK

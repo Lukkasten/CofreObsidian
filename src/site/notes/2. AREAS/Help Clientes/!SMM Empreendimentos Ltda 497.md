@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/smm-empreendimentos-ltda-497/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:13:35.804-03:00","updated":"2026-02-27T09:12:54.162-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/smm-empreendimentos-ltda-497/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:13:35.804-03:00","updated":"2026-02-27T09:13:00.900-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

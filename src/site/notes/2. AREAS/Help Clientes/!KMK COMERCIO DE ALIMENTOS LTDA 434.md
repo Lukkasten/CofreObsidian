@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/kmk-comercio-de-alimentos-ltda-434/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-15T18:31:47.761-03:00","updated":"2026-02-23T14:35:16.533-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/kmk-comercio-de-alimentos-ltda-434/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-15T18:31:47.761-03:00","updated":"2026-02-23T14:35:22.479-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

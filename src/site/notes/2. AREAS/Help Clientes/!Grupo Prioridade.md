@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-03-02T10:59:21.709-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-03-02T10:59:31.549-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-extralimp/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:10:29.469-03:00","updated":"2026-02-27T09:12:36.075-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-extralimp/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:10:29.469-03:00","updated":"2026-02-27T09:12:43.928-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

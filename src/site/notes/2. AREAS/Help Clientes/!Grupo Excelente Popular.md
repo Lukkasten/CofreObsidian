@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-07T09:10:44.993-03:00","updated":"2025-12-19T13:09:40.650-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-07T09:10:44.993-03:00","updated":"2025-12-19T13:09:48.811-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

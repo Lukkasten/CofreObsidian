@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/dominio-suporte/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-12T09:10:05.162-03:00","updated":"2025-10-21T17:26:19.247-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/dominio-suporte/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-12T09:10:05.162-03:00","updated":"2025-10-21T17:26:25.554-03:00"}
 ---
 
 
