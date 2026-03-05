@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-02-18T11:11:05.494-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-05T10:19:34.494-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -12,7 +12,13 @@ Matriz + Filial
 ##### **GUIA DARF PIS, COFINS:**
 ____
 
+
+05/03/2026 -  A venda de frutas no mercado interno brasileiro, via de regra, tem alíquota zero de PIS e COFINS para empresas no Lucro Real ou Presumido, conforme a Lei nº 10.865/2004.
+
 10/02/2026 - Não tem PIS e COFINS, 100% monofásica e alíquota zero*(Por Lucas Rebouças)*
+
+
+
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____

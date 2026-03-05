@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/gutiere-farias/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-10T19:59:14.637-03:00","updated":"2026-03-04T16:37:28.735-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/gutiere-farias/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-10T19:59:14.637-03:00","updated":"2026-03-04T17:31:03.579-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -61,6 +61,10 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+
+![Pasted image 20260304173103.png](/img/user/Pasted%20image%2020260304173103.png)
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
