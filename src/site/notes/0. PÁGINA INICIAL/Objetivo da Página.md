@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-03-05T10:42:56.589-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-03-05T10:48:15.703-03:00"}
 ---
-
-Últimas notícias...
-
-10/03/2026 Reforma Tributária  -  [[3. RECURSOS/FISCAL/Reforma Tributária/Omissão de receitas relativa ao IBS e a CBS\|Omissão de receitas relativa ao IBS e a CBS]]
 
 
 # **Bem-vindos, membros da equipe contábil!**
