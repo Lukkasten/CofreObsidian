@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-04T09:46:23.152-03:00"}
+{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-06T16:14:39.781-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -56,6 +56,7 @@ ___
 
 Reunião Cliente | Farmácia Jacqueline
 Participantes: Julio (Financeiro), Brayann.
+Data: 04/03/2026
 Horário: 10:00 
 Modalidade Online
 Nota da reunião [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Cliente _ Farmácia Jacqueline - 2026_03_04 09_29 GMT-03_00 - Anotações do Gemini\|Reunião Cliente _ Farmácia Jacqueline - 2026_03_04 09_29 GMT-03_00 - Anotações do Gemini]]

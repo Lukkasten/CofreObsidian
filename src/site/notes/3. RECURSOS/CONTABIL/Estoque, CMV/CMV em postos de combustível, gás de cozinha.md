@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-em-postos-de-combustivel-gas-de-cozinha/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-05T22:15:58.940-03:00","updated":"2025-06-05T22:28:52.746-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/contabil/estoque-cmv/cmv-em-postos-de-combustivel-gas-de-cozinha/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-05T22:15:58.940-03:00","updated":"2025-06-05T22:28:48.446-03:00"}
 ---
 
 

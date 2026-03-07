@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2025-10-15T21:20:20.816-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-06T11:43:53.373-03:00"}
 ---
+
+Reunião 
+
+- [ ] Planilha de PIS e COFINS
+- [ ] Validador ECF - Ano 2025/2026
+
+
+
+
 
 🟢 15/10/2025 Gerar o DAE para autenticação do Balanço Ano 2024
 🟢 15/10/2025 Enviar junto com o DAE o Balanço Patrimonial, e DRE Atualizado Ano 2024

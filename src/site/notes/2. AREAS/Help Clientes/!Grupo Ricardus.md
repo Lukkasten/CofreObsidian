@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-ricardus/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-21T10:46:45.211-03:00","updated":"2026-01-21T10:49:07.434-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-ricardus/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-21T10:46:45.211-03:00","updated":"2026-01-21T10:49:15.570-03:00"}
 ---
 
 CONEXÕES:

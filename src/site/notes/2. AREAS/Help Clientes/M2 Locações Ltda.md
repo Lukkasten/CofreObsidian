@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/m2-locacoes-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-16T16:29:03.000-03:00","updated":"2025-12-16T17:06:24.372-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/m2-locacoes-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-16T16:29:03.000-03:00","updated":"2025-12-16T17:06:35.805-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

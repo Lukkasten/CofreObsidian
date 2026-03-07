@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/gutiere-farias/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-10T19:59:14.637-03:00","updated":"2026-03-04T17:31:03.579-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/gutiere-farias/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-10T19:59:14.637-03:00","updated":"2026-03-04T17:31:11.369-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

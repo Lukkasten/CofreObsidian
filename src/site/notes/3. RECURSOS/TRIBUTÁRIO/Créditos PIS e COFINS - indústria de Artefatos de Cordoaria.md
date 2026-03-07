@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/tributario/creditos-pis-e-cofins-industria-de-artefatos-de-cordoaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-03T09:06:32.751-03:00","updated":"2026-03-03T10:25:01.129-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/tributario/creditos-pis-e-cofins-industria-de-artefatos-de-cordoaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-03T09:06:32.751-03:00","updated":"2026-03-05T23:19:10.443-03:00"}
 ---
 
 ✅ CHECKLIST – APROVEITAMENTO DE CRÉDITOS PIS/COFINS
@@ -8,6 +8,8 @@
 #pis #cofins 
 #planejamentotributario
 #industria #re
+
+Exemplo de Cliente: [[2. AREAS/Help Clientes/!Rede Conceitos cód. 194\|!Rede Conceitos cód. 194]] [[2. AREAS/Help Clientes/!Grupo Rede Alexandre\|!Grupo Rede Alexandre]] 
 
 
 **Indústria de Artefatos de Cordoaria**
