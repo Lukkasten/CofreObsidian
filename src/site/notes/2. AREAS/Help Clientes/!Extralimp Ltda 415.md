@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/extralimp-ltda-415/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:11:57.146-03:00","updated":"2026-02-25T14:45:44.229-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/extralimp-ltda-415/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:11:57.146-03:00","updated":"2026-02-25T14:45:38.367-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

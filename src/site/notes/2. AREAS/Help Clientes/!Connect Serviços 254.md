@@ -1,14 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-06T11:43:53.373-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-09T12:05:48.596-03:00"}
 ---
 
-Reunião 
+___
+
+__
+**Reunião  dia 09/03/2026**
+**Participantes:** Joedson, Gleidson, 
+**Local:** Control Contabilidade
+__
 
 - [ ] Planilha de PIS e COFINS
 - [ ] Validador ECF - Ano 2025/2026
 
+**OBSERVAÇÃO:** 
+
+"Gostaríamos de conversar sobre algumas dificuldades que estamos tendo em relação a algumas solicitações, bem como gostaríamos de entender o fechamento do ano das 3 empresas."
 
 
+
+____
 
 
 🟢 15/10/2025 Gerar o DAE para autenticação do Balanço Ano 2024

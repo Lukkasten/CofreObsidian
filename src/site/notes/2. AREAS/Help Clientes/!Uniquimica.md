@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/uniquimica/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T09:49:45.025-03:00","updated":"2026-02-26T15:14:38.702-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/uniquimica/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T09:49:45.025-03:00","updated":"2026-02-26T15:14:31.820-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

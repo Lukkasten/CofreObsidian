@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/omissao-de-receitas-relativa-ao-ibs-e-a-cbs/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-05T10:35:20.427-03:00","updated":"2026-03-05T10:36:30.718-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/omissao-de-receitas-relativa-ao-ibs-e-a-cbs/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-05T10:35:20.427-03:00","updated":"2026-03-05T10:36:22.319-03:00"}
 ---
 
 ##### **Omissão de receitas relativa ao IBS e a CBS: Por que o levantamento financeiro/contábil não substitui o necessário levantamento fiscal**

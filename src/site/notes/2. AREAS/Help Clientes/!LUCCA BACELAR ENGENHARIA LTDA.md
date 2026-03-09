@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/lucca-bacelar-engenharia-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-28T17:43:12.062-03:00","updated":"2026-01-28T17:43:55.414-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/lucca-bacelar-engenharia-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-28T17:43:12.062-03:00","updated":"2026-01-28T17:43:48.514-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

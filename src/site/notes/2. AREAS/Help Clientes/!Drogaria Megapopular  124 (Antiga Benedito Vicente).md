@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/drogaria-megapopular-124-antiga-benedito-vicente/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-29T15:43:42.898-03:00","updated":"2025-12-30T13:50:23.280-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/drogaria-megapopular-124-antiga-benedito-vicente/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-29T15:43:42.898-03:00","updated":"2025-12-30T13:50:16.621-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

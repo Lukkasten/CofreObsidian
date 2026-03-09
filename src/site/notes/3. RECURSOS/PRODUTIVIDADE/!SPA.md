@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/produtividade/spa/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-03T17:28:24.007-03:00","updated":"2025-09-04T13:15:29.965-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/produtividade/spa/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-03T17:28:24.007-03:00","updated":"2025-09-04T13:15:18.875-03:00"}
 ---
 
 

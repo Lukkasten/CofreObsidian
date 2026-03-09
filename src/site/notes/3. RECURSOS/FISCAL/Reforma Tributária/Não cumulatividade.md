@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nao-cumulatividade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T16:35:43.918-03:00","updated":"2025-08-26T15:05:52.238-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/nao-cumulatividade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T16:35:43.918-03:00","updated":"2025-08-26T15:05:43.756-03:00"}
 ---
 
 **Resumo:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/reuniao-cliente-farmacia-jacqueline-2026-03-04-09-29-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-04T09:45:27.652-03:00","updated":"2026-03-04T09:46:43.749-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/reuniao-cliente-farmacia-jacqueline-2026-03-04-09-29-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-04T09:45:27.652-03:00","updated":"2026-03-04T09:46:36.915-03:00"}
 ---
 
 4 de mar. de 2026

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/valdir-joao-alexandre-ltda-355/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:30:48.790-03:00","updated":"2026-02-26T12:10:56.175-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/valdir-joao-alexandre-ltda-355/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:30:48.790-03:00","updated":"2026-02-25T14:31:57.406-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

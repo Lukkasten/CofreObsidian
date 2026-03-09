@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-d-moura/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T11:13:42.220-03:00","updated":"2025-12-22T14:44:17.821-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-d-moura/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T11:13:42.220-03:00","updated":"2025-12-22T14:44:11.511-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

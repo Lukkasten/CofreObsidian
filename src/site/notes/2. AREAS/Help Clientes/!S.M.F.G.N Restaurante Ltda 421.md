@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/s-m-f-g-n-restaurante-ltda-421/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:12:48.964-03:00","updated":"2026-01-14T13:08:50.089-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/s-m-f-g-n-restaurante-ltda-421/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:12:48.964-03:00","updated":"2026-01-14T13:08:40.834-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

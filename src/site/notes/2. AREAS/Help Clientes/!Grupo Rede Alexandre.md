@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-02-26T12:11:05.481-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-02-26T12:10:56.261-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/iva-dual/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:56.548-03:00","updated":"2025-08-29T08:39:07.724-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/iva-dual/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:56.548-03:00","updated":"2025-08-29T08:14:30.392-03:00"}
 ---
 
 # ☕ IVA Dual na Reforma Tributária  

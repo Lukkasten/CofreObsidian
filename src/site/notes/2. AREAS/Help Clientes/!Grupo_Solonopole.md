@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-03-05T19:09:08.342-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-03-05T19:09:01.893-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
