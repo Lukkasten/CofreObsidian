@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-09T16:01:21.143-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-09T16:02:48.171-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -13,7 +13,7 @@ Matriz + Filial
 ____
 
 Consulta no Tax Prático sobre o a empresa não ter a incidência de PIS e COFINS nas suas operações:
-**Consulta Tax Prático - [[3. RECURSOS/TRIBUTÁRIO/LUCRO REAL - VENDA DE FRUTAS FRESCAS  UVA, MORANGO E KIWI\|LUCRO REAL - VENDA DE FRUTAS FRESCAS  UVA, MORANGO E KIWI]]** 
+**Consulta Tax Prático - [[3. RECURSOS/TRIBUTÁRIO/CONSULTA TAX PRATICO - LUCRO REAL - PIS E COFINS - VENDA DE FRUTAS FRESCAS  UVA, MORANGO E KIWI\|CONSULTA TAX PRATICO - LUCRO REAL - PIS E COFINS - VENDA DE FRUTAS FRESCAS  UVA, MORANGO E KIWI]]** 
 
 
 05/03/2026 -  A venda de frutas no mercado interno brasileiro, via de regra, tem alíquota zero de PIS e COFINS para empresas no Lucro Real ou Presumido, conforme a Lei nº 10.865/2004.
