@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/wm-construcoes/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-02T09:51:53.631-03:00","updated":"2026-03-10T11:25:00.472-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/wm-construcoes/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-02T09:51:53.631-03:00","updated":"2026-03-10T11:26:25.298-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -62,6 +62,8 @@ Participantes: Lucas, Marcio, Brayann
 2 Deixamos no estoque R$ 3.359.602,72, o Marcio vai faturar mais no ano 2025 e iremos baixa o lucro do ano 2025 com esse estoque.
 
 ⬛ Enviar o balanço para eles autorizarem a autenticação. - Brayann enviou o email no dia 10/03/2026, aguardando a Samantha responder.
+
+
 
 
 _____

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T13:22:16.392-03:00","updated":"2026-02-23T15:59:54.691-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/relatorio-de-metas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-16T13:22:16.392-03:00","updated":"2026-03-10T12:12:37.451-03:00"}
 ---
 
 **Resumo:**
@@ -28,3 +28,4 @@ O [relatório de metas](https://app.powerbi.com/view?r=eyJrIjoiM2U4MGQzOWEtOGQ4N
 
 
 
+Lucro real mensal ok
