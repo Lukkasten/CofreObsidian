@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/prompt-humanizador/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-18T09:25:57.816-03:00","updated":"2025-06-18T07:35:18.336-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/prompt-humanizador/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-18T09:25:57.816-03:00","updated":"2026-03-11T08:17:09.041-03:00"}
 ---
 
 
@@ -11,3 +11,6 @@
 
 
 **Conexões:**
+
+[[Prompt - montar apresentação\|Prompt - montar apresentação]]
+[[3. RECURSOS/IA - INTELIGENCIA ARTIFICIAL/Prompts/Prompt Provocador — Escrita com Valor de R$10.000\|Prompt Provocador — Escrita com Valor de R$10.000]]
