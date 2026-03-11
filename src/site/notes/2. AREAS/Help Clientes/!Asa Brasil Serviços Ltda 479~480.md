@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-13T15:09:17.397-03:00","updated":"2026-03-11T14:00:59.380-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-13T15:09:17.397-03:00","updated":"2026-03-11T15:40:53.840-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -52,21 +52,21 @@ ___
 
 _____
 🟦 REUNIÃO | ASA BRASIL
-**Participantes:** Ecaterine, Gabriella, Lucas, Suelly, consultores (Valestrá)
+**Participantes:** Ecaterine, Gabriella, Lucas, Suelly, consultores (Valestrá) recuperação de crédito de pis e cofins.
 **Local:** Control Contabilidade
 Data: 11/03/2026
 Horário: 10:00
 
 🟦 **AÇÕES:**
 
-1. Nota fiscal de compra de imobilizado alocado do fiscal como serviço, deve ser alocado para o imobilizado NF 
+1. Nota fiscal de compra de imobilizado alocado do fiscal como serviço, deve ser alocado para o imobilizado NF 471217
 2. Empresa permanecerá no Lucro Real;
-3. Empresa pagará o PIS e COFINS normal (1,65% e 7,6%) respectivamente.
+3. Empresa pagará o PIS e COFINS normal (1,65% e 7,6%) respectivamente. 
 4. 
 
 🟦**OBSERVAÇÕES:**
 
-
+Foi repassado
 
 
 
