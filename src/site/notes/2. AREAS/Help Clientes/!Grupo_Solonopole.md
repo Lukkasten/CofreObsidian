@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-03-05T19:09:01.893-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-solonopole/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-18T09:52:07.459-03:00","updated":"2026-03-12T13:20:23.007-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -10,6 +10,9 @@ Empresa do Grupo
 [[2. AREAS/Help Clientes/Com. Med. Silva 9730\|Com. Med. Silva 9730]]
 [[2. AREAS/Help Clientes/!Nunes Comercio de Medicamentos Ltda 271\|!Nunes Comercio de Medicamentos Ltda 271]]
 
+
+IRPJ % 1,88
+CSLL % 1,06
 
 
 ##### **GUIA DARF PIS, COFINS:**

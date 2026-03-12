@@ -1,25 +1,102 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-09T12:05:48.596-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-12T17:11:36.538-03:00"}
 ---
 
+##### **ASPECTOS GERAIS:**
 ___
 
-__
-**Reunião  dia 09/03/2026**
-**Participantes:** Joedson, Gleidson, 
+
+##### **GUIA DARF PIS, COFINS:**
+____
+
+Preencher a planilha 
+
+##### **GUIA DARF IRPJ E CSLL:**
+____
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+##### **DOMINIO LALUR:**
+___
+
+##### **DOMINIO PATRIMONIO:**
+___
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+##### **HISTÓRICO DE REUNIÕES:**
+___
+
+
+##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
+___
+
+
+
+
+_____
+**Reunião  dia 12/03/2026**
+**Participantes:** Joedson, Gleidson, Hudson, Lucas, Raul
+**Horário:** 14:00
 **Local:** Control Contabilidade
-__
 
-- [ ] Planilha de PIS e COFINS
-- [ ] Validador ECF - Ano 2025/2026
+⬛ AÇÕES
+- [x] Planilha de PIS e COFINS ✅ 2026-03-12
+- [x] Validador ECF - Ano 2025/2026 ✅ 2026-03-12
 
-**OBSERVAÇÃO:** 
+⬛ **OBSERVAÇÃO:** 
 
 "Gostaríamos de conversar sobre algumas dificuldades que estamos tendo em relação a algumas solicitações, bem como gostaríamos de entender o fechamento do ano das 3 empresas."
+
+Prazo médio de pagamento 30 dias
+Prazo médio de recebimentos 60 dias
+
+📌**DADO CIÊNCIA:**
+
+Repassado para o Brayann no dia 12/03/2026  na de reunião. (preenchimento da planilha de pis e cofins, bem como o valor que deve ser considerado de percentual para as abas de pis e cofins sped contribuições)
 
 
 
 ____
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 🟢 15/10/2025 Gerar o DAE para autenticação do Balanço Ano 2024

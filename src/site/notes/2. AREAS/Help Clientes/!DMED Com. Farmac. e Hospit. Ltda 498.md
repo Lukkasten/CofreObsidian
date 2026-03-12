@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-02-26T15:19:03.017-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-03-12T14:18:33.118-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -40,7 +40,10 @@ ___
 ##### **MOVIMENTO FISCAL:**
 ____
 
-
+(14:12) Roberta Martins - 7586: Lucas, compras DMED:
+(14:12) Roberta Martins - 7586: Compras:
+Janeiro: R$ 125.269,37
+Fevereiro: R$ 151.451,49
 
 
 ##### **MOVIMENTO FOLHA:**
