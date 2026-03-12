@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-03-12T10:48:06.245-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-03-12T10:54:23.525-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -25,7 +25,7 @@ ___
 
 
 1. Integrado no mister contador, somente um extrato, no caso, Itaú.
-2. As informações para a REINF será retirado diretamente do mister contador.
+2. As informações para a [REINF](https://www.google.com/search?q=reinf&rlz=1C1GCEU_pt-BRBR1070BR1070&oq=REINF&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyDQgDEAAYgwEYsQMYgAQyBwgEEAAYgAQyDQgFEAAYgwEYsQMYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNjY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) será retirado diretamente do mister contador.
    Observação: ponto 1 e 2 acima, foram alinhados com o [[2. AREAS/Help Interno/!Emanuel Victor\|!Emanuel Victor]] e [[2. AREAS/Help Interno/!Patrick - Analista Contábil\|!Patrick - Analista Contábil]] no dia 12/03/2026.
 ![Pasted image 20260312104743.png|800](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260312104743.png)
 
