@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-01-15T13:44:05.575-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/vitaluz-distribuidora-397/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T18:10:18.941-03:00","updated":"2026-03-12T10:45:58.922-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
 1) Gentileza esses assuntos financeiro vamos tratar só comigo através desse e-mail ( lcostalopes@gmail.com) ok?  Por favor repassar para os demais setores. Assinado: Luciano Sócio 
+
 
 
 
@@ -21,6 +22,11 @@ ____
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
+1. Integrado no mister contador, somente um extrato, no caso, Itaú.
+2. As informações para a REINF será retirado diretamente do mister contador.
+   Observação: ponto 1 e 2 acima, foram alinhados com o [[2. AREAS/Help Interno/!Emanuel Victor\|!Emanuel Victor]] e [[2. AREAS/Help Interno/!Patrick - Analista Contábil\|!Patrick - Analista Contábil]] no dia 12/03/2026.
+
 
 
 ##### **MOVIMENTO FISCAL:**

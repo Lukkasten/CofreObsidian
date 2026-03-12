@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-13T15:09:17.397-03:00","updated":"2026-03-11T15:40:53.840-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/asa-brasil-servicos-ltda-479-480/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-13T15:09:17.397-03:00","updated":"2026-03-11T17:13:21.748-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -66,7 +66,7 @@ Horário: 10:00
 
 🟦**OBSERVAÇÕES:**
 
-Foi repassado
+Foi repassado as ações acima para o Brayann, Gabriella e Raul, no dia 11/03/2026 na sala de reunião.
 
 
 
