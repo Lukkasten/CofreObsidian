@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-03-12T14:18:33.118-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-03-13T14:49:24.197-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -130,3 +130,5 @@ LINK DA PLANILHA PARA PREENCHIMENTO EM REUNIÃO:
 https://docs.google.com/spreadsheets/d/1SueQqElqHNXdAnJnIKEe2l3VaVY3LvMQDQ1JwEvnL2k/edit?usp=sharing
 
 Qualquer dúvida, estou à disposição.
+
+
