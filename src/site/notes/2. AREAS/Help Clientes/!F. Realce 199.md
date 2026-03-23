@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-02-23T09:48:07.607-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-03-23T12:37:06.648-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -16,6 +16,10 @@ ____
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
+
+Cliente vai mandas as despesas em uma planilha.
+Deixar o lucro tributável em conformidade com a DRE da [Planilha de Simulação tributária](https://docs.google.com/spreadsheets/d/1besuwyvCTRS2PgNSXB_eUyXT01hyz4Ga/edit?usp=sharing&ouid=103814794779206087470&rtpof=true&sd=true) 
+
 
 
 ##### **CONTÁBIL/FINANCEIRO:**
