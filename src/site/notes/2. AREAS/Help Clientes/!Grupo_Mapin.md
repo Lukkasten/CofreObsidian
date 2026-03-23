@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-23T17:38:49.359-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-23T17:40:32.739-03:00"}
 ---
 
 ___
+
 **SAÍDA DE CLIENTE**
+
+![Pasted image 20260323173917.png|200](/img/user/Pasted%20image%2020260323173917.png)
 
 **Segunda-feira, 23 Março 2026**
 (16:54) Mayara Víctor - 7553 - Envio de mensagem em massa: Prezados, boa tarde!
