@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-23T17:40:32.739-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-23T17:43:37.919-03:00"}
 ---
 
 ___
@@ -13,10 +13,10 @@ ___
 
 Informo que as empresas abaixo, pertencentes ao Grupo MAPIN, estão em processo de migração (saída) da Control, e ficamos responsáveis de finalizar/encerrar a competência de Março/26.
 
--POPVIDA LTDA 61.804.909/0001-97 
--FARMACIA GIGA POPULAR MATRIZ 50.389.473/0001-09
--FARMACIA GIGA POPULAR FILIAL 50.389.473/0002-81
--AGIL ENTREGAS LTDA 59.220.774/0001-70
+**-POPVIDA LTDA 61.804.909/0001-97** 
+**-FARMACIA GIGA POPULAR MATRIZ 50.389.473/0001-09**
+**-FARMACIA GIGA POPULAR FILIAL 50.389.473/0002-81**
+**-AGIL ENTREGAS LTDA 59.220.774/0001-70**
 
 A empresa MAPIN GESTAO E PARTICIPACOES - CNPJ 61.659.045/0001-67, irá permanecer conosco. 
 
