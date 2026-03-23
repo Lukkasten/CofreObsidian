@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/valdir-joao-alexandre-ltda-355/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:30:48.790-03:00","updated":"2026-02-25T14:31:57.406-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/valdir-joao-alexandre-ltda-355/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:30:48.790-03:00","updated":"2026-03-23T15:54:14.261-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -7,6 +7,9 @@ ___
 
 [[2. AREAS/Help Clientes/!Grupo Rede Alexandre\|!Grupo Rede Alexandre]]
 [Planilha de Migração](https://docs.google.com/spreadsheets/d/1yn30pwnfBnYDscf1uEmg0Oe3KNmsG6xaLfgOz3M5bqs/edit?gid=1978312704#gid=1978312704)
+
+
+Valdir 355 - Real?
 
 
 ##### **GUIA DARF PIS, COFINS:**
