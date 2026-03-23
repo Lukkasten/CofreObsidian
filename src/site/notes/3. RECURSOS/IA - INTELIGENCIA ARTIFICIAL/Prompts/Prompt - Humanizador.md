@@ -12,5 +12,5 @@
 
 **Conexões:**
 
-[[Prompt - montar apresentação\|Prompt - montar apresentação]]
+[[3. RECURSOS/IA - INTELIGENCIA ARTIFICIAL/Prompts/Prompt - montar apresentação\|Prompt - montar apresentação]]
 [[3. RECURSOS/IA - INTELIGENCIA ARTIFICIAL/Prompts/Prompt Provocador — Escrita com Valor de R$10.000\|Prompt Provocador — Escrita com Valor de R$10.000]]

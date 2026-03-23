@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-03-13T14:49:24.197-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dmed-com-farmac-e-hospit-ltda-498/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T10:08:32.689-03:00","updated":"2026-03-23T10:37:01.306-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -83,6 +83,10 @@ ____
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+13/03/2026 - REUNIÃO ONLINE
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Cliente Online _ Dmed - 2026_03_13 16_02 GMT-03_00 - Anotações do Gemini\|Reunião Cliente Online _ Dmed - 2026_03_13 16_02 GMT-03_00 - Anotações do Gemini]]
+
 
 
 **25/02/2026**
