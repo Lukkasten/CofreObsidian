@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/pamplona-e-pinho-farmacia-ltda-282/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:58:03.749-03:00","updated":"2026-02-27T14:14:53.475-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/pamplona-e-pinho-farmacia-ltda-282/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-17T17:58:03.749-03:00","updated":"2026-03-23T15:48:12.905-03:00"}
 ---
 
 
@@ -18,6 +18,12 @@ ____
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
+
+Segunda-feira, 23 Março 2026
+ 
+(15:40) Victor Emanuel - 7583: https://docs.google.com/spreadsheets/d/1Clu1vKh1HweQze7YuplbhjRmMhETitwp/edit?usp=sharing&ouid=105634022763736491194&rtpof=true&sd=true
+(15:40) Victor Emanuel - 7583: Lucas esse link é da planilha de despesas que o Igor da pamplona alimenta
+(15:40) Victor Emanuel - 7583: o senhor pode colocar no help, por favor
 
 
 
