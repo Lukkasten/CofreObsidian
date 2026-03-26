@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-23T17:46:22.100-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-26T14:46:57.499-03:00"}
 ---
 
 ___
 
 **SAÍDA DE CLIENTE**
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgKvJFTbFLqhkQkpHZzzDSDTFB
+Prazo de entrega até o dia 03/04/2026
 
 ![Pasted image 20260323173917.png|200](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260323173917.png)
 
