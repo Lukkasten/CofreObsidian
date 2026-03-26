@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-03-26T15:22:53.990-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-03-26T15:24:44.966-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -59,18 +59,17 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
-
 # **Reunião** 
 Data: 20/02/2026
-Anotações do Gemini: [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini\|Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini]]
-1. mudança para o Lucro Real a partir de Janeiro/2026.
+Modalidade: Online
+Participantes: Lucas, Ambrósio
+Anotações do Gemini:
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini\|Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini]]
 
-📌 Ações:
+**📌 Ações:**
 
-Repassado para o Gabriel e Roberta.
-
-
-
+1. Principal assunto: Mudança para o Lucro Real
+2. Repassado para o Gabriel e Roberta.
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
