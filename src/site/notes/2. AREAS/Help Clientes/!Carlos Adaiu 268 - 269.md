@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-27T16:15:22.517-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-27T16:15:46.935-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -56,7 +56,7 @@ ____
 
 _______
 **REUNIÃO**
-Data: 27/03/2026
+**Data:** 27/03/2026
 Modalidade: Presencial
 Participantes: Jamyle, Izaura, Hudson, Lucas, Raul
 
@@ -66,6 +66,7 @@ Participantes: Jamyle, Izaura, Hudson, Lucas, Raul
 3) As compras serão o CMV da empresa; a empresa não possui quase nenhum estoque;
 4) Despesas da Pessoa sairá da conta da pessoa física e vai para a pessoa jurídica;
 5) Relembrar sobre a cobrança de documentos para despesas;
+
 
 
 **📌PÓS-REUNIÃO:**
