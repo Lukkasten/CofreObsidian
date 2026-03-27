@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-10T13:02:43.531-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-27T16:15:22.517-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -53,6 +53,29 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ____
+
+_______
+**REUNIÃO**
+Data: 27/03/2026
+Modalidade: Presencial
+Participantes: Jamyle, Izaura, Hudson, Lucas, Raul
+
+###### **ASSUNTOS ABORDADOS:**
+1) Aumentar as vendas do morango/kiwi;
+2) Deixar o faturamento em média de R$ 600mil a 620mil;
+3) As compras serão o CMV da empresa; a empresa não possui quase nenhum estoque;
+4) Despesas da Pessoa sairá da conta da pessoa física e vai para a pessoa jurídica;
+5) Relembrar sobre a cobrança de documentos para despesas;
+
+
+**📌PÓS-REUNIÃO:**
+
+Repassar para a equipe sobre a reunião
+
+
+_____
+
+
 
 
 

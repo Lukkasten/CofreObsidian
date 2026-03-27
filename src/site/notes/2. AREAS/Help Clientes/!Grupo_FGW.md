@@ -6,7 +6,7 @@
 ___
 
 [[2. AREAS/Help Clientes/!FGW Construtora Ltda 503\|!FGW Construtora Ltda 503]] - Lucro Presumido
-[[!Dablio Assessoria Imobiliária\|!Dablio Assessoria Imobiliária]] - Simples Nacional - sem movimento
+[[2. AREAS/Help Clientes/!Dablio Assessoria Imobiliária\|!Dablio Assessoria Imobiliária]] - Simples Nacional - sem movimento
 
 
 
