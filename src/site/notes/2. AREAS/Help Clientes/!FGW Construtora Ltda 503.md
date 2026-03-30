@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/fgw-construtora-ltda-503/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-10T14:28:14.672-03:00","updated":"2026-03-30T13:50:00.218-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/fgw-construtora-ltda-503/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-10T14:28:14.672-03:00","updated":"2026-03-30T13:53:05.578-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -42,6 +42,8 @@ Repassado para o Brayann e para a Amanda no dia 24/03/2026 via reunião online (
 ___
 
 ____
+
+![Pasted image 20260330135251.png|300](/img/user/Pasted%20image%2020260330135251.png)
 # Segunda-feira, 30 Março 2026
 (11:53) Mayara Víctor - 7553: ✉
  
@@ -52,5 +54,7 @@ ____
 (13:38) Mayara Víctor - 7553: Só vai ter backup do fiscal, tá?
 (13:38) Mayara Víctor - 7553: Assim que for restaurado, comunico!
 (13:49) lucas: Certo, obrigado!
+
+
 
 _____
