@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/fgw-construtora-ltda-503/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-10T14:28:14.672-03:00","updated":"2026-03-30T13:53:05.578-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/fgw-construtora-ltda-503/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-10T14:28:14.672-03:00","updated":"2026-03-30T13:54:09.101-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -44,6 +44,17 @@ ___
 ____
 
 ![Pasted image 20260330135251.png|300](/img/user/Pasted%20image%2020260330135251.png)
+
+___
+# Segunda-feira, 30 Março 2026
+(13:53) Mayara Víctor - 7553 - Notificar como alerta: Boa tarde, pessoal!
+
+Passando para avisar que o backup do fiscal da empresa FGW CONSTRUTORA LTDA, do grupo FGW, já foi restaurado e se encontra disponível em nosso banco de dados (Fortes) com o CÓD 9391. 
+O antigo contador informou que os demais backups (pessoal e contábil) não serão encaminhados, pois não eram realizados. 
+Qualquer dúvida, fico à disposição. 
+(13:53) lucas: Obrigado@
+
+___
 # Segunda-feira, 30 Março 2026
 (11:53) Mayara Víctor - 7553: ✉
  
@@ -54,6 +65,9 @@ ____
 (13:38) Mayara Víctor - 7553: Só vai ter backup do fiscal, tá?
 (13:38) Mayara Víctor - 7553: Assim que for restaurado, comunico!
 (13:49) lucas: Certo, obrigado!
+___
+
+
 
 
 
