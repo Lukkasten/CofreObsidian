@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-fgw/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-24T13:47:13.363-03:00","updated":"2026-03-30T14:11:24.381-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-fgw/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-24T13:47:13.363-03:00","updated":"2026-03-30T14:11:47.646-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -37,8 +37,6 @@ Repassado para o Brayann e para a Amanda no dia 24/03/2026 via reunião online (
 ___
 
 
-____
-
 ![Pasted image 20260330135251.png|300](/img/user/Pasted%20image%2020260330135251.png)
 
 ___
@@ -48,7 +46,7 @@ ___
 Passando para avisar que o backup do fiscal da empresa FGW CONSTRUTORA LTDA, do grupo FGW, já foi restaurado e se encontra disponível em nosso banco de dados (Fortes) com o CÓD 9391. 
 O antigo contador informou que os demais backups (pessoal e contábil) não serão encaminhados, pois não eram realizados. 
 Qualquer dúvida, fico à disposição. 
-(13:53) lucas: Obrigado@
+(13:53) lucas: Obrigado!
 
 ___
 # Segunda-feira, 30 Março 2026
