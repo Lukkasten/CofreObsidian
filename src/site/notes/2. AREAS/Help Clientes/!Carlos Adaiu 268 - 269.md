@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-27T16:15:46.935-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-03-30T09:32:43.848-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -14,8 +14,6 @@ ____
 
 Consulta no Tax Prático sobre o a empresa não ter a incidência de PIS e COFINS nas suas operações:
 **Consulta Tax Prático - [[3. RECURSOS/TRIBUTÁRIO/CONSULTA TAX PRATICO - LUCRO REAL - PIS E COFINS - VENDA DE FRUTAS FRESCAS  UVA, MORANGO E KIWI\|CONSULTA TAX PRATICO - LUCRO REAL - PIS E COFINS - VENDA DE FRUTAS FRESCAS  UVA, MORANGO E KIWI]]** 
-
-![Guia Alíquota Zero PIS COFINS.png](/img/user/4.%20ARQUIVOS/Guia%20Al%C3%ADquota%20Zero%20PIS%20COFINS.png)
 
 05/03/2026 -  A venda de frutas no mercado interno brasileiro, via de regra, tem alíquota zero de PIS e COFINS para empresas no Lucro Real ou Presumido, conforme a Lei nº 10.865/2004.
 
@@ -57,21 +55,24 @@ ____
 _______
 **REUNIÃO**
 **Data:** 27/03/2026
-Modalidade: Presencial
+Modalidade: Presencial ( na empresa do cliente)
 Participantes: Jamyle, Izaura, Hudson, Lucas, Raul
 
 ###### **ASSUNTOS ABORDADOS:**
 1) Aumentar as vendas do morango/kiwi;
 2) Deixar o faturamento em média de R$ 600mil a 620mil;
 3) As compras serão o CMV da empresa; a empresa não possui quase nenhum estoque;
-4) Despesas da Pessoa sairá da conta da pessoa física e vai para a pessoa jurídica;
-5) Relembrar sobre a cobrança de documentos para despesas;
+4) Despesas da Pessoa jurídica sairá da conta da pessoa física e vai para a pessoa jurídica;
+5) Relembrar sobre a cobrança de documentos para despesas; JHEMILLE
 
 
 
 **📌PÓS-REUNIÃO:**
 
-Repassar para a equipe sobre a reunião
+1) 30/03/2026 Repassado para o Patrick e Emanuel
+2) 30/03/2026 Lucas ficou de fazer um novo cenário considerando também os fretes no CMV. ⏳ o cmv = compras + CMV
+3) 
+
 
 
 _____
