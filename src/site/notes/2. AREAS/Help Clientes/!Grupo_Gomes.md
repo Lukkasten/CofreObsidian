@@ -1,8 +1,48 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-03-24T11:47:00.480-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-03-31T16:45:23.626-03:00"}
 ---
 
+**ASPECTOS GERAIS:**
 
+[[2. AREAS/Help Interno/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
+[[!AG da Silva Neto\|!AG da Silva Neto]]
+
+
+# ==**HISTÓRICO DE REUNIÕES:**==
+___
+
+__
+# **Reunião**
+Modalidade: Presencial
+Sala de Reunião ( Geral)
+Participantes: Lucas, Neto, Paulo, Natassia
+Data: 31/03/2026
+
+
+📌 **Objetivo:**
+
+1) Simulação tributária Lucro Real  ( AG da Silva Neto e Drogaria Gomes e Paixão;
+2) Dúvidas pontuais sobre IRPF ( Participação do Alex);
+3) Cliente indicou uma pessoa para a gente fazer o IRPF;
+
+📌 **Ações:**
+
+1) Empresas ficarão no lucro real a partir do ano 2026;
+2) Os funcionários da prestadora devem ser realocados para a sua respetiva empresa de origem (Farmácias);
+3) Não efetuar a baixa da prestadora ainda, o Paulo vai pedir o Hudson um tempo a mais para poder retirar o plano de saúde e outros documentos vinculados antes da baixa;
+4) Fazer a cobrança de retirada de sócio apenas para os seguintes emails:
+	c_natassia@hotmail.com
+	phep1@hotmail.com
+
+
+📌 **Repassado:**
+
+⏳ Ao explicar pegar a planilha de simulação tributária cenário 2 salva na pasta de simulação tributária;
+
+
+
+
+# ==**HISTÓRICO DE CONVERSAS WHATS E SPARK:**==
 
 
 
