@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-03-31T16:45:23.626-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-03-31T17:45:31.927-03:00"}
 ---
 
 **ASPECTOS GERAIS:**
@@ -25,14 +25,17 @@ Data: 31/03/2026
 2) Dúvidas pontuais sobre IRPF ( Participação do Alex);
 3) Cliente indicou uma pessoa para a gente fazer o IRPF;
 
-📌 **Ações:**
+📌 **Assuntos tratados:**
 
-1) Empresas ficarão no lucro real a partir do ano 2026;
-2) Os funcionários da prestadora devem ser realocados para a sua respetiva empresa de origem (Farmácias);
-3) Não efetuar a baixa da prestadora ainda, o Paulo vai pedir o Hudson um tempo a mais para poder retirar o plano de saúde e outros documentos vinculados antes da baixa;
-4) Fazer a cobrança de retirada de sócio apenas para os seguintes emails:
+1) [x] Empresas ficarão no lucro real a partir do ano 2026; ==email enviado==
+2) [x] Os funcionários da prestadora devem ser realocados para a sua respectiva empresa de origem (Farmácias); ==email enviado==
+3) [x] Não efetuar a baixa da prestadora ainda, o Paulo vai pedir o Hudson um tempo a mais para poder retirar o plano de saúde e outros documentos vinculados antes da baixa; ==email enviado==
+4) [x] Delegar empresas para responsável no contábil; ==delegado para o Gabriel==
+5) [x] Gerar as tarefas do contábil de Janeiro/2026 a Março/2026; t==arefa geradas e feito a cobrança pelo onvio== 
+6) [x] Fazer a cobrança de retirada de sócio apenas para os seguintes emails: ==solicitado a Gleiciane o cadastro no Onvio==
 	c_natassia@hotmail.com
 	phep1@hotmail.com
+
 
 
 📌 **Repassado:**
