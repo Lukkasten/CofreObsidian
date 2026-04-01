@@ -7,7 +7,7 @@ ___
 
 
 [[2. AREAS/Help Clientes/!Drogaria Cariri 1\|!Drogaria Cariri 1]] - Lucro Real
-[[2. AREAS/Help Clientes/Drogaria Cariri 2\|Drogaria Cariri 2]] - Lucro Real
+[[Drogaria Cariri 2\|Drogaria Cariri 2]] - Lucro Real
 [[2. AREAS/Help Clientes/!Drogaria Viana\|!Drogaria Viana]] - Lucro Real 
 [[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]] - Lucro Presumido
 [[2. AREAS/Help Clientes/!Farmácia Viana\|!Farmácia Viana]] - Lucro Real, a partir da competência Janeiro/2026.

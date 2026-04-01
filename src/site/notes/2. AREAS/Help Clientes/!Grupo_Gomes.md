@@ -1,15 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-03-31T17:45:31.927-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-04-01T17:30:02.587-03:00"}
 ---
 
 **ASPECTOS GERAIS:**
 
 [[2. AREAS/Help Interno/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
-[[!AG da Silva Neto\|!AG da Silva Neto]]
+[[2. AREAS/Help Clientes/!AG da Silva Neto\|!AG da Silva Neto]]
 
 
 # ==**HISTÓRICO DE REUNIÕES:**==
 ___
+
+
+__
+# **Reunião**
+Modalidade: Online
+Participantes: Lucas, Neto, Natassia
+Data: 01/04/2026
+Anotações do Gemini  [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Cliente Online _ Grupo Gomes - 2026_04_01 13_56 GMT-03_00 - Transcript\|Reunião Cliente Online _ Grupo Gomes - 2026_04_01 13_56 GMT-03_00 - Transcript]]
+
+📌 **Assuntos tratados:**
+1) Manter os funcionários na prestadora de serviços
+2) Empresas do grupo ficarão no lucro real, com a prestadora, e com um lucro médio de 2,75% tributável.
+
+📌 **Repassar para a equipe:**
+
+⏳
+
+
+
+
+__
 
 __
 # **Reunião**

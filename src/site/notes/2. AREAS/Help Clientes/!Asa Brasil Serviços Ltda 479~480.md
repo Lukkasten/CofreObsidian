@@ -6,7 +6,7 @@
 ___
 
 [Checklist de Migração](https://docs.google.com/spreadsheets/d/1PsC9tTBg69L-Wb3sRVUqyVGBUZpRLiGikqUG1iiRdwE/edit?gid=1978312704#gid=1978312704)
-[[2. AREAS/Help Clientes/Araujo & Machado 481\|Araujo & Machado 481]]
+[[Araujo & Machado 481\|Araujo & Machado 481]]
 
 ##### **GUIA DARF PIS, COFINS:**
 ____

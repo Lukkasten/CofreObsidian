@@ -6,8 +6,8 @@
 ___
 
 Empresa do Grupo
-[[2. AREAS/Help Clientes/Farmacia Solonopole 166\|Farmacia Solonopole 166]]
-[[2. AREAS/Help Clientes/Com. Med. Silva 9730\|Com. Med. Silva 9730]]
+[[Farmacia Solonopole 166\|Farmacia Solonopole 166]]
+[[Com. Med. Silva 9730\|Com. Med. Silva 9730]]
 [[2. AREAS/Help Clientes/!Nunes Comercio de Medicamentos Ltda 271\|!Nunes Comercio de Medicamentos Ltda 271]]
 
 

@@ -5,7 +5,7 @@
 ##### **ASPECTOS GERAIS:**
 ___
 
-[[2. AREAS/Help Clientes/Empreend. Farmacêuticos Gama Cód. 269\|Empreend. Farmacêuticos Gama Cód. 269]]
+[[Empreend. Farmacêuticos Gama Cód. 269\|Empreend. Farmacêuticos Gama Cód. 269]]
 
 
 ##### **GUIA DARF PIS, COFINS:**

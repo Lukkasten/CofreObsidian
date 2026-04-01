@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/bala-transportes-ltda-347/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:25:08.186-03:00","updated":"2026-01-05T13:25:47.390-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/ag-da-silva-neto/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-31T16:35:24.459-03:00","updated":"2026-04-01T16:59:00.288-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-[[Grupo Sousa\|Grupo Sousa]]
+[[2. AREAS/Help Clientes/!Grupo_Gomes\|!Grupo_Gomes]]
+[[2. AREAS/Help Interno/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
 
 
 
@@ -33,6 +34,9 @@ ____
 
 ##### **DOMINIO LALUR:**
 ___
+
+Deixar um Lucro de 2,5% tributável
+
 
 ##### **DOMINIO PATRIMONIO:**
 ___
