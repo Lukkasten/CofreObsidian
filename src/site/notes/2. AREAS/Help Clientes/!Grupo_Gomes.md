@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-04-01T17:30:02.587-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-04-02T11:21:05.545-03:00"}
 ---
 
 **ASPECTOS GERAIS:**
 
 [[2. AREAS/Help Interno/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
 [[2. AREAS/Help Clientes/!AG da Silva Neto\|!AG da Silva Neto]]
+
 
 
 # ==**HISTÓRICO DE REUNIÕES:**==
