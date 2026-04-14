@@ -56,7 +56,7 @@ Modalidade: Online
 Sala de reunião
 Participantes: Lucas, Hudson, Susalene, Roberto, Samia
 Data: 30/03/2026
-Anotações do Gemini [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião - Torres & Santiago - 2026_03_30 14_34 GMT-03_00 - Anotações do Gemini\|Reunião - Torres & Santiago - 2026_03_30 14_34 GMT-03_00 - Anotações do Gemini]]
+Anotações do Gemini [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião - Torres & Santiago - 2026_03_30 14_34 GMT-03_00 - Anotações do Gemini\|Reunião - Torres & Santiago - 2026_03_30 14_34 GMT-03_00 - Anotações do Gemini]]
 
 📌 **Ações:**
 

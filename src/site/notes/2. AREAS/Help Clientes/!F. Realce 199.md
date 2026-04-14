@@ -64,7 +64,7 @@ Data: 20/02/2026
 Modalidade: Online
 Participantes: Lucas, Ambrósio
 Anotações do Gemini:
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini\|Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini\|Reunião Online _ F. Realce - 2026_03_23 14_36 GMT-03_00 - Anotações do Gemini]]
 
 **📌 Ações:**
 

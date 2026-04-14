@@ -85,7 +85,7 @@ ____
 ___
 
 13/03/2026 - REUNIÃO ONLINE
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Cliente Online _ Dmed - 2026_03_13 16_02 GMT-03_00 - Anotações do Gemini\|Reunião Cliente Online _ Dmed - 2026_03_13 16_02 GMT-03_00 - Anotações do Gemini]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião Cliente Online _ Dmed - 2026_03_13 16_02 GMT-03_00 - Anotações do Gemini\|Reunião Cliente Online _ Dmed - 2026_03_13 16_02 GMT-03_00 - Anotações do Gemini]]
 
 
 

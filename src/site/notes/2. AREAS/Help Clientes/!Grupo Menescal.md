@@ -11,7 +11,7 @@ ___
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Grupo Menescal - 2026_03_18 10_11 GMT-03_00 - Anotações do Gemini\|Reunião Grupo Menescal - 2026_03_18 10_11 GMT-03_00 - Anotações do Gemini]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião Grupo Menescal - 2026_03_18 10_11 GMT-03_00 - Anotações do Gemini\|Reunião Grupo Menescal - 2026_03_18 10_11 GMT-03_00 - Anotações do Gemini]]
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**

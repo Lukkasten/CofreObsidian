@@ -59,7 +59,7 @@ Participantes: Julio (Financeiro), Brayann.
 Data: 04/03/2026
 Horário: 10:00 
 Modalidade Online
-Nota da reunião [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião Cliente _ Farmácia Jacqueline - 2026_03_04 09_29 GMT-03_00 - Anotações do Gemini\|Reunião Cliente _ Farmácia Jacqueline - 2026_03_04 09_29 GMT-03_00 - Anotações do Gemini]]
+Nota da reunião [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião Cliente _ Farmácia Jacqueline - 2026_03_04 09_29 GMT-03_00 - Anotações do Gemini\|Reunião Cliente _ Farmácia Jacqueline - 2026_03_04 09_29 GMT-03_00 - Anotações do Gemini]]
 
 **📌 Objetivo:**
 

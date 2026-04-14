@@ -62,7 +62,7 @@ ___
 ____
 **Reunião** dia 03/03/2026
 **Participantes**: Igor, Myrtuchi, Hudson, Raul e Lucas
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/REUNIÃO - REDES CONCEITO - 2026_03_03 09_37 GMT-03_00 - Anotações do Gemini\|REUNIÃO - REDES CONCEITO - 2026_03_03 09_37 GMT-03_00 - Anotações do Gemini]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/REUNIÃO - REDES CONCEITO - 2026_03_03 09_37 GMT-03_00 - Anotações do Gemini\|REUNIÃO - REDES CONCEITO - 2026_03_03 09_37 GMT-03_00 - Anotações do Gemini]]
 
 **📌 Ações:**
 Crédito de PIS e COFINS, foi feito o levantamento dos créditos e compartilhamento com o cliente via planilha online [[3. RECURSOS/TRIBUTÁRIO/Créditos PIS e COFINS - indústria de Artefatos de Cordoaria\|Créditos PIS e COFINS - indústria de Artefatos de Cordoaria]]

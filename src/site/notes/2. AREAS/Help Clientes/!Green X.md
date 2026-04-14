@@ -66,7 +66,7 @@ ____
 **Data: 02/03/2026** 
 **Local:** Control
 **Participantes:** Hudson, Igor, Marcus ( Consultor), Lucas, Camilla ( Sócia), Edvan (Sócio),  Lícia ( Apresentou o BPO)
-[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião - Grupo Green(Camila_Igor)_Marcos Menezes - 2026_03_02 16_08 GMT-03_00 - Anotações do Gemini\|Reunião - Grupo Green(Camila_Igor)_Marcos Menezes - 2026_03_02 16_08 GMT-03_00 - Anotações do Gemini]]
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião - Grupo Green(Camila_Igor)_Marcos Menezes - 2026_03_02 16_08 GMT-03_00 - Anotações do Gemini\|Reunião - Grupo Green(Camila_Igor)_Marcos Menezes - 2026_03_02 16_08 GMT-03_00 - Anotações do Gemini]]
 
 **Assuntos Tratados:** 
 1) Mudança para o Lucro Real mensal;
