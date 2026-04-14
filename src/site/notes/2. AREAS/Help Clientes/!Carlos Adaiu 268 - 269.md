@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-04-14T16:14:25.918-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-04-14T16:36:15.261-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -55,7 +55,9 @@ ____
 **CONVERSAS WHATSAPP**
 ___
 
-Vendas  
+![Pasted image 20260414163614.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260414163614.png)
+
+Recebido da Vendas  
 Total Real: R$ 899.944,20 sendo R$ 336.150,47 em Notas fiscais e R$ 563.793,73 em pedidos de venda  
   
 Compras  
