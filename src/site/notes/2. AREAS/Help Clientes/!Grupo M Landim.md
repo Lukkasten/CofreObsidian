@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-m-landim/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-08T18:07:46.144-03:00","updated":"2026-04-14T16:44:41.559-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-m-landim/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-08T18:07:46.144-03:00","updated":"2026-04-14T16:45:05.626-03:00"}
 ---
 
 ASPECTOS GERAIS:
@@ -15,7 +15,7 @@ ___
 
 _____
 # **Reunião**
-Modalidade: Presencial
+Modalidade: Presencial (Sala de reunião)
 Participantes: Lucas, Hudson, Brayann, Sr Webston, Jessica (Financeiro)
 Data: 14/04/2026
 
