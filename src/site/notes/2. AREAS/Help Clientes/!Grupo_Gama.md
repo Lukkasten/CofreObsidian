@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-15T11:39:08.667-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-15T11:40:25.773-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
+*Empresas do Grupo*
 [[2. AREAS/Help Clientes/!Empreend. Farmacêuticos Gama Cód. 269\|!Empreend. Farmacêuticos Gama Cód. 269]]
-[[!Comercial Gama de Medicamentos Ltda 44\|!Comercial Gama de Medicamentos Ltda 44]]
-[[!Gama Comercio de Produtos Farmaceuticos\|!Gama Comercio de Produtos Farmaceuticos]]
-[[!RL Empreendimentos Farmaceuticos Ltda\|!RL Empreendimentos Farmaceuticos Ltda]]
+[[2. AREAS/Help Clientes/!Comercial Gama de Medicamentos Ltda 44\|!Comercial Gama de Medicamentos Ltda 44]]
+[[2. AREAS/Help Clientes/!Gama Comercio de Produtos Farmaceuticos\|!Gama Comercio de Produtos Farmaceuticos]]
+[[2. AREAS/Help Clientes/!RL Empreendimentos Farmaceuticos Ltda\|!RL Empreendimentos Farmaceuticos Ltda]]
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-04-14T16:36:15.261-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-04-15T16:23:36.901-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -65,14 +65,28 @@ Frutas Regionais sem Nf: R$ 139.928,93
 Morango: O que vem em Nf R$ 179.200,00 porém o valor real de compras do morango foi R$ 547.285,50
 
 
-
-
-
-
-
-
-##### **HISTÓRICO DE REUNIÕES:**
+# **HISTÓRICO DE REUNIÕES:**
 ____
+
+**REUNIÃO**
+**Data:** 15/04/2026
+**Modalidade:** Presencial ( Na Control Contabilidade)
+**Participantes:** Jamyle, Izaura, Hudson, Lucas, Raul
+
+**ASSUNTOS TRATADOS:**
+ - Empresa ficará no Lucro Real Trimestral;
+ - Empresa ficará com lucro tributável médio de 3,55% no 1º trimestre ano 2026
+ - IRPJ e CSLL será parcelado em 3 cotas **(Por mês ficará IRPJ R$ 2.066,78 + CSLL R$ 1.240,07 )** no 1º Trimestre ano 2026; 
+ - Deixar o 1º Trimestre ano 2026 de acordo com  a planilha de simulação tributária "Aba fechado"
+ - Planilha de terrenos ( Izaura vai enviar)
+ - Verificar nota fiscal de compra de imobilizado no valor de R$ 160.000,00 classificado no fiscal como compra de mercadorias para revenda. ( Depto. Fiscal);
+
+**📌PÓS-REUNIÃO:**
+
+ - Repassado para o Patrick e Emanuel no dia 15/04/2026
+
+
+
 
 _______
 **REUNIÃO**
@@ -92,8 +106,7 @@ Participantes: Jamyle, Izaura, Hudson, Lucas, Raul
 **📌PÓS-REUNIÃO:**
 
 1) 30/03/2026 Repassado para o Patrick e Emanuel
-2) 30/03/2026 Lucas ficou de fazer um novo cenário considerando também os fretes no CMV. ⏳ o cmv = compras + CMV
-3) 
+2) 30/03/2026 Lucas ficou de fazer um novo cenário considerando também os fretes no CMV.  o cmv = compras + CMV
 
 
 
