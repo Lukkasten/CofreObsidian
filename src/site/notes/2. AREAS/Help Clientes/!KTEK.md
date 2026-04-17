@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-04-17T12:28:26.940-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-04-17T16:12:13.174-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
 Lucro Real mensal a partir de janeiro/2026
-Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%, mas no 1º trimestre ano 2026 apresentou prejuízo.
+Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%, mas, no 1º trimestre ano 2026 apresentou prejuízo.
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
@@ -58,7 +58,7 @@ ___
 ____
 # **Reunião Cliente**
 **Modalidade:** Presencial presencial (No escritório contabilidade)
-**Participantes:** Hudson, Lucas, Dyaloisio, Jordy
+**Participantes:** Hudson, Lucas, Dyaloisio, Jordy (Advogado)
 **Data:**  17/04/2026
 
 📌 **Pauta:**
@@ -75,6 +75,9 @@ ____
 **♻️ Pós reunião:**
  - Agendar reunião com o BPO financeiro para treinar sobre o LUCRO REAL. Treinar e acompanhar. ⏳
  - Definir o responsável ( Ariane). ⏳
+- Repassado para o Brayann no dia 17/04/2026 na sala de reunião geral. Ele vai passar para a Amanda também.
+
+
 
 ____
 
