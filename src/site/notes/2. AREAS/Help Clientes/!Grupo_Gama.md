@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-15T11:40:25.773-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-16T17:14:16.616-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -16,6 +16,22 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+__
+# **Reunião**
+Modalidade: 
+Participantes: Lucas, Marcus Mota, Hudson, Ecaterine, Taisa
+Data: 08/04/2026
+Anotações do Gemini 
+
+1 - Sr Rubens irá retornar para agendar uma data para a reunião de fechamento do 1 trimestre ano 2026
+
+
+2 - Fazer Simulação colocando as comissões na folha da prestadora e analisando o aumento  e economia tributária entre o simples x lucro real.
+
+
+
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**

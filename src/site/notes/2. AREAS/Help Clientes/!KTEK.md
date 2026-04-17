@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-02-23T13:10:28.502-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-04-17T12:28:26.940-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-Lucro Real a partir de janeiro/2026
-Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%
+Lucro Real mensal a partir de janeiro/2026
+Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%, mas no 1º trimestre ano 2026 apresentou prejuízo.
 
 ##### **GUIA DARF PIS, COFINS:**
 ____
@@ -14,8 +14,8 @@ ____
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
-Lucro Real a partir de janeiro/2026
-Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real pelo menos 2%, comforme alinhado com o Dyaloisio e Hudson.
+Lucro Real mensal a partir de janeiro/2026
+Reduzir a alíquota efetiva dos imposto de lucro presumido para o Lucro Real mensal pelo menos 2%, comforme alinhado com o Dyaloisio e Hudson.
 
 
 ##### **CONTÁBIL/FINANCEIRO:**
@@ -52,6 +52,38 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+
+
+____
+# **Reunião Cliente**
+**Modalidade:** Presencial presencial (No escritório contabilidade)
+**Participantes:** Hudson, Lucas, Dyaloisio, Jordy
+**Data:**  17/04/2026
+
+📌 **Pauta:**
+ -  Apresentar o resultado do 1º trimestre ano 2026
+ - Fazer comparativo entre o 1º trimestre ano 2025 x 1º trimestre ano 2026
+ - Empresa ficará no lucro real mensal
+ - Aporte de de sócios ( Como utilizar e utilizar os juros do empréstimo do sócio para a empresa e utilizar os juros para ser uma despesa financeira)
+ - Levantamento dos financiamentos, terrenos, etc.
+
+🟢 Seguro - IRPJ e CSLL
+🟢 Convenção coletiva - PIS e COFINS
+
+ 
+**♻️ Pós reunião:**
+ - Agendar reunião com o BPO financeiro para treinar sobre o LUCRO REAL. Treinar e acompanhar. ⏳
+ - Definir o responsável ( Ariane). ⏳
+
+____
+
+
+
+
+
+
+________
 
 **Dia 19/01/2026**
 

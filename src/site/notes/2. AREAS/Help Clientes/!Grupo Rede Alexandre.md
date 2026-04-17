@@ -1,60 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-02-26T12:10:56.261-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-04-17T10:55:22.347-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-
 [[2. AREAS/Help Clientes/!Valdir João Alexandre  Ltda 355\|!Valdir João Alexandre  Ltda 355]]
 [[2. AREAS/Help Clientes/!Luana Silva Alexandre Ltda 359\|!Luana Silva Alexandre Ltda 359]] 
 
-
-
-
-
-
-##### **GUIA DARF PIS, COFINS:**
-____
-
-
-
-##### **GUIA DARF IRPJ E CSLL:**
-____
-
-
-##### **CONTÁBIL/FINANCEIRO:**
-___
-
-
-##### **MOVIMENTO FISCAL:**
-____
-
-
-
-##### **MOVIMENTO FOLHA:**
-____
-
-
-##### **DOMINIO LALUR:**
-___
-
-##### **DOMINIO PATRIMONIO:**
-___
-
-
-##### **PRÉ-FECHAMENTO:**
-___
-
-
-##### **FECHAMENTO:**
-___
-
-
-
-
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+_____
+# **Reunião Cliente**
+**Modalidade:** Presencial (Na Control Contabilidade)
+**Participantes:** Lucas, Hudson, Alexandre ( Sócio) , Luziana (Sócia)
+**Data:** 17/04/2026
+**Anotações do Gemini:**
+
+📌 **Pauta**
+
+ - Retroativo ano 2025
+ - Backup ( Solicitado ao escritório de contabilidade P & P), aguardando a Andressa enviar.
+
+
+**♻️ Pós reunião:**
+
+ - 
+
+
+
+____
+
+
+
+
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**

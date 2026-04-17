@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-04-15T16:37:42.106-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/carlos-adaiu-268-269/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-23T10:46:50.520-03:00","updated":"2026-04-16T15:44:50.594-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -21,6 +21,7 @@ Consulta no Tax Prático sobre o a empresa não ter a incidência de PIS e COFIN
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
 
+Empresa ficará com lucro tributável médio de 3,55%
 
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
@@ -40,6 +41,8 @@ ____
 
 ##### **DOMINIO LALUR:**
 ___
+
+Empresa ficará com lucro tributável médio de 3,55%
 
 ##### **DOMINIO PATRIMONIO:**
 ___
@@ -72,18 +75,20 @@ ____
 **Data:** 15/04/2026
 **Modalidade:** Presencial (Na Control Contabilidade)
 **Participantes:** Adaiu, Izaura, Hudson, Lucas e Raul
+Planilha da simulação tributária: [link](https://docs.google.com/spreadsheets/d/1MrhtunZoQV06D7DUJXqZVI5KCI-44cgY/edit?usp=sharing&ouid=103814794779206087470&rtpof=true&sd=true)
 
 **ASSUNTOS TRATADOS:**
  - Empresa ficará no Lucro Real Trimestral;
  - Empresa ficará com lucro tributável médio de 3,55% no 1º trimestre ano 2026;
- - IRPJ e CSLL será pago em cota única **(IRPJ R$ 6.200,33 + CLL R$ 3.720,20 )** no 1º Trimestre ano 2026;
+ - IRPJ e CSLL será pago em cota única **(IRPJ R$ 6.200,33 + CLL R$ 3.720,20 )** no 1º Trimestre ano 2026 conforme [link](https://docs.google.com/spreadsheets/d/1MrhtunZoQV06D7DUJXqZVI5KCI-44cgY/edit?usp=sharing&ouid=103814794779206087470&rtpof=true&sd=true)
  - Deixar o 1º Trimestre ano 2026 de acordo com  a planilha de simulação tributária =="Aba fechado"==
  - Planilha de terrenos ( Izaura vai enviar);
  - Verificar nota fiscal de compra de imobilizado no valor de R$ 160.000,00 classificado no fiscal; como compra de mercadorias para revenda. ( Depto. Fiscal);
 
 **📌PÓS-REUNIÃO:**
 
- - Repassado para o Patrick e Emanuel no dia 15/04/2026
+ - Repassado para o Patrick e Emanuel no dia 16/04/2026.
+ - 
 
 
 
