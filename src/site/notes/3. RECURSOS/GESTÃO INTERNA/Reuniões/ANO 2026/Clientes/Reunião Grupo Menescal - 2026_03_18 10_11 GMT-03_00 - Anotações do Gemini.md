@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-grupo-menescal-2026-03-18-10-11-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-18T11:23:21.733-03:00","updated":"2026-03-18T12:04:09.412-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-grupo-menescal-2026-03-18-10-11-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-18T11:23:21.733-03:00","updated":"2026-03-18T12:04:18.883-03:00"}
 ---
 
 18 de mar. de 2026

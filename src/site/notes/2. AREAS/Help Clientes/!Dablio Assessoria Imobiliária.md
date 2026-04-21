@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/dablio-assessoria-imobiliaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-24T13:48:44.573-03:00","updated":"2026-03-24T13:48:59.369-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/dablio-assessoria-imobiliaria/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-24T13:48:44.573-03:00","updated":"2026-03-24T13:49:10.180-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

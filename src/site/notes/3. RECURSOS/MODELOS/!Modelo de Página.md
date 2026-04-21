@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:11:05.665-03:00","updated":"2026-04-17T10:53:44.006-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:11:05.665-03:00","updated":"2026-04-17T10:53:53.586-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

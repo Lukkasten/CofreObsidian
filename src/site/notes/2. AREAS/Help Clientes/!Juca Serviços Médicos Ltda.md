@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/juca-servicos-medicos-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:30:55.857-03:00","updated":"2026-02-03T16:31:27.898-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/juca-servicos-medicos-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T16:30:55.857-03:00","updated":"2026-02-03T16:32:01.262-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

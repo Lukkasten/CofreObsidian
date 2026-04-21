@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-online-f-realce-2026-03-23-14-36-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-26T15:20:51.985-03:00","updated":"2026-03-26T15:23:09.340-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-online-f-realce-2026-03-23-14-36-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-26T15:20:51.985-03:00","updated":"2026-03-26T15:23:17.557-03:00"}
 ---
 
 23 de mar. de 2026

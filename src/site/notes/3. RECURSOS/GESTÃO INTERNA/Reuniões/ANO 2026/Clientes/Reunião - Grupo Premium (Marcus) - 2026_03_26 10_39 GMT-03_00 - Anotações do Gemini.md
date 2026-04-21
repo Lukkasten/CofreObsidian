@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-grupo-premium-marcus-2026-03-26-10-39-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-26T12:30:54.303-03:00","updated":"2026-03-26T12:32:01.975-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-grupo-premium-marcus-2026-03-26-10-39-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-26T12:30:54.303-03:00","updated":"2026-03-26T12:32:12.081-03:00"}
 ---
 
 26 de mar. de 2026

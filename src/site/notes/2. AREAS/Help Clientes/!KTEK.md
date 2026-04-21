@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-04-17T16:12:13.174-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/ktek/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-30T22:36:22.667-03:00","updated":"2026-04-17T16:12:22.731-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

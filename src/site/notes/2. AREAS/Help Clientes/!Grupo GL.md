@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-16T09:26:00.128-03:00","updated":"2025-12-16T14:25:12.368-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gl/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-16T09:26:00.128-03:00","updated":"2025-12-16T14:25:18.504-03:00"}
 ---
 
  

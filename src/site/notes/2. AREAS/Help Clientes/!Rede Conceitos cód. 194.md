@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos-cod-194/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2026-03-05T23:19:41.810-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rede-conceitos-cod-194/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-13T11:25:50.393-03:00","updated":"2026-03-05T23:19:37.889-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

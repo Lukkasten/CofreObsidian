@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/prompt-humanizador/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-18T09:25:57.816-03:00","updated":"2026-03-11T08:17:09.041-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/prompts/prompt-humanizador/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-18T09:25:57.816-03:00","updated":"2026-03-11T09:00:02.875-03:00"}
 ---
 
 

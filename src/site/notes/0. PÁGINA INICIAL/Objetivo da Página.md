@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-03-31T16:48:54.821-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-03-31T18:04:54.115-03:00"}
 ---
 
 gomes

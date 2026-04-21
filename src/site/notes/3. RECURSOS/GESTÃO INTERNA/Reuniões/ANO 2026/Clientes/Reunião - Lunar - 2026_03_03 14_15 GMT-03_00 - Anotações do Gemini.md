@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-lunar-2026-03-03-14-15-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-03T15:38:39.972-03:00","updated":"2026-03-03T15:54:52.096-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-lunar-2026-03-03-14-15-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-03T15:38:39.972-03:00","updated":"2026-03-03T15:55:02.447-03:00"}
 ---
 
 3 de mar. de 2026

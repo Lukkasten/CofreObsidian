@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-menescal/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-18T11:25:12.288-03:00","updated":"2026-03-18T11:26:55.506-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-menescal/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-18T11:25:12.288-03:00","updated":"2026-03-18T11:27:06.700-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

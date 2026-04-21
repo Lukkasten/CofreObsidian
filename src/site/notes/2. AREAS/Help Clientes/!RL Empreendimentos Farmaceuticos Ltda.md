@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rl-empreendimentos-farmaceuticos-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-15T11:39:48.731-03:00","updated":"2026-04-15T11:39:55.957-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rl-empreendimentos-farmaceuticos-ltda/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-15T11:39:48.731-03:00","updated":"2026-04-15T11:39:48.731-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

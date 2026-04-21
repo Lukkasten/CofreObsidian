@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-cliente-grupo-green-2026-03-31-10-25-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-31T11:09:10.945-03:00","updated":"2026-03-31T11:10:32.007-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-cliente-grupo-green-2026-03-31-10-25-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-31T11:09:10.945-03:00","updated":"2026-03-31T11:10:39.354-03:00"}
 ---
 
 31 de mar. de 2026

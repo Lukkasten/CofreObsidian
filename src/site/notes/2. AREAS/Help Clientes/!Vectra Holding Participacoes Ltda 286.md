@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/vectra-holding-participacoes-ltda-286/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-10T11:48:53.854-03:00","updated":"2026-02-10T11:49:08.778-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/vectra-holding-participacoes-ltda-286/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-10T11:48:53.854-03:00","updated":"2026-02-10T11:49:29.211-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

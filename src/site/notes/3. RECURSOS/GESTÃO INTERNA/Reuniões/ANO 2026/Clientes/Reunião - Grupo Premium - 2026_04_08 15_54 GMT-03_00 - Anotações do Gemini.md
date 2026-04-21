@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-grupo-premium-2026-04-08-15-54-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-08T17:51:15.390-03:00","updated":"2026-04-08T17:52:29.796-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-grupo-premium-2026-04-08-15-54-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-08T17:51:15.390-03:00","updated":"2026-04-08T17:52:36.530-03:00"}
 ---
 
 8 de abr. de 2026

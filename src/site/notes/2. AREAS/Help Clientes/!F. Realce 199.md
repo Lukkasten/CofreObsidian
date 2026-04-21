@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-03-26T15:24:44.966-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-03-26T15:24:54.121-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

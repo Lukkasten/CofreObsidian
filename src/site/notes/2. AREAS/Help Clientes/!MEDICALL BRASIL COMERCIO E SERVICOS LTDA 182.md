@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/medicall-brasil-comercio-e-servicos-ltda-182/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-21T10:48:32.010-03:00","updated":"2026-04-02T11:19:28.340-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/medicall-brasil-comercio-e-servicos-ltda-182/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-21T10:48:32.010-03:00","updated":"2026-04-02T11:19:34.184-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

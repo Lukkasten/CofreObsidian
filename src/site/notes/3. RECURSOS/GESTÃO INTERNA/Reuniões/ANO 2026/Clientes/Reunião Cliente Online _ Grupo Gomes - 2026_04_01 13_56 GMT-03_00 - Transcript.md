@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-cliente-online-grupo-gomes-2026-04-01-13-56-gmt-03-00-transcript/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-01T17:28:12.806-03:00","updated":"2026-04-01T17:30:15.770-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-cliente-online-grupo-gomes-2026-04-01-13-56-gmt-03-00-transcript/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-01T17:28:12.806-03:00","updated":"2026-04-01T17:30:26.263-03:00"}
 ---
 
 ## **Reunião Cliente Online | Grupo Gomes**

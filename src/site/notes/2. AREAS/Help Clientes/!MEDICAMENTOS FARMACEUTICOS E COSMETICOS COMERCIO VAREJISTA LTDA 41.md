@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/medicamentos-farmaceuticos-e-cosmeticos-comercio-varejista-ltda-41/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-15T18:32:55.360-03:00","updated":"2026-01-15T18:35:35.673-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/medicamentos-farmaceuticos-e-cosmeticos-comercio-varejista-ltda-41/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-15T18:32:55.360-03:00","updated":"2026-01-15T18:35:43.982-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

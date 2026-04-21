@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-16T17:14:16.616-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-20T11:23:41.385-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -28,10 +28,6 @@ Anotações do Gemini
 
 
 2 - Fazer Simulação colocando as comissões na folha da prestadora e analisando o aumento  e economia tributária entre o simples x lucro real.
-
-
-
-
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**

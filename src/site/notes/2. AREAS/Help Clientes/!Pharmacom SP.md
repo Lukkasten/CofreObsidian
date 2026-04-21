@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/pharmacom-sp/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-04T16:06:32.750-03:00","updated":"2025-08-25T14:53:10.987-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/pharmacom-sp/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-04T16:06:32.750-03:00","updated":"2025-08-25T14:53:21.843-03:00"}
 ---
 
 

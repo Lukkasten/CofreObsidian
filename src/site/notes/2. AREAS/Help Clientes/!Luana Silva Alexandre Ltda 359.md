@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/luana-silva-alexandre-ltda-359/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:28:11.617-03:00","updated":"2026-02-25T14:32:14.817-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/luana-silva-alexandre-ltda-359/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-25T14:28:11.617-03:00","updated":"2026-02-25T14:32:20.729-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

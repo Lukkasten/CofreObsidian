@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/fort-gestao-participacoes-ltda-291/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-10T11:50:55.701-03:00","updated":"2026-02-10T11:51:08.278-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/fort-gestao-participacoes-ltda-291/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-10T11:50:55.701-03:00","updated":"2026-02-10T11:52:00.048-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

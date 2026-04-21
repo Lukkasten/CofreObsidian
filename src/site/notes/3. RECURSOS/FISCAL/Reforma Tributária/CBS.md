@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/cbs/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:55.056-03:00","updated":"2025-08-26T15:05:43.616-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/fiscal/reforma-tributaria/cbs/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-14T08:59:55.056-03:00","updated":"2025-08-26T15:05:52.151-03:00"}
 ---
 
 

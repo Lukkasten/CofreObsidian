@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/leia-lucas/notas-diarias/202601201400-reuniao-online-cliente-ricardus/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-21T10:33:36.469-03:00","updated":"2026-01-21T10:35:12.635-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/leia-lucas/notas-diarias/202601201400-reuniao-online-cliente-ricardus/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-21T10:33:36.469-03:00","updated":"2026-01-21T10:36:11.672-03:00"}
 ---
 
 ___
