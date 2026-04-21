@@ -1,19 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mh-net/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-13T17:48:00.133-03:00","updated":"2026-04-21T13:38:13.633-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mh-net/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-13T17:48:00.133-03:00","updated":"2026-04-21T14:31:22.558-03:00"}
 ---
 
-
-
-# ==**IRPF ANO 2026/2025**==
-____
-
-Faturamento Ano 2025 - R$ 93.963,09
-(-) Parcela não tributável serviços 32% R$ 30.068,019 >> **Ficha (Rendimentos Tributáveis Recebidos de PJ pelo Titular)**
-(-) DAS pago no ano (-R$ 75/por mês) R$ 900,00
-**Lucros isentos a declarar R$ 63.094,90** >>> **Ficha (Rendimentos Isentos e Não tributáveis)**
-
-
-
+[[2. AREAS/Help Clientes/!Marcos Henrique - MH NET - IRPF\|!Marcos Henrique - MH NET - IRPF]]
 
 
 _____
