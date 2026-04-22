@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-20T11:23:41.385-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-20T11:23:35.041-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

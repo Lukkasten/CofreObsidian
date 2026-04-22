@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/jws-wilson-gas-ltda-321/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:24:47.460-03:00","updated":"2026-04-01T13:31:26.069-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/jws-wilson-gas-ltda-321/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T13:24:47.460-03:00","updated":"2026-02-23T17:52:07.586-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

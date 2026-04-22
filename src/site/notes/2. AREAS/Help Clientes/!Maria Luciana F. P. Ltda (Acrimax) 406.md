@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2026-01-22T09:56:43.919-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/maria-luciana-f-p-ltda-acrimax-406/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-08-26T12:00:43.551-03:00","updated":"2026-01-22T09:56:34.481-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

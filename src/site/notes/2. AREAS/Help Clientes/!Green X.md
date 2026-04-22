@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/green-x/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-23T17:33:29.265-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/green-x/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-08T10:43:47.683-03:00","updated":"2026-03-23T17:33:23.591-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

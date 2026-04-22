@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-gama-de-medicamentos-ltda-44/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-15T11:39:26.088-03:00","updated":"2026-04-15T11:39:26.088-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/comercial-gama-de-medicamentos-ltda-44/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-15T11:39:26.088-03:00","updated":"2026-04-15T11:39:34.334-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

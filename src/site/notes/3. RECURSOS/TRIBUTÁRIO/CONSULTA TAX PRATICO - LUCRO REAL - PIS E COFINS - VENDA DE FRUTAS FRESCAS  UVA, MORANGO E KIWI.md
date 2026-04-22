@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/tributario/consulta-tax-pratico-lucro-real-pis-e-cofins-venda-de-frutas-frescas-uva-morango-e-kiwi/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-09T15:50:21.861-03:00","updated":"2026-03-09T16:02:48.094-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/tributario/consulta-tax-pratico-lucro-real-pis-e-cofins-venda-de-frutas-frescas-uva-morango-e-kiwi/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-09T15:50:21.861-03:00","updated":"2026-03-09T15:53:39.257-03:00"}
 ---
 
 #TaxPratico #PIS #COFINS #créditodepisecofins #LucroReal 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/societario/jucec/processo-de-registro-de-livros-empresariais/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-17T13:28:25.328-03:00","updated":"2025-07-17T13:55:34.248-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/societario/jucec/processo-de-registro-de-livros-empresariais/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-17T13:28:25.328-03:00","updated":"2025-07-17T13:55:27.194-03:00"}
 ---
 
 

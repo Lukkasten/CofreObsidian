@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-12T17:11:46.447-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-03-12T17:11:36.538-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

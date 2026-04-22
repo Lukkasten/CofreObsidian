@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/leia-lucas/notas-diarias/202601201401-grupo-connect-alteracao-do-balanco-ano-2024/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-20T14:01:20.707-03:00","updated":"2026-01-21T11:07:01.687-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/leia-lucas/notas-diarias/202601201401-grupo-connect-alteracao-do-balanco-ano-2024/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-20T14:01:20.707-03:00","updated":"2026-01-21T11:06:55.438-03:00"}
 ---
 
 ___

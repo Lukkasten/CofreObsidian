@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/premium-comercio-varejista-de-medicamentos-1181/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-26T12:28:23.441-03:00","updated":"2026-04-08T18:04:17.060-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/premium-comercio-varejista-de-medicamentos-1181/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-26T12:28:23.441-03:00","updated":"2026-04-08T18:04:06.211-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

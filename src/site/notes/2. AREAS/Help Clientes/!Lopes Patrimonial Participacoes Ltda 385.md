@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/lopes-patrimonial-participacoes-ltda-385/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-10T11:49:42.729-03:00","updated":"2026-02-10T11:50:46.695-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/lopes-patrimonial-participacoes-ltda-385/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-10T11:49:42.729-03:00","updated":"2026-02-10T11:49:57.217-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

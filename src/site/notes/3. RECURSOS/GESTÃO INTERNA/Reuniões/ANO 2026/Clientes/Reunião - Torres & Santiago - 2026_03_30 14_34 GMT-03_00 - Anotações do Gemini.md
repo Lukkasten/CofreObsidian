@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-torres-and-santiago-2026-03-30-14-34-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-30T16:19:32.102-03:00","updated":"2026-03-30T16:22:47.466-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/reunioes/ano-2026/clientes/reuniao-torres-and-santiago-2026-03-30-14-34-gmt-03-00-anotacoes-do-gemini/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-30T16:19:32.102-03:00","updated":"2026-03-30T16:22:41.929-03:00"}
 ---
 
 30 de mar. de 2026

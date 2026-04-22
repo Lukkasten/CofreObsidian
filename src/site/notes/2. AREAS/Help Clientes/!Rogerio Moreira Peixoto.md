@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rogerio-moreira-peixoto/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-16T18:01:57.725-03:00","updated":"2026-04-16T18:02:24.151-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rogerio-moreira-peixoto/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-16T18:01:57.725-03:00","updated":"2026-04-16T18:02:16.358-03:00"}
 ---
 
 Quinta-feira, 16 Abril 2026

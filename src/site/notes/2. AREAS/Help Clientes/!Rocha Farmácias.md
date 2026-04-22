@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/rocha-farmacias/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-18T13:24:05.738-03:00","updated":"2026-03-18T13:24:42.462-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/rocha-farmacias/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-18T13:24:05.738-03:00","updated":"2026-03-18T13:24:34.564-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

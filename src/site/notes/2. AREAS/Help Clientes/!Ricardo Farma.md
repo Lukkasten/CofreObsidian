@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/ricardo-farma/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T09:02:19.975-03:00","updated":"2026-04-01T13:31:52.869-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/ricardo-farma/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-05T09:02:19.975-03:00","updated":"2026-01-05T09:12:41.291-03:00"}
 ---
 
 

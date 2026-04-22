@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/sa-cruz-226/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:44:15.972-03:00","updated":"2025-12-31T10:07:25.814-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/sa-cruz-226/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:44:15.972-03:00","updated":"2025-12-31T10:07:34.712-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
