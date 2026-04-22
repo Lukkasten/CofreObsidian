@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-22T16:53:06.715-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-22T16:54:58.253-03:00"}
 ---
 
 # **ASPECTOS GERAIS**
@@ -17,19 +17,19 @@ Participantes: Elber Junior, Gabriella, Hudson
 Data:  22/04/2026
 Anotações do Gemini: 
 
-📌 **PAUTA:**
+**📌 PAUTA:**
 
-1) ~~Distribuição de Lucros Ano 2025~~
-2) ~~Fechamento 1º trimestre ano 2026( Evidence Soluções e Pharmacom SP)~~
-3) ~~IRPF Alex está finalizando Ano 2026/2025~~
-4) ~~Estratégia do Instituto;~~
-5) ~~Atualização sobre o processo de compensação dos PERDCOMPS (Selic);~~
+1) [x] Distribuição de Lucros Ano 2025
+2) [x] Fechamento 1º trimestre ano 2026( Evidence Soluções e Pharmacom SP)
+3) [x] IRPF Alex está finalizando Ano 2026/2025
+4) [x] Estratégia do Instituto;
+5) [x] Atualização sobre o processo de compensação dos PERDCOMPS (Selic);
 
 
 ✍️**PÓS REUNIÃO:**
 
-1) [x] Salvar pasta que está na área trabalho  a pasta no google drive; na pasta dos analistas
-2) [ ] Envia planilha de acompanhamento da **DISTRIBUIÇÃO DOS LUCROS** para o Alex
+1) [x] Salvar pasta que está na área trabalho  a pasta no google drive; na pasta dos analistas;
+2) [ ] Envia planilha de acompanhamento da **DISTRIBUIÇÃO DOS LUCROS** para o Alex;
 3) [ ] Enviar email solicitando a participação em % dos lucros ( Exercício atual e Saldo do Lucro Anterior registrado em ata.);
 4) [ ] Compartilha planilha de distribuição com o Elber Junior;
 5) [ ] Transferir mensalmente o lucro das empresas para a **HOLDING** na sua devida apuração;
