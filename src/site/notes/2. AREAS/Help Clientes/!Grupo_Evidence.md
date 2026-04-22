@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-22T15:35:19.454-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-22T16:53:06.715-03:00"}
 ---
 
 # **ASPECTOS GERAIS**
@@ -28,7 +28,7 @@ Anotações do Gemini:
 
 ✍️**PÓS REUNIÃO:**
 
-1) [ ] Salvar pasta que está na área trabalho  a pasta no google drive; na pasta dos analistas
+1) [x] Salvar pasta que está na área trabalho  a pasta no google drive; na pasta dos analistas
 2) [ ] Envia planilha de acompanhamento da **DISTRIBUIÇÃO DOS LUCROS** para o Alex
 3) [ ] Enviar email solicitando a participação em % dos lucros ( Exercício atual e Saldo do Lucro Anterior registrado em ata.);
 4) [ ] Compartilha planilha de distribuição com o Elber Junior;
