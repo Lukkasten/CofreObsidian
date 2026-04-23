@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-23T13:06:27.645-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-23T13:29:37.255-03:00"}
 ---
 
 # **ASPECTOS GERAIS**
@@ -33,9 +33,15 @@ Anotações do Gemini:
 3) [x] Compartilha planilha de distribuição com o Elber Junior;
 4) [x] Enviar [email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/KtbxLthNTNbDFmJDbmQqsdCznZTZlRxgNB) solicitando a participação em % dos lucros ( Exercício atual e Saldo do Lucro Anterior registrado em ata.);
 5) [x] Transferir **trimestralmente** o lucro das empresas para a **HOLDING** na sua devida apuração; [**tarefa](https://app.gestta.com.br/admin/#/sidebar/task/edit/5cb772d2bb149cc541e01373/details) criada no ONVIO para esse controle**. 
-6) [ ] Parecer relacionado às notas débitos ( Holding x Evidence Soluções X Pharmacom SP)
+6) [ ] Parecer relacionado às notas débitos ( Holding x Evidence Soluções X Pharmacom SP) 
 	1) É possível abater nota débito
 	2) Qual o risco?
+
+**Observações:**
+
+1) Repassado no dia 23/04/2026 para a Gabriella na sala do Hudson**
+2) Gabriella ficou de pesquisar essas informações sobre o item 6 acima
+
 
 
 
