@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-fgw/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-24T13:47:13.363-03:00","updated":"2026-03-30T14:11:47.646-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-fgw/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-24T13:47:13.363-03:00","updated":"2026-04-23T18:00:06.398-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -9,8 +9,20 @@ ___
 [[2. AREAS/Help Clientes/!Dablio Assessoria Imobiliária\|!Dablio Assessoria Imobiliária]] - Simples Nacional - sem movimento
 
 
+# **HISTÓRICO DE CONVERSAS NO WHATSAPP**
 
-##### **HISTÓRICO DE REUNIÕES:**
+____
+==Quinta-feira, 23 Abril 2026==
+ 
+(17:32) Nadson Muniz - 7564: Segue planilha FGW CONSTRUTORA para conhecimento
+
+https://docs.google.com/spreadsheets/d/1TNDdklZfB5rkTS7Qr8_x0tIVC08baDIW/edit?pli=1&gid=587404395#gid=587404395
+(17:59) lucas: obrigado!
+
+__
+
+
+# **HISTÓRICO DE REUNIÕES:**
 ___
 
 
