@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-22T16:54:58.253-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-evidence/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-22T09:10:33.603-03:00","updated":"2026-04-23T13:06:27.645-03:00"}
 ---
 
 # **ASPECTOS GERAIS**
@@ -29,10 +29,10 @@ Anotações do Gemini:
 ✍️**PÓS REUNIÃO:**
 
 1) [x] Salvar pasta que está na área trabalho  a pasta no google drive; na pasta dos analistas;
-2) [ ] Envia planilha de acompanhamento da **DISTRIBUIÇÃO DOS LUCROS** para o Alex;
-3) [ ] Enviar email solicitando a participação em % dos lucros ( Exercício atual e Saldo do Lucro Anterior registrado em ata.);
-4) [ ] Compartilha planilha de distribuição com o Elber Junior;
-5) [ ] Transferir mensalmente o lucro das empresas para a **HOLDING** na sua devida apuração;
+2) [x] Envia planilha de acompanhamento da [**DISTRIBUIÇÃO DOS LUCROS**](https://docs.google.com/spreadsheets/d/12V73aDaPwvMgsXz7FbX7cNPWQmFoiGWs/edit?gid=472608131#gid=472608131) para o Alex; ==compartilhado com o Alex e o Elber Junior==
+3) [x] Compartilha planilha de distribuição com o Elber Junior;
+4) [x] Enviar [email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/KtbxLthNTNbDFmJDbmQqsdCznZTZlRxgNB) solicitando a participação em % dos lucros ( Exercício atual e Saldo do Lucro Anterior registrado em ata.);
+5) [x] Transferir **trimestralmente** o lucro das empresas para a **HOLDING** na sua devida apuração; [**tarefa](https://app.gestta.com.br/admin/#/sidebar/task/edit/5cb772d2bb149cc541e01373/details) criada no ONVIO para esse controle**. 
 6) [ ] Parecer relacionado às notas débitos ( Holding x Evidence Soluções X Pharmacom SP)
 	1) É possível abater nota débito
 	2) Qual o risco?
