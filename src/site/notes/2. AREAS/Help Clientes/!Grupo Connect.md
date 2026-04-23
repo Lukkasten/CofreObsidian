@@ -1,62 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-04-23T13:38:59.812-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-connect/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-23T13:39:25.456-03:00","updated":"2026-04-23T13:40:51.937-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
-
-
-##### **GUIA DARF PIS, COFINS:**
-____
-
-Preencher a planilha 
-
-##### **GUIA DARF IRPJ E CSLL:**
-____
-
-
-##### **CONTÁBIL/FINANCEIRO:**
-___
-
-
-##### **MOVIMENTO FISCAL:**
-____
-
-
-
-##### **MOVIMENTO FOLHA:**
-____
-
-
-##### **DOMINIO LALUR:**
-___
-
-##### **DOMINIO PATRIMONIO:**
-___
-
-
-##### **PRÉ-FECHAMENTO:**
-___
-
-
-##### **FECHAMENTO:**
-___
-
-
+[[2. AREAS/Help Clientes/!Connect Serviços 254\|!Connect Serviços 254]]
+[[2. AREAS/Help Clientes/!Connect Terceirização\|!Connect Terceirização]]
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
-
-##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
-___
-
-
-
-
-_____
 **Reunião  dia 12/03/2026**
 **Participantes:** Joedson, Gleidson, Hudson, Lucas, Raul
 **Horário:** 14:00
@@ -76,6 +31,15 @@ Prazo médio de recebimentos 60 dias
 📌**DADO CIÊNCIA:**
 
 Repassado para o Brayann no dia 12/03/2026  na de reunião. (preenchimento da planilha de pis e cofins, bem como o valor que deve ser considerado de percentual para as abas de pis e cofins sped contribuições)
+
+
+##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
+___
+
+
+
+
+_____
 
 
 
