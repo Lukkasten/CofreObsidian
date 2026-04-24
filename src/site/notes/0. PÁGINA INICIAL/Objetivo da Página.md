@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-04-23T15:30:00.747-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-04-24T17:08:04.867-03:00"}
 ---
 
-
+![Pasted image 20260424170802.png](/img/user/Pasted%20image%2020260424170802.png)
 # **Bem-vindos, membros da equipe contábil!**
 
 
