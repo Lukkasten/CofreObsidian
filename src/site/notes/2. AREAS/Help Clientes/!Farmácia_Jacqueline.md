@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-03-06T16:14:27.937-03:00"}
+{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/farmacia-jacqueline/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-03T09:06:20.043-03:00","updated":"2026-04-27T15:20:01.932-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -15,6 +15,8 @@ ____
 
 ##### **GUIA DARF IRPJ E CSLL:**
 ____
+
+Foi alinhado para apuração de IRPJ e CSLL trimestral da Farmacia Jacqueline (cod 70) que não seguirá o relatório de estoque, será feito por média de CMV (62% aproximadamente)
 
 
 ##### **CONTÁBIL/FINANCEIRO:**
@@ -33,6 +35,9 @@ ____
 ##### **DOMINIO LALUR:**
 ___
 
+Foi alinhado para apuração de IRPJ e CSLL trimestral da Farmacia Jacqueline (cod 70) que não seguirá o relatório de estoque, será feito por média de CMV (62% aproximadamente)
+
+
 ##### **DOMINIO PATRIMONIO:**
 ___
 
@@ -44,6 +49,7 @@ ___
 ##### **FECHAMENTO:**
 ___
 
+Foi alinhado para apuração de IRPJ e CSLL trimestral da Farmacia Jacqueline (cod 70) que não seguirá o relatório de estoque, será feito por média de CMV (62% aproximadamente)
 
 
 

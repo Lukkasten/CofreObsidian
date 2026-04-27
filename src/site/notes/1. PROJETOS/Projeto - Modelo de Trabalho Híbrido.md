@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-projetos/projeto-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T23:37:20.721-03:00","updated":"2025-09-05T10:23:41.847-03:00"}
+{"dg-publish":true,"permalink":"/1-projetos/projeto-modelo-de-trabalho-hibrido/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T23:37:20.721-03:00","updated":"2026-04-27T11:14:45.825-03:00"}
 ---
 
 
 [[3. RECURSOS/GESTÃO INTERNA/Termo de acordo para adesão a trabalho híbrido e ciência das regras e orientações devidas\|Termo de acordo para adesão a trabalho híbrido e ciência das regras e orientações devidas]]
+
 
 #modelo #termo #híbrido
 ## **1. Introdução**
@@ -84,3 +85,40 @@ Cada colaborador será responsável por manter um ambiente adequado de trabalho 
 ## **6. Considerações Finais**
 
 O modelo híbrido será acompanhado continuamente, com ajustes e melhorias baseadas no feedback da equipe e no desempenho geral do escritório. O objetivo é aliar produtividade, qualidade de vida e excelência nos serviços prestados aos nossos clientes.
+
+
+
+**SETOR CONTÁBIL: ESCALA SEMANAL DE REVEZAMENTO**
+
+# ==Brayann==
+
+**Home Office:** Terça e quinta  
+**Presencial:** Segunda, quarta e sexta
+
+==**Patrick**==  
+**Home Office:** Segunda, quarta e sexta  
+**Presencial:** Terça e quinta
+
+**==Gabriel==**  
+**Home Office:** Segunda e sexta  
+**Presencial:** Terça, quarta e quinta
+
+==**Emanuel**==  
+**Home Office:** terça, quinta  
+**Presencial:** segunda, quarta e sexta
+
+==**Amanda Sales**==  
+**Home Office:** segunda, terça e quinta  
+**Presencial:** quarta, sexta
+
+==**Erica**==  
+**Home Office:** terça e quinta  
+**Presencial:** segunda, quarta e sexta
+
+==**Marcos**==  
+**Home Office**: segunda e quarta  
+**Presencial:** terça, quinta e sexta
+
+==**Roberta**==  
+**Home Office:** Segunda, quarta e sexta  
+**Presencial:** Terça e quinta

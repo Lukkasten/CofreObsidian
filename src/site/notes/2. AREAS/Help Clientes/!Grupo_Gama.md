@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-20T11:23:35.041-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-27T09:56:49.694-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
 
 *Empresas do Grupo*
-[[2. AREAS/Help Clientes/!Empreend. Farmacêuticos Gama Cód. 269\|!Empreend. Farmacêuticos Gama Cód. 269]]
-[[2. AREAS/Help Clientes/!Comercial Gama de Medicamentos Ltda 44\|!Comercial Gama de Medicamentos Ltda 44]]
-[[2. AREAS/Help Clientes/!Gama Comercio de Produtos Farmaceuticos\|!Gama Comercio de Produtos Farmaceuticos]]
-[[2. AREAS/Help Clientes/!RL Empreendimentos Farmaceuticos Ltda\|!RL Empreendimentos Farmaceuticos Ltda]]
+[[2. AREAS/Help Clientes/!Empreend. Farmacêuticos Gama Cód. 269\|!Empreend. Farmacêuticos Gama Cód. 269]] - Pindoretama ( Avenida e Central)
+[[2. AREAS/Help Clientes/!Comercial Gama de Medicamentos Ltda 44\|!Comercial Gama de Medicamentos Ltda 44]] - Beberibe e Fortim
+[[2. AREAS/Help Clientes/!Gama Comercio de Produtos Farmaceuticos\|!Gama Comercio de Produtos Farmaceuticos]] - Pacatuba
+[[2. AREAS/Help Clientes/!RL Empreendimentos Farmaceuticos Ltda\|!RL Empreendimentos Farmaceuticos Ltda]] - Cascavel
 
 
 
@@ -17,18 +17,41 @@ ___
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
+_
+# **Reunião**
+Modalidade: Online
+Participantes: Lucas, Rubens, Levy Hudson, Ecaterine, Taisa
+Data: 28/04/2026
+Anotações do Gemini:
+
+🟥 **Assuntos tratados:**
+
+1) Apresentação da Simulação tributária;
+2) Simular colocando a comissão na folha de pagamento e gerando despesas dedutíveis no lucro real;
+
+
+🟩  **Repassado para a equipe:**
+
+⏳
+
+
+
 __
 # **Reunião**
-Modalidade: 
-Participantes: Lucas, Marcus Mota, Hudson, Ecaterine, Taisa
+Modalidade: Presencial
+Participantes: Lucas, Rubens, Levy Hudson, Ecaterine, Taisa
 Data: 08/04/2026
 Anotações do Gemini 
 
+🟥 **Assuntos tratados:**
+
 1 - Sr Rubens irá retornar para agendar uma data para a reunião de fechamento do 1 trimestre ano 2026
-
-
 2 - Fazer Simulação colocando as comissões na folha da prestadora e analisando o aumento  e economia tributária entre o simples x lucro real.
 
+🟩  **Repassado para a equipe:**
+
+
+⏳
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
