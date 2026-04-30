@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-04-17T11:53:51.354-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gomes/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-02T16:30:54.163-03:00","updated":"2026-04-29T16:58:36.224-03:00"}
 ---
 
 **ASPECTOS GERAIS:**
@@ -28,7 +28,8 @@ Anotações do Gemini  [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes
 
 Repassado para a Roberta no dia 10/04/2026
 
-
+Rodolfo - gomes
+AG Neto - 
 
 
 __
