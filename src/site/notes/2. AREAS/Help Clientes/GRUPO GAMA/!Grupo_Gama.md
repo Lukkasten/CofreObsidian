@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-30T12:53:50.394-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-30T16:18:01.022-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -29,13 +29,14 @@ Anexos: [[202604280901_GrupoGama_Claude_Analise_Tributaria_1T2026.pdf]]
 
 
 **ASSUNTOS PRINCIPAIS:**
- - ~~Ficará no prejuizo 1 trimestre 2026~~
+ - Ficará no prejuizo 1 trimestre 2026
  - ~~Criar tarefas no onvio~~
- -  Email geral sobre a mudança de tributação lucas
- - Falar com o Rubens sobre o envio das documentação financeira
+ -  ~~Email geral sobre a mudança de tributação lucas~~
+ - ~~Email - Falar com o Rubens sobre o envio das documentação financeira~~
  - Erica vai registrar os pagamentos no a compensar irpj e csll
  - Brayann fazer a planilha de pis e cofins no lucro real
- - Eu vou as tarefas de irpj e csll
+ - ~~Eu vou gerar as tarefas de irpj e csll~~
+
 
 
 ______

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-dion/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-20T10:51:23.440-03:00","updated":"2025-12-11T15:36:50.284-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-dion/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-20T10:51:23.440-03:00","updated":"2026-05-04T12:26:37.950-03:00"}
 ---
 
 
@@ -14,6 +14,8 @@
 - [x] Cadastrar na planilha de envio de checklist ✅ 2025-01-08
 
 
+
+![Pasted image 20260504122603.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260504122603.png)
 
 
 

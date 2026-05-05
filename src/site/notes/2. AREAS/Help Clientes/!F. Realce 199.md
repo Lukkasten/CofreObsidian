@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-03-26T15:24:44.966-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/f-realce-199/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-22T14:24:53.778-03:00","updated":"2026-04-30T15:32:54.165-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -25,8 +25,9 @@ Deixar o lucro tributável em conformidade com a DRE da [Planilha de Simulação
 ##### **CONTÁBIL/FINANCEIRO:**
 ___
 
-1) Será enviada uma planilha de despesas mensalmente, e os bancos também, faremos o seguintes colocaremos as reconheceremos as despesas direto do caixa. E as saídas do banco para o caixa, conforme combinei com o Ambrósio em reunião no dia 20/02/2026
-2) Não enviará mais documento físico, avisei para o Marcelo, retirei a tarefa do fluxo de recebimento de documento físico.
+1) Será enviada uma planilha de despesas mensalmente, e os bancos também, faremos o seguinte: colocaremos as reconheceremos as despesas direto do caixa. E as saídas do banco para o caixa, conforme combinei com o Ambrósio em reunião no dia 20/02/2026.
+2) 
+3) Não enviará mais documento físico, avisei para o Marcelo, retirei a tarefa do fluxo de recebimento de documento físico.
 
 
 

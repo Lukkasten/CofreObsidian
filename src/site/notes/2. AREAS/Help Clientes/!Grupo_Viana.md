@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-01-28T12:15:36.551-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-05T08:58:42.817-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -12,53 +12,42 @@ ___
 [[2. AREAS/Help Clientes/!Drogaria Leite Viana\|!Drogaria Leite Viana]] - Lucro Presumido
 [[2. AREAS/Help Clientes/!Farmácia Viana\|!Farmácia Viana]] - Lucro Real, a partir da competência Janeiro/2026.
 
+# ==**HISTÓRICO DE REUNIÕES:**==
 
-##### **GUIA DARF PIS, COFINS:**
-____
+---
+
+__
+
+# **Reunião**
+
+Modalidade: Presencial
+Participantes:  Mirella, Lucas, Hudson
+Data: 05/05/2026
+Anotações do Gemini:
+
+Pauta com contador:
+
+1. Agregar as comissões à folha de pagamento???
+2. Possibilidade de parceria entre empresas terceirizadas (grupo Viana x Irandir Júnior)
+3. Terceirização da Energia nas lojas contempladas com energia solar
+4. Emissão NF móveis Drogaria Viana
+5. Esclarecimento objetivo quanto ao débito de impostos à pagar pelo lucro real x necessidade de notas para redução do valor a ser pago
+6. Possibilidade de acrescentar outras atividades nas terceirizadas
 
 
 
-##### **GUIA DARF IRPJ E CSLL:**
-____
+
+📌 **Ações:**
+
+1. 
 
 
-##### **CONTÁBIL/FINANCEIRO:**
+Repassado para a equipe:
+
+
 ___
 
 
-##### **MOVIMENTO FISCAL:**
-____
-
-
-
-##### **MOVIMENTO FOLHA:**
-____
-
-
-
-
-##### **DOMINIO LALUR:**
-___
-
-
-
-
-##### **DOMINIO PATRIMONIO:**
-___
-
-
-##### **PRÉ-FECHAMENTO:**
-___
-
-
-##### **FECHAMENTO:**
-___
-
-
-
-
-##### **HISTÓRICO DE REUNIÕES:**
-___
 
 
 
