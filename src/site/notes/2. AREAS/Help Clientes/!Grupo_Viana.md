@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-05T08:58:42.817-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-05T10:36:20.538-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -25,26 +25,25 @@ Participantes:  Mirella, Lucas, Hudson
 Data: 05/05/2026
 Anotações do Gemini:
 
-Pauta com contador:
+**Pauta com contador:**
 
 1. Agregar as comissões à folha de pagamento???
 2. Possibilidade de parceria entre empresas terceirizadas (grupo Viana x Irandir Júnior)
 3. Terceirização da Energia nas lojas contempladas com energia solar
-4. Emissão NF móveis Drogaria Viana
+4. Emissão NF móveis Drogaria Viana (Sr Marcio vai analisar se poderá ser emitido como nota de serviço)
 5. Esclarecimento objetivo quanto ao débito de impostos à pagar pelo lucro real x necessidade de notas para redução do valor a ser pago
 6. Possibilidade de acrescentar outras atividades nas terceirizadas
 
 
-
-
 📌 **Ações:**
 
-1. 
+1. Agenda reunião no dia 18/06/2026 para apresentar os resultados de Abril/2026 e Maio/2026.
+2. Empresas do Lucro Real.
 
 
 Repassado para a equipe:
 
-
+⏳
 ___
 
 
