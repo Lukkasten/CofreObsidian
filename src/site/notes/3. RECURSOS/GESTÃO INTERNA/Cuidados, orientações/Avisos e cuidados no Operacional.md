@@ -1,8 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-03-05T10:54:37.091-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-06T15:09:34.167-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
+
+____
+ATIVO
+
+
+PASSIVO
+
+
+
+
+**CONFERIR CAPITAL SOCIAL**
+
+Pessoal, foi incluído um novo item no checklist de **Fechamento de Balanço Mensal/Trimestral/Semestral**:
+
+**“Analisar e atualizar possíveis alterações no Capital Social já registrados no Balanço Patrimonial.”**
+
+A partir de agora, durante o fechamento mensal, devemos verificar se houve alguma alteração de capital social no período e confirmar se essa informação já está corretamente refletida no Balanço Patrimonial.
+
+Esse ponto é importante para evitar divergências entre contrato social, registros contábeis e demonstrações contábeis, garantindo mais segurança na entrega do fechamento.
+
+Conto com a atenção de todos na execução desse novo item. ✅
+
+*Enviado via spark e via whatsapp no dia 06/05/2026.*
+_____
 
 ____
 **APLICAÇÕES FINANCEIRAS** – Reforçar as cobranças desses extratos de aplicação e repassar pro analista caso o financeiro não esteja enviando.
@@ -19,6 +43,9 @@ ___
 ____
 **MUTUOS** – Conferencia dos valores de mutuo entre as empresas. Saldo permanecer somente na conta de ativo ou passivo.
 ____
+
+
+
 
 
 
