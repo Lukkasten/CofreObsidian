@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-connect/grupo-connect/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-23T13:39:25.456-03:00","updated":"2026-04-23T13:40:51.937-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-connect/grupo-connect/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-23T13:39:25.456-03:00","updated":"2026-05-05T16:59:22.737-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -7,11 +7,42 @@ ___
 
 [[2. AREAS/Help Clientes/GRUPO CONNECT/!Connect Serviços 254\|!Connect Serviços 254]]
 [[2. AREAS/Help Clientes/GRUPO CONNECT/!Connect Terceirização\|!Connect Terceirização]]
+[[!Connect Empreendimentos\|!Connect Empreendimentos]]
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+.
+.
+.
+.
+.
+.
+**Reunião dia 05/05/2026**  
+**Participantes:** Joedson, Gleidson, Hudson, Lucas
+**Horário:** 14:00  
+**Local:** Control Contabilidade
 
+**⬛ PAUTA:**
+
+1. Connect Serviços - Apresentação dos resultados 1ºT2025 a 1ºT2026
+2. Connect Empreendimentos - Apresentação dos resultados 1ºT2025 a 1ºT2026
+3. Connect Terceirização - Apresentação dos resultados 1ºT2025 a 1ºT2026
+
+
+⬛ **OBSERVAÇÃO:**
+
+
+📌**DADO CIÊNCIA:**
+
+
+.
+.
+.
+.
+.
+.
+______
 **Reunião  dia 12/03/2026**
 **Participantes:** Joedson, Gleidson, Hudson, Lucas, Raul
 **Horário:** 14:00
@@ -31,6 +62,7 @@ Prazo médio de recebimentos 60 dias
 📌**DADO CIÊNCIA:**
 
 Repassado para o Brayann no dia 12/03/2026  na de reunião. (preenchimento da planilha de pis e cofins, bem como o valor que deve ser considerado de percentual para as abas de pis e cofins sped contribuições)
+
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
