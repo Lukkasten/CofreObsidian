@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-06T10:36:42.744-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-06T12:26:12.901-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
 ___
-
 
 [[2. AREAS/Help Clientes/GRUPO VIANA/!Drogaria Cariri 1\|!Drogaria Cariri 1]] - Lucro Real
 [[Drogaria Cariri 2\|Drogaria Cariri 2]] - Lucro Real
@@ -20,8 +19,8 @@ __
 
 # **Reunião**
 
-Modalidade: Presencial
-Participantes:  Mirella, Marcio, Lucas, Hudson, ECaterine
+**Modalidade:** Presencial
+Participantes:  Mirella, Marcio, Lucas, Hudson, Ecaterine
 Data: 05/05/2026
 Anotações do Gemini:
 
@@ -35,15 +34,15 @@ Anotações do Gemini:
 6. Possibilidade de acrescentar outras atividades nas terceirizadas
 
 
-🟦 **Ações:**
+🟩 **Ações:**
 
-1. Agenda reunião no dia 18/06/2026 para apresentar os resultados de Abril/2026 e Maio/2026.
+1. Agenda reunião no dia 18/06/2026 para apresentar os resultados de Abril/2026 e Maio/2026, das empresas do lucro real.
 2. Empresas do Lucro Real irão precisar despesas adicionais para permanecerem viável no LUCRO REAL, isso foi tratado em reunião com o cliente, estão cientes, conforme o relatório de [[analise_DRE_1T2026.pdf]]
 
 
-**🟦 Repassado para a equipe:**
+**🟩 Repassado para a equipe:**
 
-Repassado para a Roberta na sala de reunião individual no dia 06/05/2026, o foco principal foi as alterações a serem feitas na DRE, prolabore, etc.
+Repassado para a [[2. AREAS/Help Interno/!Roberta\|!Roberta]] na sala de reunião individual no dia 06/05/2026, o foco principal foi as alterações a serem feitas na DRE, prolabore, etc.
 
 A [[2. AREAS/Help Interno/!Roberta\|!Roberta]] vai fazer as devidas alterações conforme DRE abaixo:
 
