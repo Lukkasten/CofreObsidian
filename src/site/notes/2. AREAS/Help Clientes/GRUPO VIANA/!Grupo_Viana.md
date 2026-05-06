@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-06T10:22:45.459-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-viana/grupo-viana/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-17T15:18:52.679-03:00","updated":"2026-05-06T10:36:42.744-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -35,13 +35,13 @@ Anotações do Gemini:
 6. Possibilidade de acrescentar outras atividades nas terceirizadas
 
 
-📌 **Ações:**
+🟦 **Ações:**
 
 1. Agenda reunião no dia 18/06/2026 para apresentar os resultados de Abril/2026 e Maio/2026.
-2. Empresas do Lucro Real.
+2. Empresas do Lucro Real irão precisar despesas adicionais para permanecerem viável no LUCRO REAL, isso foi tratado em reunião com o cliente, estão cientes, conforme o relatório de [[analise_DRE_1T2026.pdf]]
 
 
-Repassado para a equipe:
+**🟦 Repassado para a equipe:**
 
 Repassado para a Roberta na sala de reunião individual no dia 06/05/2026, o foco principal foi as alterações a serem feitas na DRE, prolabore, etc.
 
@@ -52,6 +52,11 @@ A [[2. AREAS/Help Interno/!Roberta\|!Roberta]] vai fazer as devidas alterações
 [[D Viana Ltda - Análise Vertical do D. R. E. 1º trimestre ano 2026.pdf]]
 [[D Caririr 2 - Análise Vertical do D. R. E. 1º Trimestre ano 2026.pdf]]
 [[analise_DRE_1T2026.pdf]]
+
+
+
+_______
+
 
 
 ____
