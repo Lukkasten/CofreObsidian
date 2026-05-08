@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-connect/grupo-connect/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-23T13:39:25.456-03:00","updated":"2026-05-05T16:59:22.737-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-connect/grupo-connect/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-23T13:39:25.456-03:00","updated":"2026-05-06T16:51:14.885-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -32,9 +32,11 @@ ___
 
 ⬛ **OBSERVAÇÃO:**
 
+06/05/2026 Foi incluído no checklist da tarefa de [[3. RECURSOS/FISCAL/Perdcomps/PERCOMP WEB\|PERCOMP WEB]] o item de envio do saldo em IRPJ E CSLL a compensar após as compensações para o Joedson.
 
 📌**DADO CIÊNCIA:**
 
+06/05/2026 - Repassado para o Brayann
 
 .
 .

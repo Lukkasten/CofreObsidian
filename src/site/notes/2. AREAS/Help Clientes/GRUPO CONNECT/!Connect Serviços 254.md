@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-connect/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-04-23T13:38:59.812-03:00"}
+{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/grupo-connect/connect-servicos-254/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-01T14:16:04.367-03:00","updated":"2026-05-08T13:44:37.749-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**

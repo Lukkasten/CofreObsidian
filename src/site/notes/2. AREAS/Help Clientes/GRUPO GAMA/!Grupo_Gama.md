@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-04-30T16:18:01.022-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-05-06T15:51:09.038-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -10,6 +10,14 @@ ___
 [[2. AREAS/Help Clientes/GRUPO GAMA/!Comercial Gama de Medicamentos Ltda 44\|!Comercial Gama de Medicamentos Ltda 44]] - Beberibe e Fortim
 [[2. AREAS/Help Clientes/GRUPO GAMA/!Gama Comercio de Produtos Farmaceuticos\|!Gama Comercio de Produtos Farmaceuticos]] - Pacatuba
 [[2. AREAS/Help Clientes/!RL Empreendimentos Farmaceuticos Ltda\|!RL Empreendimentos Farmaceuticos Ltda]] - Cascavel
+
+**Demais empresas sem contábil**
+
+Com. Atacadista, Varejista e Importador de Artigos Adultos e Infantis	63.221.992/0001-05
+Farmácia Guaiuba 01.667.247/0001-29
+LL Comercio de Produtos Farmaceuticos 41.421.363/0001-88
+R_R Empreendimentos Farmaceuticos	14.919.907/0001-63
+
 
 
 [[Ciclo Operacional.jpeg]]

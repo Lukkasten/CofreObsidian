@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-06T15:09:34.167-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-06T15:14:41.853-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
@@ -25,7 +25,7 @@ Esse ponto é importante para evitar divergências entre contrato social, regist
 
 Conto com a atenção de todos na execução desse novo item. ✅
 
-*Enviado via spark e via whatsapp no dia 06/05/2026.*
+==*Enviado via spark e via whatsapp no dia 06/05/2026.*==
 _____
 
 ____
