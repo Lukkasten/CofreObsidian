@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/prioridade-seguranca/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-11T15:15:00.441-03:00","updated":"2025-09-23T09:47:56.901-03:00"}
+{"dg-publish":true,"Regime Tributário":"Lucro Real Mensal","permalink":"/2-areas/help-clientes/prioridade-seguranca/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-11T15:15:00.441-03:00","updated":"2026-05-11T10:17:34.876-03:00"}
 ---
 
 

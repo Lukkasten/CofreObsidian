@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/afdc-distribuidora/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-29T14:28:12.072-03:00","updated":"2026-05-08T17:03:58.844-03:00"}
+{"dg-publish":true,"Regime Tributário":"Lucro Real Trimestral","permalink":"/2-areas/help-clientes/afdc-distribuidora/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-29T14:28:12.072-03:00","updated":"2026-05-08T18:02:35.162-03:00"}
 ---
 
 **REUNIÃO AFDC DISTRIBUIDORA**
@@ -39,11 +39,16 @@ Empresa no LUCRO REAL
 
 ---
 
-##### **PRÉ-FECHAMENTO:**
+##### **PRÉ-FECHAMENTO BALANÇO:**
 
 ---
 
-##### **FECHAMENTO:**
+##### **FECHAMENTO DE BALANÇO:**
+
+
+1) Após o fechamento do Balanço enviar a DRE Analítica para o cliente, no caso da AFDC deve ser enviado para a Lanne.
+2) A DRE deve ser enviada por dentro da tarefa do ONVIO - Fechamento de Balanço.
+
 
 ---
 
@@ -68,7 +73,7 @@ Enviar mensalmente a DRE para a Lanne;
 
 **♻️ Pós reunião:**
 
-Repassado para a Roberta
+Repassado para a Roberta no dia 08/05/2026.
 
 ---
 
