@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20260511150048.png|1092](/img/user/Pasted%20image%2020260511150048.png)
+![Pasted image 20260511150048.png|1092](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260511150048.png)
 
 
 # **Bem-vindos, membros da equipe contábil!**
