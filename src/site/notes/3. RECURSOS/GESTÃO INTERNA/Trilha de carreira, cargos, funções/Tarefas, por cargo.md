@@ -38,7 +38,7 @@
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/IBGE\|IBGE]]
 - [[Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]
-- [[Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
+- [[3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
 
 
 **SUPERVISOR CONTÁBIL**
