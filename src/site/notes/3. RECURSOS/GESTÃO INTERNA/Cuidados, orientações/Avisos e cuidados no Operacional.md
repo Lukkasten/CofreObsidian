@@ -1,15 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-06T15:14:41.853-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-13T10:37:20.448-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
 
 ____
-ATIVO
 
 
-PASSIVO
 
+
+**ERROS DE CONCORDÂNCIA E GRAMATICAL**
+
+Pessoal, bom dia!
+
+Quero reforçar um ponto importante sobre a revisão das nossas comunicações com os clientes.
+
+**Erros gramaticais, de concordância,** digitação ou falta de atenção na escrita podem parecer pequenos no dia a dia, mas impactam diretamente a credibilidade do nosso trabalho. A forma como escrevemos transmite profissionalismo, cuidado, organização e segurança para o cliente.
+
+Antes de enviar qualquer mensagem, e-mail, relatório, orientação ou documento, façam uma revisão rápida do conteúdo. Observem se a frase está clara, se as palavras estão corretas, se há concordância adequada e se a mensagem passa exatamente aquilo que queremos comunicar.
+
+A rotina é corrida, sabemos disso, mas a atenção aos detalhes faz diferença na qualidade da entrega e na imagem do setor contábil.
+
+Vamos acompanhar esse ponto com mais cuidado e buscar melhoria contínua nas nossas comunicações.
+
+
+==*Enviado via spark e via whatsapp no dia 13/05/2026.*==
 
 
 
