@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-05-11T15:01:59.988-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-pagina-inicial/objetivo-da-pagina/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-03T22:08:34.152-03:00","updated":"2026-05-14T15:13:52.276-03:00"}
 ---
 
 
@@ -17,7 +17,8 @@ Com base na minha experiência acumulada ao longo dos anos, identifiquei que as 
 2. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Fiscal e Patrimonial\|Fiscal e Patrimonial]] 
 3. [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Integrar Conferir - Folha\|Integrar Conferir - Folha]]
 4. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Pré-fechamento e Fechamento Contábil\|Pré-fechamento e Fechamento Contábil]] 
-5. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
+5. [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
+6. [[3. RECURSOS/GESTÃO INTERNA/Classificação das tarefas/Tarefas adicionais\|Tarefas adicionais]]
 
 Muito importante: [[3. RECURSOS/GESTÃO INTERNA/Cuidados, orientações/Avisos e cuidados no Operacional\|Avisos e cuidados no Operacional]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-13T10:37:20.448-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/cuidados-orientacoes/avisos-e-cuidados-no-operacional/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-22T10:45:32.074-03:00","updated":"2026-05-13T11:05:15.773-03:00"}
 ---
 
 **PONTOS DE ALINHAMENTO - FECHAMENTOS CONTABEIS**
@@ -9,7 +9,7 @@ ____
 
 
 
-**ERROS DE CONCORDÂNCIA E GRAMATICAL**
+# **ERROS DE CONCORDÂNCIA E GRAMATICAL**
 
 Pessoal, bom dia!
 
@@ -28,7 +28,7 @@ Vamos acompanhar esse ponto com mais cuidado e buscar melhoria contínua nas nos
 
 
 
-**CONFERIR CAPITAL SOCIAL**
+# **CONFERIR CAPITAL SOCIAL**
 
 Pessoal, foi incluído um novo item no checklist de **Fechamento de Balanço Mensal/Trimestral/Semestral**:
 
@@ -42,6 +42,8 @@ Conto com a atenção de todos na execução desse novo item. ✅
 
 ==*Enviado via spark e via whatsapp no dia 06/05/2026.*==
 _____
+
+
 
 ____
 **APLICAÇÕES FINANCEIRAS** – Reforçar as cobranças desses extratos de aplicação e repassar pro analista caso o financeiro não esteja enviando.

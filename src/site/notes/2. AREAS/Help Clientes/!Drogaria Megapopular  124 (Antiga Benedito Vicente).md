@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/drogaria-megapopular-124-antiga-benedito-vicente/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-29T15:43:42.898-03:00","updated":"2025-12-30T13:50:16.621-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/drogaria-megapopular-124-antiga-benedito-vicente/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-29T15:43:42.898-03:00","updated":"2026-05-13T15:34:59.826-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -61,6 +61,12 @@ Até breve!
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
+
+🔴
+(14:54) Gabriella Nogueira - 7582: https://1drv.ms/x/c/E1A94AE5248F2D12/EfsWtMICrxtMkFBoFZVEp2UBZKKSnjBkruIrORYC6qmc_w
+(14:55) Gabriella Nogueira - 7582: Planilha da DROGARIA MAISMEGAPOPULAR LTDA
+(15:24) lucas: LUNAR - PROMPT ANÁLISE FINANCEIRA
+
 
 
 
