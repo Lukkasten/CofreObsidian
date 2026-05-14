@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/ecd-e-ecf/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:08.229-03:00","updated":"2026-05-14T15:13:59.888-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/gestao-interna/padrao-tarefas/ecd-e-ecf/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-01T11:50:08.229-03:00","updated":"2026-05-14T15:32:37.855-03:00"}
 ---
 
 **ROTEIRO DE INSTRUÇÃO SPED CONTABIL**
@@ -9,22 +9,23 @@
 1 - Verificar se as contas estão todas referenciadas:
 
 Caminho: Utilitários – Vincular plano referencial as contas contábeis.
-
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![1 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/1%20imagem.png)
 
 2 – Verificar os parâmetros da empresa:
 
 Caminho: Controle – Parametros – aba informativos
+![2 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/2%20imagem.png)
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
 Atentar nessa opção de identificador do plano de contas, podendo ser por classificação ou código.
+![3 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/3%20imagem.png)
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![4 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/4%20imagem.png)
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+
+![5 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/5%20imagem.png)
+
 
 Verificar se esses parâmetros estão em conformidade com cada empresa.
 
@@ -46,25 +47,28 @@ Atentar ao período escolhido, pasta onde será salvo o arquivo e verificar as i
 
 Aba: Outros dados – Ter atenção as informações contidas, se estão em conformidade com a empresa.
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![6 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/6%20imagem.png)
+
 
 Aba: Outros dados
 
 Atenção aos parâmetros em destaque:
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![7 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/7%20imagem.png)
 
 Atentar ao número do livro, verificar no recibo da ECD anterior:
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![8 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/8%20imagem.png)
+
 
 Marcas as opções Balanço patrimonial e DRE:
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+
+![9 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/9%20imagem.png)
 
 Marcar essas três opções nos parâmetros e informar o período anterior (colocar ultimo trimestre caso seja lucro presumido ou real trimestral; colocar o ano todo caso seja lucro real anual).
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![10 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/10%20imagem.png)
 
 Pronto, agora e somente colocar ok e o arquivo será gerado.
 
@@ -72,7 +76,7 @@ Pronto, agora e somente colocar ok e o arquivo será gerado.
 
 Baixar o programa ECD e importar o arquivo gerado no modulo contábil:
 
-![](file:///C:/Users/CONTRO~1.CON/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![11 imagem.png](/img/user/3.%20RECURSOS/ROTEIRO%20-%20FOTOS%20ECD/11%20imagem.png)
 
 **Baixar a ECD anterior. (baixar pelo programa Receita BX)**
 
