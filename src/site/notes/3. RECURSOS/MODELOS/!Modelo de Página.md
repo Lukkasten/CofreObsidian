@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:11:05.665-03:00","updated":"2026-04-17T10:53:44.006-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:11:05.665-03:00","updated":"2026-05-15T15:30:22.131-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -49,23 +49,45 @@ ___
 ___
 
 ____
-# **Reunião**
-**Modalidade:** 
-**Participantes:**
-**Data:** 
+# **Reunião **
+**Modalidade:**  
+**Participantes:** 
+**Data:**  
+
+
+```
+📌 PAUTA DA REUNIÃO:
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+```
 
 
 
-📌 **Pauta:**
+```
+♻️PÓS REUNIÃO:
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
 
-
-
-**♻️ Pós reunião:**
-
-
-______
-
+```
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
-___
+
+
+
+
+
+
+

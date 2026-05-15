@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-03-02T10:59:21.709-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-15T13:54:43.472-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -79,6 +79,34 @@ ___
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
 ___
 
+____
+# **DIA 15/05/2026**
+
+@Patrick Control e @Gabriel Alves , boa tarde!
+
+Vamos realizar o retroativo das empresas Prioridade Segurança e Prioridade Serviços, referente às competências Fevereiro e Março/2026.
+
+Além das informações da competência de Abril/2026, também precisaremos solicitar toda a documentação referente às competências citadas acima.
+
+Gabriel, por favor, entre em contato com o financeiro para solicitar as informações dos períodos anteriores, incluindo:
+
+* Extratos bancários;
+* Contas pagas;
+* Relatórios financeiros;
+* Relatórios da folha de pagamento;
+* Demais documentos necessários para conferência.
+
+Lembrando que a folha de pagamento não é feita conosco, então precisamos desses relatórios para garantir uma análise completa.
+
+A Samara, do setor, ficará responsável por fazer a integração do fiscal referente aos meses citados acima. Já foi alinhado com a Samara e com o Raul que, até terça-feira da próxima semana, essa etapa estará concluída.
+
+Patrick, após a conclusão dos registros, conferências e integração fiscal, as apurações de PIS e COFINS deverão ser revisadas. Além disso, os impostos federais, PIS, COFINS, IRPJ e CSLL, serão reanalisados e, se necessário, retificados, pois a apuração anterior não foi realizada de forma assertiva pela contabilidade.
+
+Conto com a colaboração de todos.
+
+Qualquer dúvida, fico à disposição!
+
+___
 
 
 
