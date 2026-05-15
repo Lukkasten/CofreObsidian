@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/empresas/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-05-15T15:58:27.570-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-gama/empresas/grupo-gama/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09T00:26:43.739-03:00","updated":"2026-05-15T16:03:42.557-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -29,14 +29,16 @@ _______
 # **Reunião 
 
 **Modalidade:**  Online
-**Participantes:** Sr. Rubens, Adrian, e Levi
+**Participantes:** Lucas Rebouças, Sr. Rubens, Adrian, e Levi.
 **Data:**  15/05/2026
 **Anotações do Gemini**: [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião iniciada às 2026_05_15 13_57 GMT-03_00 - Anotações do Gemini\|Reunião iniciada às 2026_05_15 13_57 GMT-03_00 - Anotações do Gemini]]
+
+
 
 ```
 📌 PAUTA DA REUNIÃO:
   ├── → Análise das lojas ( LL Empreendimentos, RR Empreendimentos e Farmácia Guaiuba) no Lucro Real.
-  ├── → 
+  ├── → Arquivos da apresentação estão salvos na pasta de simulação tributária. (Google Drive)
   ├── → 
   ├── → 
   ├── → 
