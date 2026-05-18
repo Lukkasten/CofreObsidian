@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:11:05.665-03:00","updated":"2026-05-15T15:30:22.131-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/modelos/modelo-de-pagina/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-11T17:11:05.665-03:00","updated":"2026-05-18T11:43:18.140-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -49,7 +49,7 @@ ___
 ___
 
 ____
-# **Reunião **
+# **Reunião 
 **Modalidade:**  
 **Participantes:** 
 **Data:**  
