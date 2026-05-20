@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-07T09:10:44.993-03:00","updated":"2026-05-18T12:04:00.819-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-excelente-popular/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-07T09:10:44.993-03:00","updated":"2026-05-19T14:03:13.378-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -44,17 +44,17 @@ ___
 
 ____
 # **REUNIÃO**
-Modalidade:**  Presencial
+Modalidade:  Presencial
 **Participantes:** Roberto, Hudson, Henrique, Lucas
 **Data:**  19/05/2026
-**Anexo:** [[1T2026 - Dashboard_excelent_farma_tributario.html]]
+**Anexo:** [[1T2026_Dashboard_Excelent_Farma_Tributario_ATUALIZADO.html]]
 
 
 ```
 📌 PAUTA DA REUNIÃO:
   ├── → Análise dos resultados do 1º Trimestre Ano 2026
   ├── → Extrato bancário Itaú - Unificação do pagamentos (sispag boletos)
-  ├── → 
+  ├── → Consolidado + Sintético
   ├── → 
 
 ```

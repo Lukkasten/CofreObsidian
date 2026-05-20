@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/criacao-dashboard-e-analise-de-dados-financeiros/prompt-comparativo-tributario-real-x-presumido-junto-com-analise-da-dre-comercio/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-05-18T10:58:48.730-03:00","updated":"2026-05-18T14:07:51.226-03:00"}
+{"dg-publish":true,"permalink":"/3-recursos/ia-inteligencia-artificial/criacao-dashboard-e-analise-de-dados-financeiros/prompt-comparativo-tributario-real-x-presumido-junto-com-analise-da-dre-comercio/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-05-18T10:58:48.730-03:00","updated":"2026-05-19T08:53:41.254-03:00"}
 ---
 
 **OBJETIVO:**
@@ -36,7 +36,7 @@ Destaque a conta **"Outras Despesas"** separadamente. Ela representa ajustes con
 Impostos a comparar: PIS, COFINS, IRPJ e CSLL.
 
 - **PIS e COFINS no Lucro Real:** use os valores da planilha anexada (mensal e trimestral)
-- **PIS e COFINS no Lucro Presumido:** calcule com alíquotas cumulativas (0,65% e 3%) sobre a receita bruta
+- **PIS e COFINS no Lucro Presumido:** calcule com alíquotas cumulativas (0,65% e 3%) sobre a receita bruta, outro detalhe no pis e cofins do presumido aplique o % de 85% sobre o faturamento de monofásica e subtraia o resultado do faturamento bruto, esse resultado será a base de cálculo do pis e cofins no lucro presumido 
 - **IRPJ e CSLL no Lucro Real:** calcule com base no lucro tributável da DRE (15% + adicional 10% para IRPJ; 9% para CSLL)
 - **IRPJ e CSLL no Lucro Presumido:** aplique os percentuais de presunção sobre a receita (8% comércio para IRPJ, 12% para CSLL), depois as alíquotas nominais
 
