@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/4-arquivos/excalidraw-2/prompt-marketing-vender/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-11T08:59:53.217-03:00","updated":"2026-03-11T08:33:07.754-03:00"}
+{"dg-publish":true,"permalink":"/4-arquivos/excalidraw-2/prompt-marketing-vender/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-11T08:59:53.217-03:00","updated":"2026-05-22T09:58:57.524-03:00"}
 ---
 
 #prompt 
 
 Próximo....
-[[3. RECURSOS/IA - INTELIGENCIA ARTIFICIAL/Prompts/Prompt - montar apresentação\|Prompt - montar apresentação]]
+[[Prompt - montar apresentação 1\|Prompt - montar apresentação 1]]
 
 
 ----
