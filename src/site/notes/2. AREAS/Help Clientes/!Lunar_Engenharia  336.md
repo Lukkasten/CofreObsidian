@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia-336/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-03-03T15:41:31.818-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia-336/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-05-22T15:17:03.545-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -67,7 +67,40 @@ ___
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
 
+# **Reunião 
+**Modalidade:**  Presencial
+**Participantes:** Layla, Emanuel, Hudson, Lucas e Gabriella
+**Data:**  22/05/2026
+
+
+```
+📌 PAUTA DA REUNIÃO:
+  ├── → Análise gerencial elaborada pelo cliente;
+  ├── → Possibilidade de migrar para o lucro real ano 2027;
+  ├── → 
+  ├── → 
+  ├── → 
+
+```
+
+```
+♻️PÓS REUNIÃO:
+  ├── → Agenda reunião para sexta 29/05/2026. para apresentar;
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+ 
+
+```
+
+
+
 ___
+
+
+
+
 
 **Reunião** 03/03/2026
 **Participantes:** Hudson, Ecaterine, Lucas, Emanuel (Online)
