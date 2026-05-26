@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-05-26T18:37:01.605-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-05-26T18:37:39.780-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -20,7 +20,7 @@ Anotações do Gemini: [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião
 
 ```
 📌 PAUTA DA REUNIÃO:
-  ├── → 
+  ├── → Dar início ao processo de elaborar o retroativo ano 2025
   ├── → 
   ├── → 
   ├── → 
