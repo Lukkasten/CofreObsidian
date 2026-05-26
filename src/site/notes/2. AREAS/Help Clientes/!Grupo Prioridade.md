@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-22T16:06:44.578-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-26T13:38:15.062-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -10,6 +10,22 @@ ___
 EMPRESAS DO GRUPO:
 [[2. AREAS/Help Clientes/!Prioridade_Serviços\|!Prioridade_Serviços]] - Lucro Real
 [[2. AREAS/Help Clientes/!Prioridade_Segurança\|!Prioridade_Segurança]] - Lucro Real
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -55,26 +71,55 @@ ___
 
 
 
-SAÍDA DA CONTROL
-
-
-
-![📁](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4c1/32.png) **DEPARTAMENTO CONTÁBIL**
-
-1. ( ) ![🛑](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6d1/32.png) Balancete analítico do exercício atual (até data de entrada), assinado
-2. ( ) ![🛑](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6d1/32.png) Balancete analítico do exercício anterior, assinado
-3. ( ) ![🛑](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6d1/32.png) Balanço Patrimonial e DRE do exercício anterior, assinados
-4. ( ) ![🛑](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6d1/32.png) Se Lucro Real: e-LALUR e e-LACS (exercício corrente e anterior, via ECF)
-5. ( ) ![🛑](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6d1/32.png) Se Lucro Presumido: Apuração do IRPJ e CSLL (exercício corrente e anterior)
-6. ( ) ![⚠️](https://fonts.gstatic.com/s/e/notoemoji/17.0/26a0_fe0f/32.png) Relação do Imobilizado (com datas e valores de aquisição/depreciação)
-7. ( ) ![⚠️](https://fonts.gstatic.com/s/e/notoemoji/17.0/26a0_fe0f/32.png) Financiamentos / Empréstimos em andamento
-8. ( ) ![📄](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4c4/32.png) Livro Diário e Livro Razão
-
-
 
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+# **Reunião 
+
+**Modalidade:**  Presencial
+**Participantes:** Ricardus, Hudson, Raul e Lucas
+**Data:**  26/05/2026
+
+
+```
+📌 PAUTA DA REUNIÃO:
+  ├── → Prioridade Segurança - Cálculo de PIS e COFIS Competência 04/2026
+  ├── → Revisar o 4 trimestre ano 2025 da (Prioridade Segurança e Serviços)
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+```
+
+
+
+```
+♻️PÓS REUNIÃO:
+  ├── → Prior. Seg/Serv - Recalcular pis e cofins (02/2026 e 03/2026)
+  ├── → Prioridade Seg/Serv - Revisar a DRE ( 4º Trimestre Ano 2025)
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+
+```
+
+
+
+**Passo a Passo  - Prioridade Segurança e Serviços**
+
+1) Revisar o 4º Trimestre Ano 2025 ( Patrick)
+2) Recalcular PIS e COFINS  (Patrick)
+3) Escriturar o fiscal, folha e financeiro ( Gabriel)
+4) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Segurança ( Trimestral) ( Patrick)
+5) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Serviços (Mensal) ( Patrick)
+6) Reenvia os impostos recalculados. (Patrick)
 
 
 
