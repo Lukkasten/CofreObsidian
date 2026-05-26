@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-26T13:38:15.062-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-26T14:02:26.443-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -8,8 +8,8 @@ ___
 [EMAIL DE SAÍDA DO GRUPO](https://mail.google.com/mail/u/0/#all/DRGVkzgsjnQVtbPvjTdpMJNSHklPClkrWLcXmrGG)
 
 EMPRESAS DO GRUPO:
-[[2. AREAS/Help Clientes/!Prioridade_Serviços\|!Prioridade_Serviços]] - Lucro Real
-[[2. AREAS/Help Clientes/!Prioridade_Segurança\|!Prioridade_Segurança]] - Lucro Real
+[[2. AREAS/Help Clientes/!Prioridade_Serviços\|!Prioridade_Serviços]] - Lucro Real Trimestral
+[[2. AREAS/Help Clientes/!Prioridade_Segurança\|!Prioridade_Segurança]] - Lucro Real Mensal
 
 
 
@@ -112,14 +112,14 @@ ___
 
 
 
-**Passo a Passo  - Prioridade Segurança e Serviços**
+# **Passo a Passo  - Prioridade Segurança e Serviços**
 
-1) Revisar o 4º Trimestre Ano 2025 ( Patrick)
-2) Recalcular PIS e COFINS  (Patrick)
-3) Escriturar o fiscal, folha e financeiro ( Gabriel)
-4) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Segurança ( Trimestral) ( Patrick)
-5) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Serviços (Mensal) ( Patrick)
-6) Reenvia os impostos recalculados. (Patrick)
+1) Revisar o 4º Trimestre Ano 2025 ==( Patrick)==
+2) Calcular PIS e COFINS  ==(Patrick)==
+3) Escriturar o fiscal, folha e financeiro ( ==Gabriel)==
+4) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Segurança ( Trimestral) ==( Patrick)==
+5) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Serviços (Mensal) ==( Patrick)==
+6) Reenvia os impostos recalculados. ==(Patrick)==
 
 
 

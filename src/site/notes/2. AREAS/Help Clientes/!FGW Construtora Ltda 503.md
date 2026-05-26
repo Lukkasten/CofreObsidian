@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/fgw-construtora-ltda-503/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-10T14:28:14.672-03:00","updated":"2026-03-30T13:54:09.101-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/fgw-construtora-ltda-503/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-03-10T14:28:14.672-03:00","updated":"2026-05-26T14:53:43.671-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -12,9 +12,8 @@ A partir de Março/2026
 ___
 
 
-
 __
-**Reunião de Migração**
+# **Reunião de Migração**
 Data: 24/03/2026
 Local: 13º Andar aqui no prédio
 Participantes: Mayara, Maynara, Almeida, Raul, sócios da empresa (Sr Walder, Sr Felipe, Sra Carolina)

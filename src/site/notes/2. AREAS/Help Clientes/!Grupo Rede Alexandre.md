@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-04-22T11:01:10.463-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-rede-alexandre/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-11T15:11:32.681-03:00","updated":"2026-05-26T18:37:01.605-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -10,6 +10,41 @@ ___
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
+
+
+# **Reunião 
+**Modalidade:**  Online
+**Participantes:** Lucas, Luziana, Luciana, Alex e Matheus
+**Data:**  26/05/2026
+Anotações do Gemini: [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião - Grupo Alexandre - 2026_05_26 17_34 GMT-03_00 - Anotações do Gemini\|Reunião - Grupo Alexandre - 2026_05_26 17_34 GMT-03_00 - Anotações do Gemini]]
+
+```
+📌 PAUTA DA REUNIÃO:
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+```
+
+
+
+```
+♻️PÓS REUNIÃO:
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+
+
+
 
 _____
 # **Reunião Cliente**
