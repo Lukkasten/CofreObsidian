@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-27T11:46:23.524-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-27T13:22:51.458-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -130,8 +130,8 @@ ______
 		🟥 Prioridade serviços*(Gabriel)*
 
 	**Folha**
-		🟨 Prioridade Segurança ( Aguardando) Lucas 
-		🟨 Prioridade serviços ( Aguardando) Lucas
+		🟨 Prioridade Segurança ( Aguardando) Lucas Email enviado
+		🟨 Prioridade serviços ( Aguardando) Lucas Email enviado
 
 	**Financeira** 
 		🟩 Prioridade Segurança 
