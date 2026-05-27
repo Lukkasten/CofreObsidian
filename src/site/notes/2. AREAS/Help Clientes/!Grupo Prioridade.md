@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-27T11:39:34.678-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-27T11:46:23.524-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -113,42 +113,44 @@ ___
 
 
 # **Passo a Passo para atualizar a escrituração contábil do Grupo Prioridade - Prioridade Segurança e Serviços**
+Em conjunto com o Gabriel Alves e Patrick
 
-
-**Etapa 1 - PIS E COFINS**
+# **Etapa 1 - PIS E COFINS**
 _____
-1) ~~Calcular PIS e COFINS Fevereiro/2026 e Março/2026  ==(Patrick)
-2) ~~Reenvia os impostos recalculados pis e cofins Fevereiro/2026 e Março/2026. ==(Patrick)
-3) Enviar por email as planilhas atualizadas para a Samara. Retificações das obrigações.
-4) PIS e  COFINS  - Provisão dos impostos (Gabriel)
+		🟩 Calcular PIS e COFINS Fevereiro/2026 e Março/2026  (Patrick)
+		🟩 Reenvia os impostos recalculados pis e cofins 02/2026 e 03/2026. (Patrick)
+		🟩 Enviar por email as planilhas atualizadas para a Samara fiscal
+		🟥 PIS e  COFINS  - Provisão dos impostos (Gabriel)
 
-**Etapa 2 - Escrituração Contábil e financeira**
+# **Etapa 2 - Escrituração Contábil e financeira**
 ______
-1) Escriturar o fiscal, folha e financeiro ( ==Gabriel)==
+- ...
 	**Fiscal**
-		Prioridade Segurança 🟩
-		Prioridade serviços - Fazer *(Gabriel)* 🟥 
+		🟩 Prioridade Segurança
+		🟥 Prioridade serviços*(Gabriel)*
 
 	**Folha**
-		Prioridade Segurança - Fazer ( Aguardando) Lucas 🟨 
-		Prioridade serviços - Fazer ( Aguardando) Lucas 🟨 
+		🟨 Prioridade Segurança ( Aguardando) Lucas 
+		🟨 Prioridade serviços ( Aguardando) Lucas
 
 	**Financeira** 
-		Prioridade Segurança - Feito! 🟩
-		Prioridade serviços - Fazer ( Gabriel) 🟥
+		🟩 Prioridade Segurança 
+		🟥 Prioridade serviços - Fazer ( Gabriel)
 
-**Etapa 3 - Pré-fechamento**
-	Conciliação
+# **Etapa 3 - Pré-fechamento**
+				  🟥 Conciliação
 ____
-**Etapa 4 - Fechamento e apuração do IRPJ e CSLL**
+# **Etapa 4 - Fechamento e apuração do IRPJ e CSLL**
 ____
-⏳ 
-6) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Segurança (Mensal) ==( Patrick)== - dependendo da folha
-7) Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Serviços (Trimestral) ==( Patrick)== dependendo da folha
+		🟥 Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Segurança (Mensal) ==( Patrick)== - dependendo da folha
+		🟥 Apurar  IRPJ E CSLL do 1 trimestre da Prioridade Serviços (Trimestral) ==( Patrick)== dependendo da folha
 
 
-**Etapa extra - Revisão Ano 2025 🔥 **
-6) 1) Revisar o 4º Trimestre Ano 2025 ==( Patrick)==
+# **Etapa extra - Revisão Ano 2025 🔥
+
+        🟥 Revisar o 4º Trimestre Ano 2025 ==( Patrick)==
+
+
 
 
 
