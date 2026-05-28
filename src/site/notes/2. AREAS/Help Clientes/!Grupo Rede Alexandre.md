@@ -16,7 +16,7 @@ ___
 **Modalidade:**  Online
 **Participantes:** Lucas, Luziana, Luciana, Alex e Matheus
 **Data:**  26/05/2026
-Anotações do Gemini: [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Reunião - Grupo Alexandre - 2026_05_26 17_34 GMT-03_00 - Anotações do Gemini\|Reunião - Grupo Alexandre - 2026_05_26 17_34 GMT-03_00 - Anotações do Gemini]]
+Anotações do Gemini: [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião - Grupo Alexandre - 2026_05_26 17_34 GMT-03_00 - Anotações do Gemini\|Reunião - Grupo Alexandre - 2026_05_26 17_34 GMT-03_00 - Anotações do Gemini]]
 
 ```
 📌 PAUTA DA REUNIÃO:

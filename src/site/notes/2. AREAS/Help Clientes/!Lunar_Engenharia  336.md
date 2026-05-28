@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia-336/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-05-27T14:11:20.561-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/lunar-engenharia-336/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-20T09:39:20.656-03:00","updated":"2026-05-27T16:49:51.417-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -61,14 +61,14 @@ ___
 ##### **FECHAMENTO:**
 ___
 
-**Dia 27/05/2026**
+**Dia 27/05/2026** - Balanço Anual 2025
 
 Foi feito uma ajuste para o Ativo não circulante de R$ 300mil
 
 *D - Outros Adiantamento | Não Circulante*
 *C - Recuperação de Despesas*
 
-Para poder a empresa apresentar um lucro de R$ 150mil médio, para ser apresentado ao chineses ( cientes: Hudson, Brayann e Lucas)
+Para poder a empresa apresentar um lucro de R$ 150mil médio, para ser apresentado aos chineses ( cientes: Hudson, Brayann e Lucas)
 
 
 

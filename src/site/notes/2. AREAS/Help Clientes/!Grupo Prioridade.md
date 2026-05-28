@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-27T13:22:51.458-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-28T10:53:53.319-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -120,14 +120,14 @@ _____
 		🟩 Calcular PIS e COFINS Fevereiro/2026 e Março/2026  (Patrick)
 		🟩 Reenvia os impostos recalculados pis e cofins 02/2026 e 03/2026. (Patrick)
 		🟩 Enviar por email as planilhas atualizadas para a Samara fiscal
-		🟥 PIS e  COFINS  - Provisão dos impostos (Gabriel)
+		🟩 PIS e  COFINS  - Provisão dos impostos (Gabriel)
 
 # **Etapa 2 - Escrituração Contábil e financeira**
 ______
 - ...
 	**Fiscal**
 		🟩 Prioridade Segurança
-		🟥 Prioridade serviços*(Gabriel)*
+		🟩 Prioridade serviços*(Gabriel)*
 
 	**Folha**
 		🟨 Prioridade Segurança ( Aguardando) Lucas Email enviado
@@ -135,7 +135,7 @@ ______
 
 	**Financeira** 
 		🟩 Prioridade Segurança 
-		🟥 Prioridade serviços - Fazer ( Gabriel)
+		🟩 Prioridade serviços - Fazer ( Gabriel)
 
 # **Etapa 3 - Pré-fechamento**
 				  🟥 Conciliação
