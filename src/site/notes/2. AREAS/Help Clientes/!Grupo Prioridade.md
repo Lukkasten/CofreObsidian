@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-28T10:53:53.319-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-prioridade/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-12T16:43:34.397-03:00","updated":"2026-05-28T10:55:14.069-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -136,6 +136,7 @@ ______
 	**Financeira** 
 		🟩 Prioridade Segurança 
 		🟩 Prioridade serviços - Fazer ( Gabriel)
+
 
 # **Etapa 3 - Pré-fechamento**
 				  🟥 Conciliação

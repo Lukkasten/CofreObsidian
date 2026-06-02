@@ -1,6 +1,110 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-23T11:27:53.592-03:00","updated":"2025-07-18T14:11:18.834-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-23T11:27:53.592-03:00","updated":"2026-06-02T15:56:18.833-03:00"}
 ---
+
+##### **ASPECTOS GERAIS:**
+___
+
+
+##### **GUIA DARF PIS, COFINS:**
+____
+
+
+
+##### **GUIA DARF IRPJ E CSLL:**
+____
+
+
+##### **CONTÁBIL/FINANCEIRO:**
+___
+
+
+##### **MOVIMENTO FISCAL:**
+____
+
+
+
+##### **MOVIMENTO FOLHA:**
+____
+
+
+##### **DOMINIO LALUR:**
+___
+
+##### **DOMINIO PATRIMONIO:**
+___
+
+
+##### **PRÉ-FECHAMENTO:**
+___
+
+
+##### **FECHAMENTO:**
+___
+
+
+
+
+##### **HISTÓRICO DE REUNIÕES:**
+___
+
+____
+# **Reunião 
+**Modalidade:**  Online
+**Participantes:** Lucas e Marcos Sena
+**Data:**  02/06/2026
+[[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião online - Marcos Sena - G. SENA - 2026_06_02 15_21 GMT-03_00 - Anotações do Gemini\|Reunião online - Marcos Sena - G. SENA - 2026_06_02 15_21 GMT-03_00 - Anotações do Gemini]]
+
+```
+📌 PAUTA DA REUNIÃO:
+  ├── → Ver como ficaria a empresa com o encerramento do contrato com o Marcos Consultor
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+```
+
+
+```
+♻️PÓS REUNIÃO:
+  ├── → Repassado para a equipe via spark no dia 02/06/2026
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  ├── → 
+  └── → 
+
+```
+
+
+##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![Pasted image 20250718134530.png](/img/user/4.%20ARQUIVOS/Pasted%20image%2020250718134530.png)
 
