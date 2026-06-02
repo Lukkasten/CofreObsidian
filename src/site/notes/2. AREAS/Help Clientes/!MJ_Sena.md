@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-23T11:27:53.592-03:00","updated":"2026-06-02T15:56:18.833-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-23T11:27:53.592-03:00","updated":"2026-06-02T15:58:40.464-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -53,7 +53,10 @@ ____
 **Modalidade:**  Online
 **Participantes:** Lucas e Marcos Sena
 **Data:**  02/06/2026
+
+Anotações da Reunião Gemini:
 [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2026/Clientes/Reunião online - Marcos Sena - G. SENA - 2026_06_02 15_21 GMT-03_00 - Anotações do Gemini\|Reunião online - Marcos Sena - G. SENA - 2026_06_02 15_21 GMT-03_00 - Anotações do Gemini]]
+
 
 ```
 📌 PAUTA DA REUNIÃO:
@@ -61,10 +64,7 @@ ____
   ├── → 
   ├── → 
   ├── → 
-  ├── → 
-  ├── → 
-  ├── → 
-  └── → 
+
 ```
 
 
@@ -74,10 +74,7 @@ ____
   ├── → 
   ├── → 
   ├── → 
-  ├── → 
-  ├── → 
-  ├── → 
-  └── → 
+ 
 
 ```
 
