@@ -15,7 +15,7 @@ CONEXÕES
 
 [[2. AREAS/Help Clientes/!Grupo_Central\|!Grupo_Central]]
 
-[[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Modelo - Checklist cadastro de cliente\|Modelo - Checklist cadastro de cliente]]
+[[Modelo - Checklist cadastro de cliente\|Modelo - Checklist cadastro de cliente]]
 
 
 

@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-03-26T15:27:05.533-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/grupo-mapin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-18T14:38:24.460-03:00","updated":"2026-06-03T09:18:08.520-03:00"}
 ---
 
 _________
+
+📌 Email autorizando a baixa enviado no dia 03/06/2026.
+
+
+
 **EMPRESAS DO GRUPO:**
 
 **[[2. AREAS/Help Clientes/!POPVIDA 18\|!POPVIDA 18]]** - Lucro Real (até a competência agosto movimento folha e fiscal na Domínio)
@@ -36,6 +41,8 @@ ____
 
 
 **HISTÓRICO**
+
+
 
 
 #### **Dia 08/09/2025**

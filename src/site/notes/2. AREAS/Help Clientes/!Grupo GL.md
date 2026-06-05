@@ -94,7 +94,7 @@ Aumentará as vendas em R$ 100.000,00
 Aumentarás as compras em R$ 64.000,00
 Adicionará nas despesas R$ 20.000,00 referente a despesa de treinamentos
 
-Foi retirado todas as bonificações e o [[2. AREAS/Help Interno/!Guilherme ACJ 11.07.2025\|!Guilherme ACJ 11.07.2025]] reclassificará com alguma conta do balanço patrimonial.
+Foi retirado todas as bonificações e o [[!Guilherme ACJ 11.07.2025\|!Guilherme ACJ 11.07.2025]] reclassificará com alguma conta do balanço patrimonial.
 ______
 
 

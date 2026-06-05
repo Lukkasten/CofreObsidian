@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-23T11:27:53.592-03:00","updated":"2026-06-02T16:01:23.037-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/help-clientes/mj-sena/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-23T11:27:53.592-03:00","updated":"2026-06-02T16:01:46.670-03:00"}
 ---
 
 ##### **ASPECTOS GERAIS:**
@@ -80,25 +80,6 @@ ____
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

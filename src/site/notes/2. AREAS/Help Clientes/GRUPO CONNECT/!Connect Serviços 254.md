@@ -102,7 +102,7 @@ ____
 
 🟢 15/10/2025 Gerar o DAE para autenticação do Balanço Ano 2024
 🟢 15/10/2025 Enviar junto com o DAE o Balanço Patrimonial, e DRE Atualizado Ano 2024
-🟢 23/09/2025 Simulação da Projeção do Trimestre Ano 2025. [[2. AREAS/Help Interno/!Brayann ACJ - 07.04.2025\|!Brayann ACJ - 07.04.2025]] está fazendo o preenchimento.
+🟢 23/09/2025 Simulação da Projeção do Trimestre Ano 2025. [[!Brayann ACJ - 07.04.2025\|!Brayann ACJ - 07.04.2025]] está fazendo o preenchimento.
 
 
 

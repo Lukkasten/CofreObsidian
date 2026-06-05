@@ -45,9 +45,9 @@ Anotações do Gemini:
 
 **🟩 Repassado para a equipe:**
 
-Repassado para a [[2. AREAS/Help Interno/!Roberta\|!Roberta]] na sala de reunião individual no dia 06/05/2026, o foco principal foi as alterações a serem feitas na DRE, prolabore, etc.
+Repassado para a [[!Roberta\|!Roberta]] na sala de reunião individual no dia 06/05/2026, o foco principal foi as alterações a serem feitas na DRE, prolabore, etc.
 
-A [[2. AREAS/Help Interno/!Roberta\|!Roberta]] vai fazer as devidas alterações conforme DRE abaixo:
+A [[!Roberta\|!Roberta]] vai fazer as devidas alterações conforme DRE abaixo:
 
 [[D Cariri - Análise Vertical do D. R. E. 1º trimestre ano 2026.pdf]]
 [[Farmacia Viana - Análise Vertical do D. R. E. 1º trimestre ano 2026.pdf]]

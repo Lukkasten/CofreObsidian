@@ -4,7 +4,7 @@
 
 **ASPECTOS GERAIS:**
 
-[[2. AREAS/Help Interno/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
+[[2. AREAS/Help Clientes/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
 [[2. AREAS/Help Clientes/!AG da Silva Neto\|!AG da Silva Neto]]
 
 

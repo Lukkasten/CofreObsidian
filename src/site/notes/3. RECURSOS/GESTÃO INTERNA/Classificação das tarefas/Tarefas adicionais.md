@@ -6,7 +6,7 @@
 
 SOLICITAR INFORMAÇÕES PIS E COFINS ( DEPTO FISCAL) (Analistas)
 ENVIAR CHECKLIST DE REFORÇO (Em lote via script)
-**[[3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]**
+**[[3. RECURSOS/SOCIETARIO/JUCEC/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]**
     1) Enviar DAES para email do cliente (utilizar emails anteriores como modelo);
     2) Emitir Demonstrações Contábeis (Incluir Balanço, DRE, Indicadores, DFC, DMPL, Notas Explicativas);
     3) Enviar email para o cliente, (anexar as Demonstrações Contábeis no email) solicitando autorização para autenticação na JUCEC ( utilizar emails anteriores como modelo)

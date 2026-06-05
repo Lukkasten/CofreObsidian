@@ -20,6 +20,6 @@ Tarefas no Onvio - Geradas
 
 **Conexões:**
 
-[[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Modelo - Checklist cadastro de cliente\|Modelo - Checklist cadastro de cliente]]
+[[Modelo - Checklist cadastro de cliente\|Modelo - Checklist cadastro de cliente]]
 [[2. AREAS/Help Clientes/!Com. Varej. de Med. Farm. Central Ltda 378\|!Com. Varej. de Med. Farm. Central Ltda 378]]
 [[2. AREAS/Help Clientes/!Grupo_Central\|!Grupo_Central]]

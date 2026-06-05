@@ -26,7 +26,7 @@
 **ANALISTA CONTÁBIL**
 
 - Orientar e prestar suporte a equipe, em particular quanto a demandas de clientes, dúvidas legais e problemas em sistemas internos e externos
-- [[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Direcionar emails recebidos\|Direcionar emails recebidos]]
+- [[Direcionar emails recebidos\|Direcionar emails recebidos]]
 - [[Conduzir reunião de apresentação junto ao cliente\|Conduzir reunião de apresentação junto ao cliente]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Apuração do Lucro Real Trimestral Domínio Lalur\|Apuração do Lucro Real Trimestral Domínio Lalur]]
 -  [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/Apuração do lucro real mensal domínio Lalur\|Apuração do lucro real mensal domínio Lalur]]
@@ -38,7 +38,7 @@
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/ECD E ECF\|ECD E ECF]]
 - [[3. RECURSOS/GESTÃO INTERNA/Padrão - Tarefas/IBGE\|IBGE]]
 - [[Autenticar Livro Diário - JUCEC\|Autenticar Livro Diário - JUCEC]]
-- [[3. RECURSOS/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
+- [[3. RECURSOS/SOCIETARIO/JUCEC/Autenticar balanço Patrimonial - JUCEC\|Autenticar balanço Patrimonial - JUCEC]]
 
 
 **SUPERVISOR CONTÁBIL**

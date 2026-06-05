@@ -6,7 +6,7 @@
 ___
 
 [[2. AREAS/Help Clientes/!Grupo_Gomes\|!Grupo_Gomes]]
-[[2. AREAS/Help Interno/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
+[[2. AREAS/Help Clientes/!Drogaria Gomes & Paixão Ltda 256\|!Drogaria Gomes & Paixão Ltda 256]]
 
 
 

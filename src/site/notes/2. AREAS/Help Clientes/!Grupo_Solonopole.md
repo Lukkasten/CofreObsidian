@@ -97,7 +97,7 @@ Participantes: Kalina, Suliane, Hudson, Kalina, Lucas, Alexandre
 
 _____
 [[3. RECURSOS/GESTÃO INTERNA/Reuniões/ANO 2025/202507161300_Reunião Grupo Solonopole\|202507161300_Reunião Grupo Solonopole]]
-[[2. AREAS/Help Interno/202507091400_Reunião\|202507091400_Reunião]]
+[[202507091400_Reunião\|202507091400_Reunião]]
 
 
 ##### **HISTÓRICO DE CONVERSAS WHATS E SPARK:**

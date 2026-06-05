@@ -12,4 +12,4 @@
 
 **Conexões:**
 
-[[3. RECURSOS/GESTÃO INTERNA/Padrão - mensagens, modelos/Mensagem para conferência checklist mensal\|Mensagem para conferência checklist mensal]]
+[[Mensagem para conferência checklist mensal\|Mensagem para conferência checklist mensal]]

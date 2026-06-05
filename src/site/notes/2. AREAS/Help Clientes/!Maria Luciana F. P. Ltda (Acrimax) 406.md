@@ -95,7 +95,7 @@ ___
 	Preciso ir puxando os possíveis créditos de lá pra cá
 
 
-[[2. AREAS/Help Interno/!Samara Peixe\|!Samara Peixe]]
+[[!Samara Peixe\|!Samara Peixe]]
 
 
 

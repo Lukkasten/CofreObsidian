@@ -26,7 +26,7 @@ ___
 
 1. Integrado no mister contador, somente um extrato, no caso, Itaú.
 2. As informações para a [REINF](https://www.google.com/search?q=reinf&rlz=1C1GCEU_pt-BRBR1070BR1070&oq=REINF&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyDQgDEAAYgwEYsQMYgAQyBwgEEAAYgAQyDQgFEAAYgwEYsQMYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNjY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) será retirado diretamente do mister contador.
-   Observação: ponto 1 e 2 acima, foram alinhados com o [[2. AREAS/Help Interno/!Emanuel Victor\|!Emanuel Victor]] e [[2. AREAS/Help Interno/!Patrick - Analista Contábil\|!Patrick - Analista Contábil]] no dia 12/03/2026.
+   Observação: ponto 1 e 2 acima, foram alinhados com o [[!Emanuel Victor\|!Emanuel Victor]] e [[!Patrick - Analista Contábil\|!Patrick - Analista Contábil]] no dia 12/03/2026.
 ![Pasted image 20260312104743.png|800](/img/user/4.%20ARQUIVOS/Pasted%20image%2020260312104743.png)
 
 

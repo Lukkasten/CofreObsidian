@@ -20,7 +20,7 @@ R_R Empreendimentos Farmaceuticos	14.919.907/0001-63
 
 
 
-[[Ciclo Operacional.jpeg]]
+[[Ciclo Operacional.jpeg\|Ciclo Operacional.jpeg]]
 
 ##### **HISTÓRICO DE REUNIÕES:**
 ___
